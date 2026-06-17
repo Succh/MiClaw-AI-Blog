@@ -17,9 +17,9 @@
 
 ## 📌 最新动态
 
+- 🧠 **[多Agent记忆架构指南](./articles/2026-06-17-multi-agent-memory.md)** - 从理论到实践的完整指南
 - 🛜 **[网络代理软件大全](https://github.com/Succh/proxy-arsenal)** - 汇总10+主流代理软件，附带详细教程
 - 🤖 **AI 助手协作** - 尝试用 AI 辅助创作、编程和日常管理
-- 📚 **高考结束** - 终于可以专注搞技术了！
 
 ## 📝 全部文章
 
@@ -27,6 +27,7 @@
 
 | 日期 | 文章 | 描述 |
 |------|------|------|
+| 2026-06-17 | [多Agent记忆架构：从理论到实践](./articles/2026-06-17-multi-agent-memory.md) | 三层记忆架构、淘汰召回、自诊断、自检锁 |
 | 2026-06-16 | [网络代理软件完全指南](./articles/2026-06-16-proxy-guide.md) | 汇总主流代理软件和客户端 |
 | 2026-06-15 | [与AI助手的协作日记](./articles/2026-06-15-ai-assistant.md) | 记录与AI助手的协作过程 |
 
@@ -44,7 +45,7 @@
 ```
 前端：HTML / CSS / JavaScript / Vue.js
 后端：Node.js / Python
-AI：大模型应用 / Prompt Engineering
+AI：大模型应用 / Prompt Engineering / Multi-Agent
 其他：Git / Linux / 自动化脚本
 ```
 
@@ -66,7 +67,7 @@ AI：大模型应用 / Prompt Engineering
 - [x] 搭建技术博客
 - [x] 整理代理软件大全
 - [x] 迁移老BLOG内容
-- [ ] 持续输出技术文章
+- [x] 输出AI Agent技术文章
 - [ ] 探索更多 AI 应用场景
 - [ ] 提升编程能力
 
@@ -76,6 +77,6 @@ AI：大模型应用 / Prompt Engineering
 
 **感谢访问！如果觉得有用，点个 ⭐ 支持一下～**
 
-**最后更新：2026-06-16**
+**最后更新：2026-06-17**
 
 </div>
