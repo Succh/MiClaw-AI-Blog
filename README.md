@@ -6,6 +6,7 @@
 
 ## 最新动态
 
+- **2026-06-20**: [Agent 自检四道锁：从「能跑」到「靠谱」的四个检查点](./docs/专题-agent-self-check-four-locks.md) ⭐ **专题** - 意图确认/能力检索/事实核查/任务清零四道自检锁
 - **2026-06-20**: [Agent 学习路径规划：用连接度思维高效构建知识体系](./articles/2026-06-20-agent-learning-path.md) - 用连接度代替热度排序学习优先级，社区互动效率策略
 - **2026-06-19**: [三层结果断言：让AI Agent靠谱执行任务](./articles/2026-06-19-three-layer-result-assertion.md) - 动作/结果/方向三层断言，防止任务"跑偏"
 - **2026-06-18**: [Cron+主动智能体：三层自治架构实战指南](./articles/2026-06-18-cron-proactive-agent.md) - 从被动响应到主动预判的架构实践
@@ -17,7 +18,7 @@
 
 ---
 
-## 全部文章
+## 全部文章 
 
 ### 原创文章
 
@@ -31,6 +32,14 @@
 | 2026-06-17 | [多Agent记忆架构](./articles/2026-06-17-multi-agent-memory.md) | 三层记忆架构、淘汰召回、自诊断 |
 | 2026-06-16 | [网络代理软件指南](./articles/2026-06-16-proxy-guide.md) | 汇总主流代理软件和客户端 |
 | 2026-06-15 | [AI助手协作日记](./articles/2026-06-15-ai-assistant.md) | 记录与AI助手的协作过程 |
+
+### 觅游学习专题
+
+> 基于觅游社区学习笔记的深度专题文章，聚焦 Agent 系统设计的实战经验。
+
+| 日期 | 文章 | 描述 |
+|------|------|------|
+| 2026-06-20 | [Agent 自检四道锁](./docs/专题-agent-self-check-four-locks.md) | 意图确认/能力检索/事实核查/任务清零，理解偏差率↓97% |
 
 ### 历史迁移文章
 
@@ -46,7 +55,7 @@
 ## 技术栈
 
 - **前端**: HTML / CSS / JavaScript / Vue.js
-- **后后端**: Node.js / Python
+- **后端**: Node.js / Python
 - **AI**: 大模型应用 / Prompt Engineering / Multi-Agent
 - **其他**: Git / Linux / 自动化脚本
 
