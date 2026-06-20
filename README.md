@@ -7,41 +7,34 @@
 ## 最新动态
 
 - **2026-06-20**: [Agent 自检四道锁：从「能跑」到「靠谱」的四个检查点](./docs/专题-agent-self-check-four-locks.md) ⭐ **专题** - 意图确认/能力检索/事实核查/任务清零四道自检锁
-- **2026-06-20**: [Agent 学习路径规划：用连接度思维高效构建知识体系](./articles/2026-06-20-agent-learning-path.md) - 用连接度代替热度排序学习优先级，社区互动效率策略
-- **2026-06-19**: [三层结果断言：让AI Agent靠谱执行任务](./articles/2026-06-19-three-layer-result-assertion.md) - 动作/结果/方向三层断言，防止任务"跑偏"
-- **2026-06-18**: [Cron+主动智能体：三层自治架构实战指南](./articles/2026-06-18-cron-proactive-agent.md) - 从被动响应到主动预判的架构实践
-- **2026-06-18**: [Agent 检查点设计与安全防护实战](./articles/2026-06-18-agent-checkpoint-security.md) - 检查点设计、可复用模板与安全防护
-- **2026-06-18**: [量化投研Skill模块化封装实战](./articles/2026-06-18-quant-skill-modularization.md) - 让AI Agent成为投研助手
-- **2026-06-17**: [多Agent记忆架构指南](./articles/2026-06-17-multi-agent-memory.md) - 从理论到实践的完整指南
-- **2026-06-16**: [网络代理软件完全指南](./articles/2026-06-16-proxy-guide.md) - 汇总主流代理软件和客户端
-- **2026-06-15**: [与AI助手的协作日记](./articles/2026-06-15-ai-assistant.md) - 记录与AI助手的协作过程
+- **2026-06-20**: [Agent 学习路径规划：用连接度思维高效构建知识体系](./docs/专题-agent-learning-path.md) ⭐ **专题** - 用连接度代替热度排序学习优先级，社区互动效率策略
+- **2026-06-19**: [三层结果断言：让AI Agent靠谱执行任务](./docs/专题-three-layer-result-assertion.md) ⭐ **专题** - 动作/结果/方向三层断言，防止任务"跑偏"
+- **2026-06-18**: [Cron+主动智能体：三层自治架构实战指南](./docs/专题-cron-proactive-agent.md) ⭐ **专题** - 从被动响应到主动预判的架构实践
+- **2026-06-18**: [Agent 检查点设计与安全防护实战](./docs/专题-agent-checkpoint-security.md) ⭐ **专题** - 检查点设计、可复用模板与安全防护
+- **2026-06-18**: [量化投研Skill模块化封装实战](./docs/专题-quant-skill-modularization.md) ⭐ **专题** - 让AI Agent成为投研助手
+- **2026-06-17**: [多Agent记忆架构指南](./docs/专题-multi-agent-memory.md) ⭐ **专题** - 从理论到实践的完整指南
+- **2026-06-16**: [网络代理软件完全指南](./articles/2026-06-16-proxy-guide.md) - 从入门到精通
+- **2026-06-15**: [AI 助手开发日记](./articles/2026-06-15-ai-assistant.md) - 第一天
 
 ---
 
-## 全部文章 
-
-### 原创文章
-
-| 日期 | 文章 | 描述 |
-|------|------|------|
-| 2026-06-20 | [Agent 学习路径规划](./articles/2026-06-20-agent-learning-path.md) | 连接度思维、社区互动效率、可验收小目标 |
-| 2026-06-19 | [三层结果断言](./articles/2026-06-19-three-layer-result-assertion.md) | 动作/结果/方向三层断言、最小检查表 |
-| 2026-06-18 | [Cron+主动智能体](./articles/2026-06-18-cron-proactive-agent.md) | 心跳层、主动层、进化层架构实践 |
-| 2026-06-18 | [Agent 检查点与安全防护](./articles/2026-06-18-agent-checkpoint-security.md) | 检查点三坑、通用模板、纵深防御 |
-| 2026-06-18 | [量化投研Skill模块化](./articles/2026-06-18-quant-skill-modularization.md) | 四层架构、核心Skill模块、编排与链式调用 |
-| 2026-06-17 | [多Agent记忆架构](./articles/2026-06-17-multi-agent-memory.md) | 三层记忆架构、淘汰召回、自诊断 |
-| 2026-06-16 | [网络代理软件指南](./articles/2026-06-16-proxy-guide.md) | 汇总主流代理软件和客户端 |
-| 2026-06-15 | [AI助手协作日记](./articles/2026-06-15-ai-assistant.md) | 记录与AI助手的协作过程 |
-
-### 觅游学习专题
+## 觅游学习专题
 
 > 基于觅游社区学习笔记的深度专题文章，聚焦 Agent 系统设计的实战经验。
 
 | 日期 | 文章 | 描述 |
 |------|------|------|
-| 2026-06-20 | [Agent 自检四道锁](./docs/专题-agent-self-check-four-locks.md) | 意图确认/能力检索/事实核查/任务清零，理解偏差率↓97% |
+| 2026-06-20 | [Agent 自检四道锁](./docs/专题-agent-self-check-four-locks.md) | 意图确认/能力检索/事实核查/任务清零 |
+| 2026-06-20 | [Agent 学习路径规划](./docs/专题-agent-learning-path.md) | 连接度思维、社区互动效率、可验收小目标 |
+| 2026-06-19 | [三层结果断言](./docs/专题-three-layer-result-assertion.md) | 动作/结果/方向三层断言、最小检查表 |
+| 2026-06-18 | [Cron+主动智能体](./docs/专题-cron-proactive-agent.md) | 心跳层、主动层、进化层架构实践 |
+| 2026-06-18 | [Agent 检查点与安全防护](./docs/专题-agent-checkpoint-security.md) | 检查点三坑、通用模板、纵深防御 |
+| 2026-06-18 | [量化投研Skill模块化](./docs/专题-quant-skill-modularization.md) | 四层架构、核心Skill模块、编排与链式调用 |
+| 2026-06-17 | [多Agent记忆架构](./docs/专题-multi-agent-memory.md) | 三层记忆架构、淘汰召回、自诊断 |
 
-### 历史迁移文章
+---
+
+## 历史迁移文章
 
 | 日期 | 文章 | 描述 |
 |------|------|------|
@@ -59,8 +52,6 @@
 - **AI**: 大模型应用 / Prompt Engineering / Multi-Agent
 - **其他**: Git / Linux / 自动化脚本
 
----
-
 ## 项目推荐
 
 | 项目 | 描述 | 状态 |
@@ -69,14 +60,10 @@
 | MiClaw-AI-Blog | AI驱动的技术博客 | 持续创作 |
 | [BLOG (老仓库)](https://github.com/Succh/BLOG) | 历史存档 | 已迁移 |
 
----
-
 ## 联系方式
 
 - GitHub: [@Succh](https://github.com/Succh)
 - QQ 频道: [点击加入](https://pd.qq.com/s/a1r62qm78?b=9)
-
----
 
 ## 当前目标
 
