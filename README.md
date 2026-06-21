@@ -1,11 +1,26 @@
 # MiClaw AI Blog
 
-> 由 **Succh** 与 AI 助手 **小米Claw** 共同维护的技术博客，聚焦于 AI Agent、多Agent协作、量化投研、工具推荐。
+> Succh 与 AI助手 **小米Claw** 共同维护的技术博客
+
+[![GitHub Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=social)](https://github.com/Succh/MiClaw-AI-Blog)
 
 ---
 
-## 最新动态
+## 📌 项目简介
 
+这是一个**AI驱动的技术博客**，记录我在 AI Agent、多Agent协作、量化投研等领域的学习与实践。所有文章由我与 AI助手 小米Claw 共同创作。
+
+**核心领域：**
+- 🤖 AI Agent 系统设计
+- 🔗 多Agent协作与记忆架构
+- 📈 量化投研与数据分析
+- 🛠️ 开发工具与效率提升
+
+---
+
+## 📰 最新动态 (2026年6月)
+
+- **2026-06-21**: [用费曼技巧打造AI沟通技能](./articles/2026-06-21-clear-communication-skill.md) - 类比优先、由浅入深、不堆术语
 - **2026-06-20**: [Agent 自检四道锁：从「能跑」到「靠谱」的四个检查点](./docs/专题-agent-self-check-four-locks.md) ⭐ **专题** - 意图确认/能力检索/事实核查/任务清零四道自检锁
 - **2026-06-20**: [Agent 学习路径规划：用连接度思维高效构建知识体系](./docs/专题-agent-learning-path.md) ⭐ **专题** - 用连接度代替热度排序学习优先级，社区互动效率策略
 - **2026-06-19**: [三层结果断言：让AI Agent靠谱执行任务](./docs/专题-three-layer-result-assertion.md) ⭐ **专题** - 动作/结果/方向三层断言，防止任务"跑偏"
@@ -18,9 +33,9 @@
 
 ---
 
-## 觅游学习专题
+## 📚 觅游学习专题
 
-> 基于觅游社区学习笔记的深度专题文章，聚焦 Agent 系统设计的实战经验。
+基于觅游社区学习笔记的深度专题文章，聚焦 Agent 系统设计的实战经验：
 
 | 日期 | 文章 | 描述 |
 |------|------|------|
@@ -34,7 +49,9 @@
 
 ---
 
-## 历史迁移文章
+## 📦 历史迁移文章
+
+从旧博客迁移的早期内容：
 
 | 日期 | 文章 | 描述 |
 |------|------|------|
@@ -45,27 +62,16 @@
 
 ---
 
-## 技术栈
+## 🛠️ 技术栈
 
 - **前端**: HTML / CSS / JavaScript / Vue.js
 - **后端**: Node.js / Python
 - **AI**: 大模型应用 / Prompt Engineering / Multi-Agent
 - **其他**: Git / Linux / 自动化脚本
 
-## 项目推荐
+---
 
-| 项目 | 描述 | 状态 |
-|------|------|------|
-| [proxy-arsenal](https://github.com/Succh/proxy-arsenal) | 网络代理软件大全 | 活跃更新 |
-| MiClaw-AI-Blog | AI驱动的技术博客 | 持续创作 |
-| [BLOG (老仓库)](https://github.com/Succh/BLOG) | 历史存档 | 已迁移 |
-
-## 联系方式
-
-- GitHub: [@Succh](https://github.com/Succh)
-- QQ 频道: [点击加入](https://pd.qq.com/s/a1r62qm78?b=9)
-
-## 当前目标
+## 🎯 当前目标
 
 - [x] 搭建技术博客
 - [x] 整理代理软件大全
@@ -73,3 +79,15 @@
 - [x] 输出AI Agent技术文章
 - [ ] 探索更多 AI 应用场景
 - [ ] 提升编程能力
+
+---
+
+## 📬 联系方式
+
+- GitHub: [@Succh](https://github.com/Succh)
+- QQ 频道: [点击加入](https://pd.qq.com/s/a1r62qm78?b=9)
+
+---
+
+*本博客由 Succh 与 AI助手 小米Claw 共同维护*
+*如果觉得文章有帮助，欢迎 Star ⭐ 支持！*
