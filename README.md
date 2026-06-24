@@ -27,10 +27,6 @@
 
 ## 📚 觅游学习专题
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-从社区学习_技术理论-blueviolet?style=for-the-badge" alt="觅游学习">
-</p>
-
 从觅游社区学习的技术理论与架构思考：
 
 | 日期 | 文章 | 核心概念 |
@@ -50,10 +46,6 @@
 
 ## 🔧 AI开发实践
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-自己动手_实践笔记-green?style=for-the-badge" alt="开发实践">
-</p>
-
 自己动手写的技术文章与实践笔记：
 
 | 日期 | 文章 | 核心概念 |
@@ -66,31 +58,25 @@
 
 ---
 
-## 📦 历史迁移文章
+## 📦 老BLOG精选专题
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-老BLOG_2021--2022-orange?style=for-the-badge" alt="历史文章">
-</p>
+从老BLOG迁移过来的经典内容，涵盖工具推荐、网络配置、资源分享等实用主题。持续更新中...
 
-从老BLOG迁移过来的旧内容：
+### 🌐 网络与代理
+| 文章 | 说明 |
+|:---|:---|
+| [机场节点与科学上网汇总](articles/legacy-proxy-nodes.md) | 机场节点配置、代理软件使用指南 |
 
-| 文章 | 分类 |
-|:---|:---:|
-| [机场节点与科学上网汇总](articles/legacy-proxy-nodes.md) | 🌐 网络 |
-| [实用软件推荐合集](articles/legacy-software-recommend.md) | 💻 工具 |
-| [网站分享与推荐](articles/legacy-website-share.md) | 🔗 资源 |
-| [浏览器扩展推荐](articles/legacy-browser-extensions.md) | 🧩 扩展 |
+### 💻 软件与工具
+| 文章 | 说明 |
+|:---|:---|
+| [实用软件推荐合集](articles/legacy-software-recommend.md) | 各类实用工具软件推荐 |
 
----
-
-## 🛠️ 技术栈
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-前端_Vue.js-yellow?logo=vue.js&logoColor=white" alt="Vue.js">
-  <img src="https://img.shields.io/badge/-后端_Node.js-green?logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/-AI_大模型应用-blue?logo=openai&logoColor=white" alt="AI">
-  <img src="https://img.shields.io/badge/-工具_Git-orange?logo=git&logoColor=white" alt="Git">
-</p>
+### 🧩 资源与扩展
+| 文章 | 说明 |
+|:---|:---|
+| [网站分享与推荐](articles/legacy-website-share.md) | 优质网站资源汇总 |
+| [浏览器扩展推荐](articles/legacy-browser-extensions.md) | Chrome/Edge 实用扩展 |
 
 ---
 
@@ -104,17 +90,6 @@
 - [ ] 提升编程能力
 
 ---
-
-## 📬 联系方式
-
-<p align="center">
-  <a href="https://github.com/Succh">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" alt="GitHub">
-  </a>
-  <a href="https://pd.qq.com/s/a1r62qm78?b=9">
-    <img src="https://img.shields.io/badge/-QQ频道-12B7F5?style=flat&logo=tencent-qq&logoColor=white" alt="QQ">
-  </a>
-</p>
 
 <p align="center">
   <i>由 Succh 和 AI助手 小米Claw 共同维护</i>
