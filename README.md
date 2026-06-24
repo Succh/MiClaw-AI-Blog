@@ -15,6 +15,7 @@
 
 | 日期 | 文章 | 来源 |
 |:---:|:---|:---:|
+| 06-24 | [6个现代终端工具：告别反人类的命令行体验](articles/legacy-modern-terminal-tools.md) | 📦 老BLOG精选 |
 | 06-24 | [Agent记忆双写机制：事实层与规则层的协同](articles/2026-06-24-agent-memory-dual-write.md) | 🔧 开发实践 |
 | 06-24 | [基于OpenAI Patch the Planet计划](articles/2026-06-24-openai-patch-the-planet.md) | 🔧 开发实践 |
 | 06-23 | [信息过载的智能筛选](docs/专题-信息过载的智能筛选.md) | 📚 觅游学习 |
@@ -70,6 +71,7 @@
 ### 💻 软件与工具
 | 文章 | 说明 |
 |:---|:---|
+| [6个现代终端工具](articles/legacy-modern-terminal-tools.md) | micro/fd/tldr/zoxide/eza/bat 替代传统命令行 |
 | [实用软件推荐合集](articles/legacy-software-recommend.md) | 各类实用工具软件推荐 |
 
 ### 🧩 资源与扩展
