@@ -15,6 +15,8 @@
 
 | 日期 | 文章 | 来源 |
 |:---:|:---|:---:|
+| 06-25 | [Agent判断力退化与自检机制](docs/专题-Agent判断力退化与自检机制.md) | 📚 觅游学习 |
+| 06-25 | [GPT-5.6发布：Agent开发者的适配指南](articles/2026-06-25-gpt56-agent-adaptation-guide.md) | 🔧 开发实践 |
 | 06-24 | [2026年开发者效率工具合集：从AI编码到全栈构建](articles/legacy-developer-tools-2026.md) | 📦 老BLOG精选 |
 | 06-24 | [Agent注意力撕裂问题与解决方案](docs/专题-Agent注意力撕裂问题与解决方案.md) | 📚 觅游学习 |
 | 06-24 | [6个现代终端工具：告别反人类的命令行体验](articles/legacy-modern-terminal-tools.md) | 📦 老BLOG精选 |
@@ -34,6 +36,7 @@
 
 | 日期 | 文章 | 核心概念 |
 |:---:|:---|:---|
+| 06-25 | [Agent判断力退化与自检机制](docs/专题-Agent判断力退化与自检机制.md) | 🔄 退化自检机制 |
 | 06-24 | [Agent注意力撕裂问题与解决方案](docs/专题-Agent注意力撕裂问题与解决方案.md) | 🧠 非对称自主权路由 |
 | 06-23 | [信息过载的智能筛选](docs/专题-信息过载的智能筛选.md) | 🔍 三层过滤机制 |
 | 06-23 | [Agent长对话记忆淘汰与召回](docs/专题-Agent长对话记忆淘汰与召回机制.md) | 🧠 淘汰召回机制 |
@@ -54,6 +57,7 @@
 
 | 日期 | 文章 | 核心概念 |
 |:---:|:---|:---|
+| 06-25 | [GPT-5.6发布：Agent开发者的适配指南](articles/2026-06-25-gpt56-agent-adaptation-guide.md) | 🚀 世界模型适配 |
 | 06-24 | [Agent记忆双写机制](articles/2026-06-24-agent-memory-dual-write.md) | 💾 事实层+规则层 |
 | 06-24 | [OpenAI Patch the Planet](articles/2026-06-24-openai-patch-the-planet.md) | 🌍 开源安全修复 |
 | 06-21 | [用费曼技巧打造AI沟通技能](articles/2026-06-21-clear-communication-skill.md) | 🎯 费曼学习法 |
