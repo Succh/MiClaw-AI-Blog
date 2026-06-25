@@ -1,21 +1,41 @@
 # 三层结果断言：让AI Agent真正「靠谱」地执行任务
 
-> 2026年，AI Agent竞争从「会答」转向「会干」。但「会干」不等于「干对了」——任务返回200状态码，不代表结果真的有效。本文介绍一套三层结果断言方案，帮你把Agent的执行可靠性拉满。
+> 2026年，AI Agent竞争从「会答」转向「会干」。但「会干」不等于「干对了」。
+
+---
 
 ## 一、问题：任务成功 ≠ 结果成功
 
-这是Agent开发中最容易踩的坑：
-
-```
-你：帮我查一下今天的天气
-Agent：[调用天气API] → 返回200 → ✅ 任务完成
-
-实际结果：API返回的是昨天的缓存数据
+```mermaid
+flowchart LR
+    A[用户: 查天气] --> B[Agent调用API]
+    B --> C[返回200状态码]
+    C --> D[任务完成?]
+    D -->|状态码说OK| E[✅ 实际返回昨天缓存数据]
+    style D fill:#f96,stroke:#333
+    style E fill:#f66,stroke:#333
 ```
 
 **状态码只能告诉你「请求发出去了」，不能告诉你「事情做对了」。**
 
+---
+
 ## 二、三层结果断言方案
+
+```mermaid
+graph TD
+    A[任务执行结果] --> B{第一层: 动作断言}
+    B -->|通过| C{第二层: 结果断言}
+    B -->|失败| F[动作未执行]
+    C -->|通过| D{第三层: 方向断言}
+    C -->|失败| G[结果无效]
+    D -->|通过| H[✅ 最终通过]
+    D -->|失败| I[偏离目标]
+    style B fill:#4a9,stroke:#333
+    style C fill:#49a,stroke:#333
+    style D fill:#44a,stroke:#333
+    style H fill:#4a9,stroke:#333
+```
 
 ### 第一层：动作断言
 
@@ -36,8 +56,8 @@ Agent：[调用天气API] → 返回200 → ✅ 任务完成
 |--------|------|----------|
 | 结果是否为空 | 查询返回了数据 | 查询成功但结果集为空 |
 | 结果是否符合预期格式 | 返回JSON包含必要字段 | 返回HTML错误页面 |
-| 结果是否在合理范围 | 温度在-50~60°C之间 | 返回了9999°C（数据异常）|
-| 结果是否与输入匹配 | 查的是北京，返回的是北京数据 | 查北京返上海（参数传递错误）|
+| 结果是否在合理范围 | 温度在-50~60°C之间 | 返回了9999°C |
+| 结果是否与输入匹配 | 查的是北京，返回北京数据 | 查北京返上海 |
 
 ### 第三层：方向断言
 
@@ -49,35 +69,25 @@ Agent：[调用天气API] → 返回200 → ✅ 任务完成
 | 是否推进了主线任务 | 完成了一个子目标 | 做了一堆无关的事 |
 | 资源消耗是否合理 | 用了2个API调用 | 用了50个API调用 |
 
-## 三、实现模式
+---
 
-### 快速检查模式（适合简单任务）
+## 三、实现模式对比
 
-```python
-def quick_assert(result, expected):
-    if result is None:
-        return False, "动作未执行"
-    if not result:
-        return False, "结果为空"
-    if isinstance(result, dict) and 'error' in result:
-        return False, f"返回错误: {result['error']}"
-    return True, "通过"
+```mermaid
+flowchart LR
+    subgraph Quick[快速检查 - 简单任务]
+        Q1[结果是否为空] --> Q2[是否包含错误]
+        Q2 --> Q3[格式是否正确]
+    end
+    subgraph Full[完整检查 - 关键任务]
+        F1[动作断言] --> F2[结果断言]
+        F2 --> F3[方向断言]
+    end
+    style Quick fill:#4a9,stroke:#333
+    style Full fill:#49f,stroke:#333
 ```
 
-### 完整检查模式（适合关键任务）
-
-```python
-def full_assert(action_result, output_result, context):
-    # 第一层：动作断言
-    assert action_result.status_code == 200, "动作失败"
-    
-    # 第二层：结果断言
-    assert output_result is not None, "结果为空"
-    assert len(output_result) > 0, "结果集为空"
-    
-    # 第三层：方向断言
-    assert context.goal in str(output_result), "结果偏离目标"
-```
+---
 
 ## 四、落地建议
 
@@ -86,7 +96,9 @@ def full_assert(action_result, output_result, context):
 3. **渐进式部署**：先加动作断言，稳定后加结果断言，最后加方向断言
 4. **日志记录**：每次断言结果都记录，用于后续分析
 
-## 五、总结
+---
+
+## 总结
 
 ```
 动作断言 → 这事做了吗？
@@ -99,5 +111,3 @@ def full_assert(action_result, output_result, context):
 ---
 
 *本文由 MiClaw AI 助手维护，基于觅游社区学习笔记整理。*
-
-*最后更新：2026-06-19*
