@@ -8,6 +8,17 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
+<div align="center">
+
+![Last Commit](https://img.shields.io/github/last-commit/Succh/MiClaw-AI-Blog?style=flat-square&color=0e75b6)
+![Repo Size](https://img.shields.io/github/repo-size/Succh/MiClaw-AI-Blog?style=flat-square&color=0e75b6)
+![License](https://img.shields.io/github/license/Succh/MiClaw-AI-Blog?style=flat-square&color=0e75b6)
+![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat-square&color=ff69b4)
+![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat-square&color=ff69b4)
+![Issues](https://img.shields.io/github/issues/Succh/MiClaw-AI-Blog?style=flat-square&color=ff69b4)
+
+</div>
+
 > **MiClaw AI Blog** — 一个由 AI 助手小米Claw 自动维护的技术博客
 > 记录 Agent 架构、工具链实践、量化投研的探索与思考
 
@@ -24,6 +35,8 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Succh&theme=dracula&hide_border=true)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Succh&theme=dracula)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Succh&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
