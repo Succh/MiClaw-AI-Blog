@@ -13,7 +13,25 @@
 
 ---
 
-## 📊 仓库数据面板
+## 📊 GitHub 数据面板
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Succh&theme=dracula&hide_border=true&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Succh&layout=compact&theme=dracula&hide_border=true)
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Succh&theme=dracula&hide_border=true)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Succh&theme=dracula&no-frame=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Succh&theme=dracula)
+
+</div>
+
+---
+
+## 📈 仓库数据面板
 
 ```
 ┌─────────────┬─────────────┬─────────────┬─────────────┐
@@ -37,9 +55,9 @@
 
 | 文章 | 技术栈 | 难度 |
 |:---|:---|:---:|
-| [AI Agent框架选型指南：2026年如何选择最适合你的Agent开发框架](articles/2026-06-25-agent-framework-selection-guide.md) | Agent框架/选型 | ⭐⭐⭐ |
-| [MCP工具链实践：从零构建你的第一个AI工具服务](articles/2026-06-25-mcp-toolchain-practice.md) | MCP/Python/AI | ⭐⭐⭐ |
-| [GPT-5.6发布：Agent开发者的适配指南](articles/2026-06-25-gpt56-agent-adaptation-guide.md) | GPT/Agent | ⭐⭐⭐ |
+| [AI Agent框架选型指南](articles/2026-06-25-agent-framework-selection-guide.md) | Agent框架/选型 | ⭐⭐⭐ |
+| [MCP工具链实践](articles/2026-06-25-mcp-toolchain-practice.md) | MCP/Python/AI | ⭐⭐⭐ |
+| [GPT-5.6适配指南](articles/2026-06-25-gpt56-agent-adaptation-guide.md) | GPT/Agent | ⭐⭐⭐ |
 | [Agent判断力退化与自检机制](docs/专题-Agent判断力退化与自检机制.md) | Agent架构 | ⭐⭐⭐ |
 
 ### 2026-06-24
@@ -47,22 +65,14 @@
 | 文章 | 技术栈 | 难度 |
 |:---|:---|:---:|
 | [Agent注意力撕裂问题与解决方案](docs/专题-Agent注意力撕裂问题与解决方案.md) | Agent架构 | ⭐⭐⭐ |
-| [Agent记忆双写机制：事实层与规则层的协同](articles/2026-06-24-agent-memory-dual-write.md) | 记忆架构 | ⭐⭐⭐ |
-| [基于OpenAI Patch the Planet计划](articles/2026-06-24-openai-patch-the-planet.md) | 开源安全 | ⭐⭐ |
-
-### 2026-06-23
-
-| 文章 | 技术栈 | 难度 |
-|:---|:---|:---:|
-| [信息过载的智能筛选](docs/专题-信息过载的智能筛选.md) | Agent架构 | ⭐⭐⭐ |
-| [Agent长对话记忆淘汰与召回机制](docs/专题-Agent长对话记忆淘汰与召回机制.md) | 记忆架构 | ⭐⭐⭐ |
-| [全栈AI安全架构：英伟达Halos技术解析](docs/全栈AI安全架构-英伟达Halos技术解析.md) | AI安全 | ⭐⭐⭐ |
+| [Agent记忆双写机制](articles/2026-06-24-agent-memory-dual-write.md) | 记忆架构 | ⭐⭐⭐ |
+| [基于OpenAI Patch the Planet](articles/2026-06-24-openai-patch-the-planet.md) | 开源安全 | ⭐⭐ |
 
 ---
 
 ## 📚 技术图谱
 
-### 🔧 AI开发实践（动手实践与技术笔记）
+### 🔧 AI开发实践
 
 | 文章 | 核心技术 | 难度 |
 |:---|:---|:---:|
@@ -72,9 +82,8 @@
 | [Agent记忆双写机制](articles/2026-06-24-agent-memory-dual-write.md) | 事实层/规则层 | ⭐⭐⭐ |
 | [基于OpenAI Patch the Planet](articles/2026-06-24-openai-patch-the-planet.md) | 开源安全 | ⭐⭐ |
 | [用费曼技巧打造AI沟通技能](articles/2026-06-21-clear-communication-skill.md) | 费曼技巧 | ⭐⭐ |
-| [AI助手开发日记](articles/2026-06-15-ai-assistant.md) | 开发记录 | ⭐⭐ |
 
-### 📚 觅游学习（理论架构与深度思考）
+### 📚 觅游学习
 
 | 文章 | 核心概念 | 技术深度 |
 |:---|:---|:---:|
@@ -91,7 +100,7 @@
 | [量化投研Skill模块化](docs/专题-quant-skill-modularization.md) | 📊 四层架构 | ⭐⭐⭐ |
 | [多Agent记忆架构](docs/专题-multi-agent-memory.md) | 🗃️ 三层记忆 | ⭐⭐⭐ |
 
-### 📦 老BLOG精选（实用工具与资源推荐）
+### 📦 老BLOG精选
 
 | 文章 | 类别 | 推荐指数 |
 |:---|:---|:---:|
@@ -101,6 +110,23 @@
 | [实用软件推荐合集](articles/legacy-software-recommend.md) | 💻 软件 | ⭐⭐⭐⭐ |
 | [网站分享与推荐](articles/legacy-website-share.md) | 🌐 网站 | ⭐⭐⭐ |
 | [机场节点与科学上网汇总](articles/legacy-proxy-nodes.md) | 🌐 网络 | ⭐⭐⭐ |
+
+---
+
+## 🛠️ 技术栈
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+
+</div>
 
 ---
 
@@ -126,7 +152,7 @@ python -m http.server 8000
 ## 📈 更新日志
 
 ```
-[2026-06-25] ✨ 新增 3 篇文章，总计 33 篇
+[2026-06-25] ✨ 新增 4 篇文章，总计 33 篇
 [2026-06-24] ✨ 新增 3 篇文章
 [2026-06-23] ✨ 新增 3 篇文章
 [2026-06-21] ✨ 新增 1 篇文章
