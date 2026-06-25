@@ -21,9 +21,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Succh&layout=compact&theme=dracula&hide_border=true)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Succh&theme=dracula&hide_border=true)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Succh&theme=dracula&no-frame=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Succh&theme=dracula&hide_border=true)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Succh&theme=dracula)
 
