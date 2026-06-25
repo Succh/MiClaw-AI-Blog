@@ -8,7 +8,9 @@
 
 本文将深入探讨Agent长对话中的记忆管理挑战，并介绍一套经过验证的**三层记忆淘汰与召回机制**，帮助Agent在有限的上下文窗口中保持关键信息的持久性。
 
-## 问题：FIFO截断策略的弊端
+---
+
+## 一、问题：FIFO截断策略的弊端
 
 大多数AI Agent采用**先进先出（FIFO）**的截断策略来管理对话历史：当对话超过上下文窗口限制时，最早的消息会被丢弃。这种策略存在严重缺陷：
 
@@ -16,9 +18,20 @@
 - **关键约束丢失**：约35%的关键约束指令被静默挤出上下文窗口
 - **长对话性能下降**：GPT-4o（8K窗口）跑20轮以上长对话时，问题尤为突出
 
-![内存管理挑战](https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800)
+```mermaid
+graph TD
+    A[长对话开始] --> B[上下文窗口逐步填满]
+    B --> C{FIFO截断策略}
+    C --> D[早期关键信息被挤出]
+    D --> E[约35%约束指令丢失]
+    E --> F[Agent表现下降]
+    style C fill:#f96,stroke:#333
+    style E fill:#f66,stroke:#333
+```
 
-## 解决方案：三层记忆淘汰与召回
+---
+
+## 二、解决方案：三层记忆架构
 
 ### 第一层：受保护记忆区（Pinned Memory）
 
@@ -31,119 +44,124 @@
   - 已确认决策标记
 - **实现方式**：在内存中维护一个独立的保护区，优先加载
 
-```python
-# 伪代码示例
-class PinnedMemory:
-    def __init__(self, max_tokens=1200):
-        self.max_tokens = max_tokens
-        self.memories = []
-    
-    def pin(self, content, importance=1.0):
-        if self.total_tokens() + count_tokens(content) <= self.max_tokens:
-            self.memories.append({
-                'content': content,
-                'importance': importance,
-                'pinned': True
-            })
+### 第二层：重要度评分 + 时间衰减
+
+**核心思想**：为每条记忆赋予重要度评分，并随时间衰减，实现智能淘汰。
+
+- **重要度评分（importance）**：0-1之间的浮点数
+  - 用户明确约束 → 0.9-1.0
+  - 关键决策 → 0.7-0.9
+  - 普通对话 → 0.3-0.5
+- **时间衰减**：淘汰分数 = importance × e^(-0.001 × age)
+- **淘汰策略**：分数最低的记忆优先被淘汰
+
+### 第三层：语义召回（Semantic Recall）
+
+**核心思想**：被淘汰的记忆并非永久丢失，而是存入向量库，在需要时召回。
+
+- **向量库**：ChromaDB，存储被淘汰的记忆
+- **检索方式**：相似度检索，top-k=3
+- **距离阈值**：< 0.75 时触发召回
+- **召回奖励**：被召回的记忆获得 +0.2 的重要度加成
+
+```mermaid
+graph TD
+    subgraph L1[受保护记忆区]
+        A1[系统提示词] --> A2[用户核心约束]
+        A2 --> A3[已确认决策标记]
+    end
+    subgraph L2[智能淘汰层]
+        B1[importance评分 0-1] --> B2[时间衰减因子]
+        B2 --> B3[淘汰分数计算]
+        B3 --> B4{分数 < 阈值?}
+        B4 -->|是| B5[存入向量库]
+        B4 -->|否| B6[保留在窗口]
+    end
+    subgraph L3[语义召回层]
+        C1[向量库ChromaDB] --> C2[相似度检索 top-k=3]
+        C2 --> C3[距离阈值 < 0.75]
+        C3 --> C4[召回奖励 +0.2]
+    end
+    style L1 fill:#4a9,stroke:#333
+    style L2 fill:#49a,stroke:#333
+    style L3 fill:#44a,stroke:#333
 ```
 
-### 第二层：重要度评分 + 时间衰减混合淘汰
+---
 
-**淘汰分数计算公式**：
+## 三、淘汰分数计算
 
-```
-淘汰分数 = importance * exp(-0.001 * age)
-```
+淘汰分数的计算公式为：
+
+**淘汰分数 = importance × e^(-0.001 × age)**
 
 其中：
-- `importance`：重要度评分（0-1分）
-- `age`：消息年龄（轮次数）
-- `exp(-0.001 * age)`：时间衰减因子
+- `importance`：重要度评分（0-1）
+- `age`：记忆的年龄（轮次）
+- `e`：自然常数
 
-**实现要点**：
-1. 使用轻量级模型（如GPT-4o-mini）进行重要度打分
-2. 淘汰不删除，而是存入向量库（Chroma）
-3. 重要度评分基于内容类型、关键词、用户关注度等因素
+分数越低越容易被淘汰，但低于阈值前会先存入向量库备份。
 
-![算法优化](https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800)
-
-### 第三层：语义召回
-
-**召回机制**：
-
-1. **触发时机**：每轮新输入时
-2. **检索方式**：用当前查询在向量库做相似度检索（top_k=3）
-3. **距离阈值**：L2距离 < 0.75
-4. **召回奖励**：召回的记忆自动上浮importance +0.2
-
-```python
-# 语义召回伪代码
-def semantic_recall(query, vector_db, top_k=3, threshold=0.75):
-    # 向量检索
-    results = vector_db.search(query, top_k=top_k)
-    
-    # 距离过滤
-    recalled = []
-    for result in results:
-        if result.distance < threshold:
-            # 上浮重要度
-            result.importance += 0.2
-            recalled.append(result)
-    
-    return recalled
+```mermaid
+flowchart LR
+    A[每条记忆] --> B[计算importance]
+    A --> C[计算age轮次]
+    B --> D[淘汰分数 = importance × e^(-0.001 × age)]
+    C --> D
+    D --> E{分数 < 阈值?}
+    E -->|是| F[存入向量库备份]
+    F --> G[从窗口淘汰]
+    E -->|否| H[保留在窗口]
+    style D fill:#49f,stroke:#333
 ```
 
-## 效果数据
+---
 
-经过实际测试，这套机制取得了显著效果：
+## 四、召回触发流程
+
+```mermaid
+sequenceDiagram
+    participant U as 用户输入
+    participant A as Agent
+    participant V as 向量库
+    participant C as 上下文窗口
+    U->>A: 新一轮输入
+    A->>V: 相似度检索
+    V-->>A: 返回top-3相关记忆
+    A->>C: 召回记忆注入上下文
+    A->>A: 基于完整上下文生成回答
+    A-->>U: 输出结果
+```
+
+---
+
+## 五、效果数据
 
 | 指标 | 优化前 | 优化后 | 提升幅度 |
 |------|--------|--------|----------|
 | 关键上下文丢失率 | 34.9% | 2.9% | 降低91.7% |
-| 第20轮约束指令保持率 | 61% | 97% | 提升59.0% |
-| 单轮延迟增加 | - | +300ms | 可接受范围 |
-
-![性能提升](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800)
-
-## 实现细节
-
-### 1. 重要度打分模型
-
-使用GPT-4o-mini进行轻量级打分，评分维度包括：
-- **内容类型**：系统指令 > 用户约束 > 技术细节 > 闲聊
-- **关键词密度**：包含"必须"、"禁止"、"重要"等关键词
-- **用户关注度**：用户重复提及或强调的内容
-
-### 2. 向量库配置
-
-- **向量库**：Chroma
-- **嵌入模型**：text-embedding-3-small
-- **距离度量**：L2距离
-- **索引策略**：增量索引，避免全量重建
-
-### 3. 召回策略优化
-
-- **动态top_k**：根据查询复杂度调整召回数量
-- **多轮关联**：考虑前后文关联性，避免孤立召回
-- **频率控制**：避免同一记忆被频繁召回
-
-## 总结与展望
-
-本文介绍的三层记忆淘汰与召回机制，通过**保护关键信息**、**智能淘汰低价值内容**、**语义召回相关记忆**，有效解决了Agent长对话中的记忆管理问题。
-
-**未来优化方向**：
-1. **自适应重要度打分**：根据对话领域动态调整评分权重
-2. **跨会话记忆迁移**：将重要记忆迁移到持久化存储
-3. **多模态记忆管理**：支持图片、音频等多模态信息的记忆管理
+| 第20轮约束保持率 | 61% | 97% | 提升59.0% |
+| 单轮延迟增加 | - | +300ms | 可接受 |
 
 ---
 
-**相关文章**：
-- [多Agent记忆架构指南](专题-多Agent记忆架构指南.md)
-- [Agent自检四道锁](专题-Agent自检四道锁.md)
-- [Agent检查点与安全防护](专题-Agent检查点与安全防护.md)
+## 六、总结
+
+1. **受保护记忆区**：确保关键信息永不丢失，预留20%窗口
+2. **智能淘汰**：通过重要度评分+时间衰减精准过滤，淘汰分数 = importance × e^(-0.001 × age)
+3. **语义召回**：被淘汰的记忆存入向量库，需要时自动召回
+4. **整体效果**：丢失率从35%降到3%，延迟仅增加300ms
 
 ---
 
-*本文由Succh和小米Claw AI助手共同维护，基于觅游社区学习笔记整理。*
-*最后更新：2026-06-23*
+![AI记忆系统](https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=800)
+
+## 参考资源
+
+- [LangChain Memory Management](https://python.langchain.com/docs/modules/memory/)
+- [ChromaDB Documentation](https://docs.trychroma.com/)
+- [GPT-4o Context Window Optimization](https://platform.openai.com/docs/guides/max-tokens)
+
+---
+
+*本文基于觅游社区学习笔记整理，结合 MiClaw 实践经验。*
