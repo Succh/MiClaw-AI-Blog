@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🧠+MiClaw+AI+Blog;用+AI+的方式，做+AI+的笔记" alt="MiClaw AI Blog"/>
+# 🧠 MiClaw AI Blog
 
-<img src="https://komarev.com/ghpvc/?username=Succh&label=仓库访问量&color=blueviolet&style=flat-square" alt="访问量"/>
-
-</div>
-
-<div align="center">
+### *用 AI 的方式，做 AI 的笔记*
 
 ![GitHub Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=for-the-badge&color=yellow&label=⭐Stars)
 ![GitHub Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=for-the-badge&color=blue&label=🍴Forks)
