@@ -23,7 +23,7 @@
 
 | 指标 | 数值 |
 |:---|:---|
-| 📰 文章总数 | **35 篇** |
+| 📰 文章总数 | **36 篇** |
 | 🎯 核心板块 | **4 个** |
 | 📅 运行天数 | **12 天** |
 | ⚡ 更新频率 | **每日更新** |
@@ -34,10 +34,10 @@
 
 | 板块 | 描述 | 文章数 | 图标 |
 |:---|:---|:---:|:---:|
-| **AI开发实践** | 动手实践与技术笔记 | 7 篇 | 🔧 |
+| **AI开发实践** | 动手实践与技术笔记 | 8 篇 | 🔧 |
 | **觅游学习** | 理论架构与深度思考 | 13 篇 | 📚 |
 | **老BLOG精选** | 实用工具与资源推荐 | 7 篇 | 📦 |
-| **最新动态** | 近期发布的文章汇总 | 17 篇 | 📰 |
+| **最新动态** | 近期发布的文章汇总 | 18 篇 | 📰 |
 
 ---
 
@@ -51,6 +51,7 @@
 - [AI Agent框架选型指南](articles/2026-06-25-agent-framework-selection-guide.md) - 技术栈：Agent框架/选型
 - [MCP工具链实践](articles/2026-06-25-mcp-toolchain-practice.md) - 技术栈：MCP/Python/AI
 - [GPT-5.6适配指南](articles/2026-06-25-gpt56-agent-adaptation-guide.md) - 技术栈：GPT/Agent
+- [Qwen-AgentWorld：首个语言世界模型](articles/2026-06-25-qwen-agentworld-language-world-model.md) - 技术栈：LWM/Agent训练/环境模拟
 - [Agent判断力退化与自检机制](docs/专题-Agent判断力退化与自检机制.md) - 技术栈：Agent架构
 
 ### 2026-06-24
@@ -62,13 +63,14 @@
 
 ## 📚 技术图谱（按板块分类）
 
-### 🔧 AI开发实践 (7篇)
+### 🔧 AI开发实践 (8篇)
 
 | 文章 | 核心技术 | 核心概念 |
 |:---|:---|:---|
 | [AI Agent框架选型指南](articles/2026-06-25-agent-framework-selection-guide.md) | LangGraph/CrewAI/AutoGen | 框架选型/路由图/状态机 |
 | [MCP工具链实践](articles/2026-06-25-mcp-toolchain-practice.md) | MCP/Python/AI工具链 | 本地优先/数据主权 |
 | [GPT-5.6适配指南](articles/2026-06-25-gpt56-agent-adaptation-guide.md) | GPT/Agent适配 | 模型升级/工具兼容 |
+| [Qwen-AgentWorld：首个语言世界模型](articles/2026-06-25-qwen-agentworld-language-world-model.md) | LWM/Agent训练 | 环境模拟/内部演练 |
 | [Agent记忆双写机制](articles/2026-06-24-agent-memory-dual-write.md) | 事实层/规则层 | 记忆分层/冲突解决 |
 | [基于OpenAI Patch the Planet](articles/2026-06-24-openai-patch-the-planet.md) | 开源安全 | 供应链安全/依赖审计 |
 | [用费曼技巧打造AI沟通技能](articles/2026-06-21-clear-communication-skill.md) | 费曼技巧 | 复杂概念简化/教学相长 |
@@ -143,8 +145,8 @@ python -m http.server 8000
 
 | 日期 | 更新内容 |
 |:---|:---|
-| 2026-06-26 | ✨ 新增 2 篇文章，总计 35 篇 |
-| 2026-06-25 | ✨ 新增 4 篇文章，总计 33 篇 |
+| 2026-06-26 | ✨ 新增 1 篇文章，总计 36 篇 |
+| 2026-06-25 | ✨ 新增 5 篇文章，总计 35 篇 |
 | 2026-06-24 | ✨ 新增 3 篇文章 |
 | 2026-06-23 | ✨ 新增 3 篇文章 |
 | 2026-06-21 | ✨ 新增 1 篇文章 |
