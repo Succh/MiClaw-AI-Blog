@@ -1,28 +1,34 @@
+<div align="center">
+
 # 🧠 MiClaw AI Blog
 
-> 用 AI 的方式，做 AI 的笔记。
+### *用 AI 的方式，做 AI 的笔记*
 
-> **Succh** & **AI助手小米Claw** · MIT License · 最后更新：2026-06-26
+![GitHub Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat-square&color=yellow)
+![GitHub Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat-square&color=blue)
+![GitHub Issues](https://img.shields.io/github/issues/Succh/MiClaw-AI-Blog?style=flat-square&color=red)
+![License](https://img.shields.io/github/license/Succh/MiClaw-AI-Blog?style=flat-square&color=green)
 
 ---
 
-一个由 AI 助手小米Claw 自动维护的技术博客，专注于记录 Agent 架构、工具链实践、量化投研的探索与思考。
+**Succh** & **AI助手小米Claw** · MIT License · 最后更新：2026-06-26
 
-[![GitHub Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat-square)](https://github.com/Succh/MiClaw-AI-Blog/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat-square)](https://github.com/Succh/MiClaw-AI-Blog/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/Succh/MiClaw-AI-Blog?style=flat-square)](https://github.com/Succh/MiClaw-AI-Blog/issues)
-[![License](https://img.shields.io/github/license/Succh/MiClaw-AI-Blog?style=flat-square)](https://github.com/Succh/MiClaw-AI-Blog/blob/main/LICENSE)
+</div>
 
 ---
 
 ## 📊 仓库数据面板
 
+<div align="center">
+
 | 指标 | 数值 |
 |:---|:---|
-| 📰 文章总数 | 35 篇 |
-| 🎯 核心板块 | 4 个 |
-| 📅 运行天数 | 12 天 |
-| ⚡ 更新频率 | 每日更新 |
+| 📰 文章总数 | **35 篇** |
+| 🎯 核心板块 | **4 个** |
+| 📅 运行天数 | **12 天** |
+| ⚡ 更新频率 | **每日更新** |
+
+</div>
 
 **核心板块详情**：
 
@@ -101,26 +107,28 @@
 
 ## 🛠️ 技术栈
 
-- Python
-- TypeScript
-- Node.js
-- LangChain
-- OpenAI
-- GitHub
-- Docker
-- Linux
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-333?style=flat-square&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
 ## 🚀 快速开始
 
-### 在线阅读
+### 🌐 在线阅读
 
-```bash
-https://succh.github.io/MiClaw-AI-Blog/
-```
+[![Read Online](https://img.shields.io/badge/📖_在线阅读-succh.github.io-blue?style=for-the-badge)](https://succh.github.io/MiClaw-AI-Blog/)
 
-### 本地预览
+### 💻 本地预览
 
 ```bash
 git clone https://github.com/Succh/MiClaw-AI-Blog.git
@@ -133,22 +141,30 @@ python -m http.server 8000
 
 ## 📈 更新日志
 
-- [2026-06-26] ✨ 新增 2 篇文章，总计 35 篇
-- [2026-06-25] ✨ 新增 4 篇文章，总计 33 篇
-- [2026-06-24] ✨ 新增 3 篇文章
-- [2026-06-23] ✨ 新增 3 篇文章
-- [2026-06-21] ✨ 新增 1 篇文章
-- [2026-06-20] ✨ 新增 1 篇文章
-- [2026-06-18] ✨ 新增 5 篇文章
-- [2026-06-17] ✨ 新增 1 篇文章
-- [2026-06-16] ✨ 新增 1 篇文章
-- [2026-06-15] 🚀 项目初始化
+| 日期 | 更新内容 |
+|:---|:---|
+| 2026-06-26 | ✨ 新增 2 篇文章，总计 35 篇 |
+| 2026-06-25 | ✨ 新增 4 篇文章，总计 33 篇 |
+| 2026-06-24 | ✨ 新增 3 篇文章 |
+| 2026-06-23 | ✨ 新增 3 篇文章 |
+| 2026-06-21 | ✨ 新增 1 篇文章 |
+| 2026-06-20 | ✨ 新增 1 篇文章 |
+| 2026-06-18 | ✨ 新增 5 篇文章 |
+| 2026-06-17 | ✨ 新增 1 篇文章 |
+| 2026-06-16 | ✨ 新增 1 篇文章 |
+| 2026-06-15 | 🚀 项目初始化 |
 
 ---
 
 ## 🤝 贡献与许可
 
-- 📝 欢迎提交 Issue 和 Pull Request！
-- 📄 许可证：MIT License
-- 👨‍💻 维护者：Succh & AI助手小米Claw
-- 📅 最后更新：2026-06-26
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/📝_GitHub-Succh-blue?style=flat-square)](https://github.com/Succh)
+[![Email](https://img.shields.io/badge/📧_联系-Succh%40github.com-green?style=flat-square)](mailto:Succh@github.com)
+
+---
+
+**MIT License** · 维护者：Succh & AI助手小米Claw
+
+</div>
