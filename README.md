@@ -1,65 +1,72 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/🧠_MiClaw_AI_Blog-用_AI_的方式，做_AI_的笔记-4A90E2?style=for-the-badge&logo=github&logoColor=white" alt="MiClaw AI Blog">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=🧠+MiClaw+AI+Blog;用+AI+的方式，做+AI+的笔记" alt="MiClaw AI Blog"/>
 
-![GitHub Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat-square&color=yellow&label=⭐Stars)
-![GitHub Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat-square&color=blue&label=🍴Forks)
-![GitHub Issues](https://img.shields.io/github/issues/Succh/MiClaw-AI-Blog?style=flat-square&color=red&label=📝Issues)
-![License](https://img.shields.io/github/license/Succh/MiClaw-AI-Blog?style=flat-square&color=green&label=📄License)
-![Last Update](https://img.shields.io/badge/📅_最后更新-2026--06--26-8B5CF6?style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=Succh&label=仓库访问量&color=blueviolet&style=flat-square" alt="访问量"/>
 
----
+</div>
 
-**Succh** & **AI助手小米Claw** · MIT License
+<div align="center">
+
+![GitHub Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=for-the-badge&color=yellow&label=⭐Stars)
+![GitHub Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=for-the-badge&color=blue&label=🍴Forks)
+![GitHub Issues](https://img.shields.io/github/issues/Succh/MiClaw-AI-Blog?style=for-the-badge&color=red&label=📝Issues)
+![License](https://img.shields.io/github/license/Succh/MiClaw-AI-Blog?style=for-the-badge&color=green&label=📄License)
+![Last Commit](https://img.shields.io/github/last-commit/Succh/MiClaw-AI-Blog?style=for-the-badge&color=purple&label=🕐最后更新)
 
 </div>
 
 ---
 
-## 📊 一、快速概览
+## 📊 核心数据面板
 
 <div align="center">
 
 | 📰 文章总数 | 🎯 核心板块 | 📅 运行天数 | ⚡ 更新频率 |
 |:---:|:---:|:---:|:---:|
-| **36 篇** | **4 个** | **12 天** | **每日更新** |
+| **36** | **4** | **12** | **每日** |
 
 </div>
 
-**核心板块分布**：
+---
 
-| 板块 | 📊 文章数 | 📝 描述 |
-|:---|:---:|:---|
-| 🔧 **AI开发实践** | 8 篇 | 动手实践与技术笔记 |
-| 📚 **觅游学习** | 13 篇 | 理论架构与深度思考 |
-| 📦 **老BLOG精选** | 7 篇 | 实用工具与资源推荐 |
-| 📰 **最新动态** | 18 篇 | 近期发布的文章汇总 |
+## 🎯 板块分布
+
+<div align="center">
+
+| 板块 | 📊 数量 | 🎨 图标 |
+|:---|:---:|:---:|
+| 🔧 **AI开发实践** | **8** 篇 | 💻 |
+| 📚 **觅游学习** | **13** 篇 | 📖 |
+| 📦 **老BLOG精选** | **7** 篇 | 🎁 |
+| 📰 **最新动态** | **18** 篇 | 📰 |
+
+</div>
 
 ---
 
-## 🚀 二、最新发布（按时间）
+## 🚀 最新发布
 
-### 📅 2026-06-26
-- [2026年AI开发效率工具精选](articles/2026-06-26-ai-dev-toolbox-selected.md) - 💻 开发工具
-- [Agent任务分解与层级规划机制](articles/2026-06-26-agent-task-decomposition-planning.md) - 🧠 Agent架构
+<div align="center">
 
-### 📅 2026-06-25
-- [AI Agent框架选型指南](articles/2026-06-25-agent-framework-selection-guide.md) - 🧩 框架选型
-- [MCP工具链实践](articles/2026-06-25-mcp-toolchain-practice.md) - 🔌 工具链
-- [GPT-5.6适配指南](articles/2026-06-25-gpt56-agent-adaptation-guide.md) - 🔄 适配指南
-- [Qwen-AgentWorld：首个语言世界模型](articles/2026-06-25-qwen-agentworld-language-world-model.md) - 🎯 LWM模型
-- [Agent判断力退化与自检机制](docs/专题-Agent判断力退化与自检机制.md) - ⚠️ 退化检测
+| 📅 日期 | 📝 文章 | 🏷️ 标签 |
+|:---:|:---|:---|
+| 06-26 | [AI开发效率工具精选](articles/2026-06-26-ai-dev-toolbox-selected.md) | 💻 开发工具 |
+| 06-26 | [Agent任务分解与层级规划](articles/2026-06-26-agent-task-decomposition-planning.md) | 🧠 Agent架构 |
+| 06-25 | [AI Agent框架选型指南](articles/2026-06-25-agent-framework-selection-guide.md) | 🧩 框架选型 |
+| 06-25 | [MCP工具链实践](articles/2026-06-25-mcp-toolchain-practice.md) | 🔌 工具链 |
+| 06-25 | [GPT-5.6适配指南](articles/2026-06-25-gpt56-agent-adaptation-guide.md) | 🔄 适配指南 |
+| 06-25 | [Qwen-AgentWorld：首个语言世界模型](articles/2026-06-25-qwen-agentworld-language-world-model.md) | 🎯 LWM模型 |
 
-### 📅 2026-06-24
-- [Agent注意力撕裂问题与解决方案](docs/专题-Agent注意力撕裂问题与解决方案.md) - 🧠 注意力管理
-- [Agent记忆双写机制](articles/2026-06-24-agent-memory-dual-write.md) - 💾 记忆架构
-- [基于OpenAI Patch the Planet](articles/2026-06-24-openai-patch-the-planet.md) - 🛡️ 开源安全
+</div>
 
 ---
 
-## 📚 三、技术图谱（按板块）
+## 📚 技术图谱
 
-### 🔧 **AI开发实践** (8篇)
+### 🔧 AI开发实践 (8篇)
+
+<div align="center">
 
 | 文章 | 🎯 核心技术 | 💡 核心概念 |
 |:---|:---|:---|
@@ -71,7 +78,11 @@
 | [基于OpenAI Patch the Planet](articles/2026-06-24-openai-patch-the-planet.md) | 开源安全 | 供应链安全 |
 | [用费曼技巧打造AI沟通技能](articles/2026-06-21-clear-communication-skill.md) | 费曼技巧 | 复杂概念简化 |
 
-### 📚 **觅游学习** (13篇)
+</div>
+
+### 📚 觅游学习 (13篇)
+
+<div align="center">
 
 | 文章 | 💡 核心概念 |
 |:---|:---|
@@ -89,7 +100,11 @@
 | [量化投研Skill模块化](docs/专题-quant-skill-modularization.md) | 📊 四层架构/幻觉治理 |
 | [多Agent记忆架构](docs/专题-multi-agent-memory.md) | 🗃️ 三层记忆/协作共享 |
 
-### 📦 **老BLOG精选** (7篇)
+</div>
+
+### 📦 老BLOG精选 (7篇)
+
+<div align="center">
 
 | 文章 | 🏷️ 类别 |
 |:---|:---|
@@ -101,30 +116,34 @@
 | [网站分享与推荐](articles/legacy-website-share.md) | 🌐 网站 |
 | [机场节点与科学上网汇总](articles/legacy-proxy-nodes.md) | 🌐 网络 |
 
+</div>
+
 ---
 
-## 🛠️ 四、技术栈
+## 🛠️ 技术栈
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&label=Python)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&label=TypeScript)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&label=Node.js)
-![LangChain](https://img.shields.io/badge/LangChain-333?style=flat-square&logo=chainlink&logoColor=white&label=LangChain)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white&label=OpenAI)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&label=GitHub)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&label=Docker)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&label=Linux)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-333?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 🚀 五、快速开始
+## 🚀 快速开始
 
-### 🌐 在线阅读
+<div align="center">
 
-[![Read Online](https://img.shields.io/badge/📖_点击阅读-succh.github.io-blue?style=for-the-badge&logo=github-pages&logoColor=white)](https://succh.github.io/MiClaw-AI-Blog/)
+[![Read Online](https://img.shields.io/badge/📖_在线阅读-succh.github.io-blue?style=for-the-badge&logo=github-pages&logoColor=white)](https://succh.github.io/MiClaw-AI-Blog/)
+
+</div>
 
 ### 💻 本地预览
 
@@ -137,7 +156,9 @@ python -m http.server 8000
 
 ---
 
-## 📈 六、更新日志
+## 📈 更新日志
+
+<div align="center">
 
 | 📅 日期 | 📝 更新内容 |
 |:---|:---|
@@ -152,15 +173,17 @@ python -m http.server 8000
 | 2026-06-16 | ✨ 新增 1 篇文章 |
 | 2026-06-15 | 🚀 项目初始化 |
 
+</div>
+
 ---
 
-## 🤝 七、贡献与许可
+## 🤝 贡献与许可
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/📝_GitHub-Succh-blue?style=flat-square&logo=github&logoColor=white)](https://github.com/Succh)
-[![Email](https://img.shields.io/badge/📧_联系-Succh%40github.com-green?style=flat-square&logo=gmail&logoColor=white)](mailto:Succh@github.com)
-[![License](https://img.shields.io/badge/📄_MIT_License-green?style=flat-square&logo=open-source-initiative&logoColor=white)](https://github.com/Succh/MiClaw-AI-Blog/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/badge/📝_GitHub-Succh-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Succh)
+[![Email](https://img.shields.io/badge/📧_联系-Succh%40github.com-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Succh@github.com)
+[![License](https://img.shields.io/badge/📄_MIT_License-green?style=for-the-badge&logo=open-source-initiative&logoColor=white)](https://github.com/Succh/MiClaw-AI-Blog/blob/main/LICENSE)
 
 ---
 
