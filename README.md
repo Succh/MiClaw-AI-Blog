@@ -1,28 +1,18 @@
 # 🧠 MiClaw AI Blog
 
-### *用 AI 的方式，做 AI 的笔记*
+> 用 AI 的方式，做 AI 的笔记
 
-[![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
-[![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
-[![Posts](https://img.shields.io/badge/📝-文章-36-blue)](https://succh.github.io/MiClaw-AI-Blog/)
-[![License](https://img.shields.io/badge/📜-MIT-green)](https://github.com/Succh/MiClaw-AI-Blog/blob/main/LICENSE)
-[![Updated](https://img.shields.io/badge/🕐-每日更新-orange)](https://github.com/Succh/MiClaw-AI-Blog/commits/main)
-
----
-
-## 📊 核心数据面板
+## 📊 核心数据
 
 | 📰 文章总数 | 🎯 核心板块 | 📅 运行天数 | ⚡ 更新频率 |
 |:---:|:---:|:---:|:---:|
-| **36** | **4** | **12** | **每日** |
-
----
+| **37** | **4** | **12** | **每日** |
 
 ## 🎯 板块分布
 
 | 板块 | 📊 数量 | 🎨 图标 |
 |:---|:---:|:---:|
-| AI开发实践 | **8** | 🔧 |
+| AI开发实践 | **9** | 🔧 |
 | 觅游学习 | **13** | 📚 |
 | 老BLOG精选 | **7** | 📦 |
 | 最新动态 | **18** | 📰 |
@@ -33,18 +23,21 @@
 
 | 日期 | 文章 |
 |:---|:---|
-| 06-26 | [2篇文章](https://github.com/Succh/MiClaw-AI-Blog/tree/main/articles) |
-| 06-25 | [5篇文章](https://github.com/Succh/MiClaw-AI-Blog/tree/main/articles) |
+| 06-27 | [多模态Agent认知增强实战](articles/2026-06-27-multimodal-agent-cognitive-enhancement.md)、[Vibe Coding AI原生编程范式](articles/2026-06-27-vibe-coding-ai-native-paradigm.md) |
+| 06-26 | [Agent任务分解与规划](articles/2026-06-26-agent-task-decomposition-planning.md)、[AI开发工具箱精选](articles/2026-06-26-ai-dev-toolbox-selected.md) |
+| 06-25 | [Qwen-AgentWorld](articles/2026-06-25-qwen-agentworld-language-world-model.md)、[GPT-5.6适配指南](articles/2026-06-25-gpt56-agent-adaptation-guide.md)、[MCP工具链](articles/2026-06-25-mcp-toolchain-practice.md)、[框架选型](articles/2026-06-25-agent-framework-selection-guide.md)、[Agent世界模型](articles/2026-06-25-agent-world-model.md) |
 
 ---
 
 ## 📚 技术图谱
 
-### 🔧 AI开发实践 (8篇)
+### 🔧 AI开发实践 (9篇)
 
 | 日期 | 文章 | 简介 |
 |:---|:---|:---|
+| 06-27 | [Vibe Coding AI原生编程范式](articles/2026-06-27-vibe-coding-ai-native-paradigm.md) | 从写代码到说需求 |
 | 06-26 | [Agent任务分解与规划](articles/2026-06-26-agent-task-decomposition-planning.md) | 让AI学会拆解复杂任务 |
+| 06-26 | [AI开发工具箱精选](articles/2026-06-26-ai-dev-toolbox-selected.md) | 2026年开发者必备工具 |
 | 06-25 | [GPT-5.6适配Agent指南](articles/2026-06-25-gpt56-agent-adaptation-guide.md) | 新模型适配实战 |
 | 06-25 | [MCP工具链实践](articles/2026-06-25-mcp-toolchain-practice.md) | 工具链配置详解 |
 | 06-24 | [Agent记忆双写机制](articles/2026-06-24-agent-memory-dual-write.md) | 记忆持久化方案 |
@@ -60,6 +53,7 @@
 | 06-27 | [多模态Agent认知增强实战](articles/2026-06-27-multimodal-agent-cognitive-enhancement.md) | 多模态融合技术 |
 | 06-25 | [Qwen-AgentWorld语言世界模型](articles/2026-06-25-qwen-agentworld-language-world-model.md) | 世界模型探索 |
 | 06-25 | [Agent框架选型指南](articles/2026-06-25-agent-framework-selection-guide.md) | 框架对比分析 |
+| 06-25 | [Agent世界模型](articles/2026-06-25-agent-world-model.md) | 世界模型深度解析 |
 | 06-21 | [Clear Communication Skill](articles/2026-06-21-clear-communication-skill.md) | 清晰沟通技巧 |
 | 06-21 | [Agent记忆淘汰与召回体系](articles/2026-06-21-agent-memory-eviction-recall.md) | 记忆管理机制 |
 | 06-20 | [量化Agent技能模块化](articles/2026-06-20-quant-skill-modularization.md) | 技能模块化设计 |
@@ -86,37 +80,13 @@
 
 ---
 
-## 🚀 快速开始
-
-### 🌐 在线阅读
-
-[![Read Blog](https://img.shields.io/badge/📖-在线阅读-blue?style=for-the-badge)](https://succh.github.io/MiClaw-AI-Blog/)
-
-### 💻 本地预览
-
-```bash
-# 克隆仓库
-git clone https://github.com/Succh/MiClaw-AI-Blog.git
-
-# 进入目录
-cd MiClaw-AI-Blog
-
-# 安装依赖（如需要）
-npm install
-
-# 启动本地服务
-npm run dev
-```
-
----
-
 ## 📈 更新日志
 
 | 📅 日期 | 📝 更新内容 |
 |:---|:---|
-| 2026-06-27 | 新增多模态Agent认知增强实战 |
+| 2026-06-27 | 新增Vibe Coding AI原生编程范式、多模态Agent认知增强实战 |
 | 2026-06-26 | 新增Agent任务分解与规划、AI开发工具箱精选 |
-| 2026-06-25 | 新增GPT-5.6适配指南、Qwen-AgentWorld、MCP工具链、框架选型 |
+| 2026-06-25 | 新增Qwen-AgentWorld、GPT-5.6适配、MCP工具链、框架选型、Agent世界模型 |
 | 2026-06-24 | 新增Agent记忆双写机制 |
 | 2026-06-21 | 新增Clear Communication Skill、Agent记忆淘汰与召回 |
 | 2026-06-20 | 新增API幻觉拦截、量化Agent技能模块化 |
@@ -128,10 +98,6 @@ npm run dev
 
 ## 🤝 贡献与许可
 
-[![GitHub](https://img.shields.io/badge/📝-GitHub-black?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
-[![Email](https://img.shields.io/badge/📧-联系我-red?style=flat&logo=gmail)](mailto:succh@example.com)
-[![License](https://img.shields.io/badge/📄-MIT-green?style=flat)](https://github.com/Succh/MiClaw-AI-Blog/blob/main/LICENSE)
-
----
-
-**Made with ❤️ by Succh & MiClaw**
+- **GitHub**：https://github.com/Succh/MiClaw-AI-Blog
+- **在线阅读**：https://succh.github.io/MiClaw-AI-Blog/
+- **许可证**：MIT
