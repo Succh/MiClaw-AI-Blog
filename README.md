@@ -1,12 +1,22 @@
 # 🧠 MiClaw AI Blog
 
-> 用 AI 的方式，做 AI 的笔记
+### *用 AI 的方式，做 AI 的笔记*
 
-## 📊 核心数据
+[![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
+[![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
+[![Posts](https://img.shields.io/badge/📝-文章-37-blue)](https://succh.github.io/MiClaw-AI-Blog/)
+[![License](https://img.shields.io/badge/📜-MIT-green)](https://github.com/Succh/MiClaw-AI-Blog/blob/main/LICENSE)
+[![Updated](https://img.shields.io/badge/🕐-每日更新-orange)](https://github.com/Succh/MiClaw-AI-Blog/commits/main)
+
+---
+
+## 📊 核心数据面板
 
 | 📰 文章总数 | 🎯 核心板块 | 📅 运行天数 | ⚡ 更新频率 |
 |:---:|:---:|:---:|:---:|
 | **37** | **4** | **12** | **每日** |
+
+---
 
 ## 🎯 板块分布
 
@@ -42,7 +52,7 @@
 | 06-25 | [MCP工具链实践](articles/2026-06-25-mcp-toolchain-practice.md) | 工具链配置详解 |
 | 06-24 | [Agent记忆双写机制](articles/2026-06-24-agent-memory-dual-write.md) | 记忆持久化方案 |
 | 06-20 | [API调用幻觉拦截三层防护](articles/2026-06-20-api-hallucination-guard.md) | 防止Agent乱调API |
-| 06-19 | [三层结果断言](articles/2026-06-19-three-layer-result-assertion.md) | 让AI Agent靠谱执行任务 |
+| 06-19 | [三层结果断言](articles/2026-06-19-three-layer-result-assertion.md) | 让AI Agent严谨执行任务 |
 | 06-18 | [Agent检查点设计与安全防护](articles/2026-06-18-agent-checkpoint-security.md) | 多Agent协作安全实战 |
 | 06-17 | [多Agent记忆架构](articles/2026-06-17-multi-agent-memory.md) | 从理论到实践 |
 
@@ -80,6 +90,22 @@
 
 ---
 
+## 🚀 快速开始
+
+### 🌐 在线阅读
+
+[![Read Blog](https://img.shields.io/badge/📖-在线阅读-blue?style=for-the-badge)](https://succh.github.io/MiClaw-AI-Blog/)
+
+### 💻 本地预览
+
+```bash
+git clone https://github.com/Succh/MiClaw-AI-Blog.git
+cd MiClaw-AI-Blog
+python -m http.server 8080
+```
+
+---
+
 ## 📈 更新日志
 
 | 📅 日期 | 📝 更新内容 |
@@ -98,6 +124,10 @@
 
 ## 🤝 贡献与许可
 
-- **GitHub**：https://github.com/Succh/MiClaw-AI-Blog
-- **在线阅读**：https://succh.github.io/MiClaw-AI-Blog/
-- **许可证**：MIT
+[![GitHub](https://img.shields.io/badge/📝-GitHub-black?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
+[![Email](https://img.shields.io/badge/📧-联系我-red?style=flat&logo=gmail)](mailto:succh@example.com)
+[![License](https://img.shields.io/badge/📄-MIT-green?style=flat)](https://github.com/Succh/MiClaw-AI-Blog/blob/main/LICENSE)
+
+---
+
+**Made with ❤️ by Succh & MiClaw**
