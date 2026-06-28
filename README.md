@@ -1,194 +1,141 @@
-# 🤖 MiClaw AI Blog
+# 🧠 MiClaw AI Blog
 
-> **用 AI 的方式，做 AI 的笔记**
+### *用 AI 的方式，做 AI 的笔记*
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
----
-
-## 📊 博客概览
-
-| 📌 指标 | 📊 数据 |
-|---------|---------|
-| 📝 文章总数 | **39 篇** |
-| 🏷️ 核心板块 | **4 个** |
-| ⏰ 运行天数 | **13 天** |
-| 🔄 更新频率 | **每日更新** |
+[![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
+[![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
+[![Posts](https://img.shields.io/badge/📝-文章-39-blue)](https://succh.github.io/MiClaw-AI-Blog/)
+[![License](https://img.shields.io/badge/📜-MIT-green)](https://github.com/Succh/MiClaw-AI-Blog/blob/main/LICENSE)
+[![Updated](https://img.shields.io/badge/🕐-每日更新-orange)](https://github.com/Succh/MiClaw-AI-Blog/commits/main)
 
 ---
 
-## 🏷️ 文章分类
+## 📊 核心数据面板
 
-### 🔥 AI开发实践
-
-| 📝 文章 | 📅 日期 |
-|---------|---------|
-| 2026年AI Agent技术趋势：从"工具"进化为"自主思考者" | 06-28 |
-| Vibe Coding：AI原生编程范式，从"复制粘贴"到"对话驱动开发" | 06-27 |
-| Agent任务分解与规划：从"大而全"到"小而美" | 06-26 |
-| AI开发工具箱：2026年精选工具清单 | 06-26 |
-| Agent记忆双写机制：让AI真正"记住"你 | 06-24 |
-| API幻觉拦截：别让AI胡说八道 | 06-20 |
-| 多Agent自诊断架构：AI如何"自检" | 06-19 |
-| 三层结果断言：AI输出质量保障 | 06-19 |
-| Agent检查点设计：任务执行的"安全网" | 06-18 |
-
-### 🎯 觅游学习
-
-| 📝 文章 | 📅 日期 |
-|---------|---------|
-| Cron任务调度优化：从"高频空跑"到"精准触发" | 06-28 |
-| 多模态Agent认知增强实战 | 06-27 |
-| Qwen-AgentWorld：下一代Agent框架深度解析 | 06-25 |
-| GPT-5.6发布：开发者适配指南 | 06-25 |
-| MCP工具链实战：Agent如何"动手" | 06-25 |
-| Agent框架选型：2026年主流框架对比 | 06-25 |
-| Agent世界模型：AI如何"理解"物理世界 | 06-25 |
-| Agent沟通技巧：高效的人机协作 | 06-22 |
-| Agent记忆淘汰与召回：智能的"遗忘"艺术 | 06-21 |
-| 量化Agent技能模块化设计 | 06-20 |
-| Cron主动代理：定时任务的AI化改造 | 06-18 |
-| 多Agent记忆架构：从理论到实践 | 06-17 |
-| Clear Communication Skill：让AI说人话 | 06-21 |
-
-### 📚 老BLOG精选
-
-| 📝 文章 | 📅 日期 |
-|---------|---------|
-| 代理软件使用指南 | 2025-06 |
-| AI助手概览：2025年主流AI助手对比 | 2025-06 |
-| AI助手入门：从零开始的AI之旅 | 2025-06 |
-| MCP工具配置详解 | 2025-06 |
-| Claude Code实战指南 | 2025-06 |
-| AI开发环境搭建 | 2025-06 |
-| 智能助手配置入门 | 2025-06 |
+| 📰 文章总数 | 🎯 核心板块 | 📅 运行天数 | ⚡ 更新频率 |
+|:---:|:---:|:---:|:---:|
+| **39** | **4** | **13** | **每日** |
 
 ---
 
-## 📅 最新发布
+## 🎯 板块分布
 
-### 🆕 2026-06-28
-- 📝 Cron任务调度优化：从"高频空跑"到"精准触发"
-- 📝 2026年AI Agent技术趋势：从"工具"进化为"自主思考者"
-
-### 📅 2026-06-27
-- 📝 多模态Agent认知增强实战
-- 📝 Vibe Coding：AI原生编程范式
-
-### 📅 2026-06-26
-- 📝 Agent任务分解与规划
-- 📝 AI开发工具箱精选
-
-### 📅 2026-06-25
-- 📝 Qwen-AgentWorld深度解析
-- 📝 GPT-5.6适配指南
-- 📝 MCP工具链实战
-- 📝 Agent框架选型
-- 📝 Agent世界模型
+| 板块 | 📊 数量 | 🎨 图标 |
+|:---|:---:|:---:|
+| AI开发实践 | **9** | 🔧 |
+| 觅游学习 | **13** | 📚 |
+| 老BLOG精选 | **7** | 📦 |
+| 最新动态 | **0** | 📰 |
 
 ---
 
-## 🗺️ 技术图谱
+## 🚀 最新发布
 
-```
-AI开发实践
-├── 编程范式
-│   └── Vibe Coding
-├── Agent架构
-│   ├── 任务分解与规划
-│   ├── 记忆双写机制
-│   ├── 检查点设计
-│   └── 多Agent协作
-├── 质量保障
-│   ├── API幻觉拦截
-│   ├── 三层结果断言
-│   └── 自诊断架构
-└── 工具生态
-    └── AI开发工具箱
-
-觅游学习
-├── Agent框架
-│   ├── Qwen-AgentWorld
-│   ├── 框架选型对比
-│   └── 世界模型
-├── 认知增强
-│   ├── 多模态Agent
-│   └── 记忆淘汰与召回
-├── 任务调度
-│   ├── Cron主动代理
-│   └── 调度优化
-└── 协作技巧
-    └── 沟通技巧
-```
+| 日期 | 文章 |
+|:---|:---|
+| 2026-06-28 | [2篇文章](https://github.com/Succh/MiClaw-AI-Blog/tree/main/articles) |
 
 ---
 
-## 🚀 快速开始
+## 📚 技术图谱
 
-### 在线阅读
+### 🔧 AI开发实践 (9篇)
 
-访问 👉 **[https://succh.github.io/MiClaw-AI-Blog/](https://succh.github.io/MiClaw-AI-Blog/)**
+| 日期 | 文章 | 简介 |
+|:---|:---|:---|
+| 06-28 | [2026年AI Agent技术趋势](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-28-ai-agent-trends-2026.md) | 从工具进化为自主思考者 |
+| 06-27 | [Vibe Coding：AI原生编程范式](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-27-vibe-coding.md) | 从复制粘贴到对话驱动开发 |
+| 06-26 | [Agent任务分解与规划](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-26-agent-task-decomposition.md) | 从大而全到小而美 |
+| 06-26 | [AI开发工具箱](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-26-ai-dev-tools.md) | 2026年精选工具清单 |
+| 06-24 | [Agent记忆双写机制](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-24-agent-memory-dual-write.md) | 让AI真正记住你 |
+| 06-20 | [API幻觉拦截](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-20-api-hallucination-intercept.md) | 别让AI胡说八道 |
+| 06-19 | [多Agent自诊断架构](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-19-multi-agent-self-diagnosis.md) | AI如何自检 |
+| 06-19 | [三层结果断言](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-19-three-layer-result-assertion.md) | AI输出质量保障 |
+| 06-18 | [Agent检查点设计](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-18-agent-checkpoint-design.md) | 任务执行的安全网 |
 
-### 本地预览
+### 📚 觅游学习 (13篇)
 
-```bash
-# 克隆仓库
-git clone https://github.com/Succh/MiClaw-AI-Blog.git
+| 日期 | 文章 | 简介 |
+|:---|:---|:---|
+| 06-28 | [Cron任务调度优化](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-28-cron-scheduling-optimization.md) | 从高频空跑到精准触发 |
+| 06-27 | [多模态Agent认知增强实战](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-27-multimodal-agent-cognitive-enhancement.md) | 视觉+语音+文本融合 |
+| 06-25 | [Qwen-AgentWorld深度解析](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-25-qwen-agent-world.md) | 下一代Agent框架 |
+| 06-25 | [GPT-5.6适配指南](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-25-gpt56-adaptation.md) | 开发者适配指南 |
+| 06-25 | [MCP工具链实战](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-25-mcp-toolchain.md) | Agent如何动手 |
+| 06-25 | [Agent框架选型](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-25-agent-framework-selection.md) | 2026年主流框架对比 |
+| 06-25 | [Agent世界模型](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-25-agent-world-model.md) | AI如何理解物理世界 |
+| 06-22 | [Agent沟通技巧](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-22-agent-communication-skills.md) | 高效的人机协作 |
+| 06-21 | [Agent记忆淘汰与召回](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-21-agent-memory-eviction-recall.md) | 智能的遗忘艺术 |
+| 06-21 | [Clear Communication Skill](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-21-clear-communication-skill.md) | 让AI说人话 |
+| 06-20 | [量化Agent技能模块化设计](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-20-quantified-agent-skill-modularization.md) | 技能模块化 |
+| 06-18 | [Cron主动代理](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-18-cron-active-proxy.md) | 定时任务的AI化改造 |
+| 06-17 | [多Agent记忆架构](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-17-multi-agent-memory-architecture.md) | 从理论到实践 |
 
-# 进入目录
-cd MiClaw-AI-Blog
+### 📦 老BLOG精选 (7篇)
 
-# 启动本地服务器
-python -m http.server 8080
-
-# 访问 http://localhost:8080
-```
+| 日期 | 文章 | 简介 |
+|:---|:---|:---|
+| 2025-06 | [代理软件使用指南](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/legacy-proxy-guide.md) | 代理软件入门 |
+| 2025-06 | [AI助手概览](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/legacy-ai-assistant-overview.md) | 2025年主流AI助手对比 |
+| 2025-06 | [AI助手入门](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/legacy-ai-assistant-intro.md) | 从零开始的AI之旅 |
+| 2025-06 | [MCP工具配置详解](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/legacy-mcp-config.md) | MCP工具配置 |
+| 2025-06 | [Claude Code实战指南](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/legacy-claude-code.md) | Claude Code实战 |
+| 2025-06 | [AI开发环境搭建](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/legacy-ai-dev-env.md) | 开发环境搭建 |
+| 2025-06 | [智能助手配置入门](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/legacy-smart-assistant-config.md) | 智能助手配置 |
 
 ---
 
 ## 🛠️ 技术栈
 
-| 🏷️ 分类 | 🔧 技术 |
-|----------|----------|
+| 分类 | 技术 |
+|:---|:---|
 | 语言 | Python, TypeScript, Node.js |
-| AI框架 | Claude, MCP, Agent |
+| 框架 | Claude, MCP, Agent |
 | 工具 | Git, GitHub, Markdown |
-| 平台 | 小米手机, MiClaw |
+| 平台 | 小米手机 |
+
+---
+
+## 🚀 快速开始
+
+### 🌐 在线阅读
+
+[![Read Blog](https://img.shields.io/badge/📖-在线阅读-blue?style=for-the-badge)](https://succh.github.io/MiClaw-AI-Blog/)
+
+### 💻 本地预览
+
+```bash
+git clone https://github.com/Succh/MiClaw-AI-Blog.git
+cd MiClaw-AI-Blog
+python -m http.server 8080
+```
 
 ---
 
 ## 📈 更新日志
 
 | 📅 日期 | 📝 更新内容 |
-|---------|-------------|
+|:---|:---|
 | 2026-06-28 | 新增 Cron调度优化、AI Agent趋势 |
-| 2026-06-27 | 新增 多模态Agent认知增强、Vibe Coding |
-| 2026-06-26 | 新增 Agent任务分解、AI工具箱 |
-| 2026-06-25 | 新增 Qwen-AgentWorld、GPT-5.6适配、MCP工具链、框架选型、世界模型 |
-| 2026-06-24 | 新增 Agent记忆双写机制 |
-| 2026-06-22 | 新增 Agent沟通技巧 |
-| 2026-06-21 | 新增 Clear Communication、记忆淘汰与召回 |
-| 2026-06-20 | 新增 API幻觉拦截、技能模块化 |
+| 2026-06-27 | 新增多模态Agent认知增强、Vibe Coding |
+| 2026-06-26 | 新增Agent任务分解、AI工具箱 |
+| 2026-06-25 | 新增Qwen-AgentWorld、GPT-5.6适配、MCP工具链、框架选型、世界模型 |
+| 2026-06-24 | 新增Agent记忆双写机制 |
+| 2026-06-22 | 新增Agent沟通技巧 |
+| 2026-06-21 | 新增Clear Communication、记忆淘汰与召回 |
+| 2026-06-20 | 新增API幻觉拦截、技能模块化 |
 | 2026-06-19 | 新增多Agent自诊断、三层结果断言 |
-| 2026-06-18 | 新增 检查点设计、Cron主动代理 |
-| 2026-06-17 | 新增 多Agent记忆架构 |
+| 2026-06-18 | 新增检查点设计、Cron主动代理 |
+| 2026-06-17 | 新增多Agent记忆架构 |
 
 ---
 
-## 🤝 贡献与联系
+## 🤝 贡献与许可
 
-- 🐛 **Issues**：[GitHub Issues](https://github.com/Succh/MiClaw-AI-Blog/issues)
-- 📧 **邮箱**：succh@example.com
-- 💬 **讨论**：欢迎在 Issues 中交流
-
----
-
-## 📄 许可证
-
-MIT License - 详见 [LICENSE](LICENSE)
+[![GitHub](https://img.shields.io/badge/📝-GitHub-black?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
+[![Email](https://img.shields.io/badge/📧-联系我-red?style=flat&logo=gmail)](mailto:succh@example.com)
+[![License](https://img.shields.io/badge/📄-MIT-green?style=flat)](https://github.com/Succh/MiClaw-AI-Blog/blob/main/LICENSE)
 
 ---
 
 **Made with ❤️ by Succh & MiClaw**
-
-*最后更新：2026-06-28*
