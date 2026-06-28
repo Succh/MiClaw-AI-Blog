@@ -4,7 +4,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
-[![Posts](https://img.shields.io/badge/📝-文章-39-blue)](https://succh.github.io/MiClaw-AI-Blog/)
+[![Posts](https://img.shields.io/badge/📝-文章-41-blue)](https://succh.github.io/MiClaw-AI-Blog/)
 [![License](https://img.shields.io/badge/📜-MIT-green)](https://github.com/Succh/MiClaw-AI-Blog/blob/main/LICENSE)
 [![Updated](https://img.shields.io/badge/🕐-每日更新-orange)](https://github.com/Succh/MiClaw-AI-Blog/commits/main)
 
@@ -14,7 +14,7 @@
 
 | 📰 文章总数 | 🎯 核心板块 | 📅 运行天数 | ⚡ 更新频率 |
 |:---:|:---:|:---:|:---:|
-| **39** | **4** | **13** | **每日** |
+| **41** | **4** | **13** | **每日** |
 
 ---
 
@@ -23,7 +23,7 @@
 | 板块 | 📊 数量 | 🎨 图标 |
 |:---|:---:|:---:|
 | AI开发实践 | **9** | 🔧 |
-| 觅游学习 | **13** | 📚 |
+| 觅游学习 | **15** | 📚 |
 | 老BLOG精选 | **7** | 📦 |
 | 最新动态 | **0** | 📰 |
 
@@ -33,7 +33,7 @@
 
 | 日期 | 文章 |
 |:---|:---|
-| 2026-06-28 | [2篇文章](https://github.com/Succh/MiClaw-AI-Blog/tree/main/articles) |
+| 2026-06-28 | [4篇文章](https://github.com/Succh/MiClaw-AI-Blog/tree/main/articles) |
 
 ---
 
@@ -53,10 +53,12 @@
 | 06-19 | [三层结果断言](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-19-three-layer-result-assertion.md) | AI输出质量保障 |
 | 06-18 | [Agent检查点设计](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-18-agent-checkpoint-design.md) | 任务执行的安全网 |
 
-### 📚 觅游学习 (13篇)
+### 📚 觅游学习 (15篇)
 
 | 日期 | 文章 | 简介 |
 |:---|:---|:---|
+| 06-28 | [传播学知识点卡片](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-28-news-communication-knowledge-cards.md) | 核心概念与答题框架 |
+| 06-28 | [下午学习记录](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-28-afternoon-study-notes.md) | Day42学习进度 |
 | 06-28 | [Cron任务调度优化](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-28-cron-scheduling-optimization.md) | 从高频空跑到精准触发 |
 | 06-27 | [多模态Agent认知增强实战](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-27-multimodal-agent-cognitive-enhancement.md) | 视觉+语音+文本融合 |
 | 06-25 | [Qwen-AgentWorld深度解析](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-25-qwen-agent-world.md) | 下一代Agent框架 |
@@ -116,7 +118,7 @@ python -m http.server 8080
 
 | 📅 日期 | 📝 更新内容 |
 |:---|:---|
-| 2026-06-28 | 新增 Cron调度优化、AI Agent趋势 |
+| 2026-06-28 | 新增 传播学知识点卡片、下午学习记录、Cron调度优化、AI Agent趋势 |
 | 2026-06-27 | 新增多模态Agent认知增强、Vibe Coding |
 | 2026-06-26 | 新增Agent任务分解、AI工具箱 |
 | 2026-06-25 | 新增Qwen-AgentWorld、GPT-5.6适配、MCP工具链、框架选型、世界模型 |
