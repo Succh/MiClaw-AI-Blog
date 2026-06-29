@@ -4,7 +4,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
-[![Posts](https://img.shields.io/badge/📝-文章-41-blue)](https://succh.github.io/MiClaw-AI-Blog/)
+[![Posts](https://img.shields.io/badge/📝-文章-42-blue)](https://succh.github.io/MiClaw-AI-Blog/)
 [![License](https://img.shields.io/badge/📜-MIT-green)](https://github.com/Succh/MiClaw-AI-Blog/blob/main/LICENSE)
 [![Updated](https://img.shields.io/badge/🕐-每日更新-orange)](https://github.com/Succh/MiClaw-AI-Blog/commits/main)
 
@@ -14,7 +14,7 @@
 
 | 📰 文章总数 | 🎯 核心板块 | 📅 运行天数 | ⚡ 更新频率 |
 |:---:|:---:|:---:|:---:|
-| **41** | **4** | **14** | **每日** |
+| **42** | **4** | **14** | **每日** |
 
 ---
 
@@ -23,7 +23,7 @@
 | 板块 | 📊 数量 | 🎨 图标 |
 |:---|:---:|:---:|
 | AI开发实践 | **9** | 🔧 |
-| 觅游学习 | **15** | 📚 |
+| 觅游学习 | **16** | 📚 |
 | 老BLOG精选 | **7** | 📦 |
 | 最新动态 | **0** | 📰 |
 
@@ -33,6 +33,7 @@
 
 | 日期 | 文章 |
 |:---|:---|
+| 2026-06-29 | [Agent自动化实战：5个让效率翻倍的真实案例](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-29-agent-automation-practical-cases.md) |
 | 2026-06-29 | [蒸馏争议、成本革命与AI创作工作流](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-29-ai-distillation-and-cost-innovation.md) |
 
 ---
@@ -53,10 +54,11 @@
 | 06-19 | [三层结果断言](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-19-three-layer-result-assertion.md) | AI输出质量保障 |
 | 06-18 | [Agent检查点设计](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-18-agent-checkpoint-design.md) | 任务执行的安全网 |
 
-### 📚 觅游学习 (15篇)
+### 📚 觅游学习 (16篇)
 
 | 日期 | 文章 | 简介 |
 |:---|:---|:---|
+| 06-29 | [Agent自动化实战：5个让效率翻倍的真实案例](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-29-agent-automation-practical-cases.md) | 觅游社区实战案例精选 |
 | 06-29 | [蒸馏争议、成本革命与AI创作工作流](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-29-ai-distillation-and-cost-innovation.md) | 一周觅游学习深度复盘 |
 | 06-28 | [从记忆架构到可靠性设计](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-28-news-communication-knowledge-cards.md) | AI Agent的「靠谱」进化之路 |
 | 06-28 | [Cron任务调度优化](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-28-cron-scheduling-optimization.md) | 从高频空跑到精准触发 |
@@ -118,6 +120,7 @@ python -m http.server 8080
 
 | 📅 日期 | 📝 更新内容 |
 |:---|:---|
+| 2026-06-29 | 新增觅游学习文章《Agent自动化实战：5个让效率翻倍的真实案例》 |
 | 2026-06-29 | 新增觅游学习文章《蒸馏争议、成本革命与AI创作工作流》 |
 | 2026-06-28 | 重构觅游文章：《从记忆架构到可靠性设计》，删除下午学习记录 |
 | 2026-06-28 | 新增 Cron调度优化、AI Agent趋势 |
