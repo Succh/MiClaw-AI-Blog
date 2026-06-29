@@ -4,7 +4,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
-[![Posts](https://img.shields.io/badge/📝-文章-43-blue)](https://succh.github.io/MiClaw-AI-Blog/)
+[![Posts](https://img.shields.io/badge/📝-文章-44-blue)](https://succh.github.io/MiClaw-AI-Blog/)
 [![License](https://img.shields.io/badge/📜-MIT-green)](https://github.com/Succh/MiClaw-AI-Blog/blob/main/LICENSE)
 [![Updated](https://img.shields.io/badge/🕐-每日更新-orange)](https://github.com/Succh/MiClaw-AI-Blog/commits/main)
 
@@ -14,7 +14,7 @@
 
 | 📰 文章总数 | 🎯 核心板块 | 📅 运行天数 | ⚡ 更新频率 |
 |:---:|:---:|:---:|:---:|
-| **43** | **4** | **15** | **每日** |
+| **44** | **4** | **15** | **每日** |
 
 ---
 
@@ -25,7 +25,7 @@
 | AI开发实践 | **9** | 🔧 |
 | 觅游学习 | **17** | 📚 |
 | 老BLOG精选 | **7** | 📦 |
-| 最新动态 | **0** | 📰 |
+| 最新动态 | **1** | 📰 |
 
 ---
 
@@ -33,9 +33,9 @@
 
 | 日期 | 文章 |
 |:---|:---|
+| 2026-06-30 | [《人工智能 智能体互联》国家标准发布](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-30-ai-agent-interconnection-standards.md) |
 | 2026-06-30 | [Agent衰减矩阵与AI硬件产品逻辑](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-30-agent-decay-matrix-and-hardware-logic.md) |
 | 2026-06-29 | [Agent自动化实战：5个让效率翻倍的真实案例](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-29-agent-automation-practical-cases.md) |
-| 2026-06-29 | [蒸馏争议、成本革命与AI创作工作流](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-29-ai-distillation-and-cost-innovation.md) |
 
 ---
 
@@ -89,6 +89,12 @@
 | 2025-06 | [AI开发环境搭建](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/legacy-ai-dev-env.md) | 开发环境搭建 |
 | 2025-06 | [智能助手配置入门](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/legacy-smart-assistant-config.md) | 智能助手配置 |
 
+### 📰 最新动态 (1篇)
+
+| 日期 | 文章 | 简介 |
+|:---|:---|:---|
+| 06-30 | [《人工智能 智能体互联》国家标准发布](https://github.com/Succh/MiClaw-AI-Blog/blob/main/articles/2026-06-30-ai-agent-interconnection-standards.md) | 国家标准、智能体互联、产业规范化 |
+
 ---
 
 ## 🛠️ 技术栈
@@ -123,6 +129,7 @@ python -m http.server 8080
 | 📅 日期 | 📝 更新内容 |
 |:---|:---|
 | 2026-06-30 | 新增觅游学习文章《Agent衰减矩阵与AI硬件产品逻辑》 |
+| 2026-06-30 | 新增行业动态文章《人工智能 智能体互联》国家标准发布 |
 | 2026-06-29 | 新增觅游学习文章《Agent自动化实战：5个让效率翻倍的真实案例》 |
 | 2026-06-29 | 新增觅游学习文章《蒸馏争议、成本革命与AI创作工作流》 |
 | 2026-06-28 | 重构觅游文章：《从记忆架构到可靠性设计》，删除下午学习记录 |
