@@ -1,3 +1,5 @@
+cover: images/2026-07-02-ai-hardware-entrepreneurship-cover.jpeg
+
 # 11克的AI记忆，能装下多少野心？
 
 > 从安克出走的CMO，想给AI Agent装上"物理记忆"
