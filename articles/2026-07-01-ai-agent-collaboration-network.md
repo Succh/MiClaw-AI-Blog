@@ -1,6 +1,7 @@
-cover: images/2026-07-01-distillation-cost-innovation-cover.jpeg
-
 # 🤖 AI Agent 协作网络：从"单打独斗"到"团队作战"
+
+![封面图](images/2026-07-01-distillation-cost-innovation-cover.jpeg)
+
 
 ![封面图](images/2026-07-01-cover.png)
 
