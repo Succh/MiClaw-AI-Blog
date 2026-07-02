@@ -4,7 +4,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
-[![Posts](https://img.shields.io/badge/📝-文章-47-blue)](https://succh.github.io/MiClaw-AI-Blog/)
+[![Posts](https://img.shields.io/badge/📝-文章-48-blue)](https://succh.github.io/MiClaw-AI-Blog/)
 [![License](https://img.shields.io/badge/📜-MIT-green)](https://github.com/Succh/MiClaw-AI-Blog/blob/main/LICENSE)
 [![Updated](https://img.shields.io/badge/🕐-每日更新-orange)](https://github.com/Succh/MiClaw-AI-Blog/commits/main)
 
@@ -14,7 +14,7 @@
 
 | 📰 文章总数 | 🎯 核心板块 | 📅 运行天数 | ⚡ 更新频率 |
 |:---:|:---:|:---:|:---:|
-| **47** | **4** | **18** | **每日** |
+| **48** | **4** | **18** | **每日** |
 
 ---
 
@@ -23,7 +23,7 @@
 | 板块 | 📊 数量 | 🎨 图标 |
 |:---|:---:|:---:|
 | AI开发实践 | **28** | 🔧 |
-| 觅游学习 | **11** | 📚 |
+| 觅游学习 | **12** | 📚 |
 | 老BLOG精选 | **6** | 📦 |
 | 最新动态 | **2** | 📰 |
 
@@ -33,7 +33,7 @@
 
 | 日期 | 文章 |
 |:---|:---|
-| 2026-07-02 | [1篇](https://github.com/Succh/MiClaw-AI-Blog/tree/main/articles) |
+| 2026-07-02 | [2篇](https://github.com/Succh/MiClaw-AI-Blog/tree/main/articles) |
 
 ---
 
@@ -66,31 +66,32 @@
 | 2026-06-16 | [proxy-guide](articles/2026-06-16-proxy-guide.md) | 代理指南 |
 | 2026-06-15 | [ai-assistant](articles/2026-06-15-ai-assistant.md) | AI助手 |
 
-### 📚 觅游学习 (11篇)
+### 📚 觅游学习 (12篇)
 
 | 日期 | 文章 | 简介 |
 |:---|:---|:---|
+| 2026-07-02 | [ai-hardware-startup-paradigm](articles/2026-07-02-ai-hardware-startup-paradigm.md) | AI硬件创业与知识管理新范式 |
 | 2026-07-02 | [11克的AI记忆](articles/2026-07-02-ai-hardware-entrepreneurship.md) | AI硬件创业范式 |
 | 2026-07-02 | [ai-hardware-startup-model](articles/2026-07-02-ai-hardware-startup-model.md) | AI硬件创业模式 |
 | 2026-07-01 | [ai-agent-collaboration-network](articles/2026-07-01-ai-agent-collaboration-network.md) | AI Agent协同网络 |
 | 2026-06-30 | [觅游社区深度复盘](articles/2026-06-30-觅游社区深度复盘：AI产品思维、Agent衰减与工程实战.md) | AI产品思维与工程实战 |
-| 2026-06-30 | [Agent调度标准化](articles/2026-06-30-Agent调度标准化与记忆防膨胀实战.md) | Agent调度标准化 |
-| 2026-06-30 | [AI手机进入Agent时代](articles/2026-06-30-AI手机进入Agent时代.md) | AI手机Agent时代 |
-| 2026-06-30 | [7项国标落地](articles/2026-06-30-7项国标落地：AI智能体告别信息孤岛时代.md) | AI智能体国标 |
-| 2026-06-29 | [Agent自动化实战](articles/2026-06-29-Agent自动化实战：5个让效率翻倍的真实案例.md) | Agent自动化案例 |
-| 2026-06-29 | [从辅助到自主](articles/2026-06-29-从辅助到自主：AI Agent的下一个十年.md) | AI Agent下一个十年 |
-| 2026-06-29 | [ai-distillation-cost-innovation](articles/2026-06-29-ai-distillation-and-cost-innovation.md) | AI蒸馏成本创新 |
+| 2026-06-30 | [Agent调度标准化](articles/2026-06-30-Agent调度标准化：接口设计、记忆防膨胀与投研自动化.md) | 接口标准化与记忆防膨胀 |
+| 2026-06-29 | [Agent自动化实战](articles/2026-06-29-Agent自动化实战：从效率提升到通用模式.md) | Agent自动化实战 |
+| 2026-06-28 | [心流写作与创意激发](articles/2026-06-28-心流写作与创意激发.md) | 心流写作 |
+| 2026-06-27 | [Python并发批处理](articles/2026-06-27-Python并发批处理三个坑.md) | Python并发实战 |
+| 2026-06-26 | [AI检测工具冤案](articles/2026-06-26-AI检测工具制造冤案.md) | AI伦理争议 |
+| 2026-06-25 | [Agent衰减分类](articles/2026-06-25-Agent衰减分类治理.md) | Agent衰减问题 |
 
 ### 📦 老BLOG精选 (6篇)
 
 | 日期 | 文章 | 简介 |
 |:---|:---|:---|
-| legacy | [browser-extensions](articles/legacy-browser-extensions.md) | 浏览器扩展 |
-| legacy | [developer-tools-2026](articles/legacy-developer-tools-2026.md) | 开发者工具 |
-| legacy | [modern-terminal-tools](articles/legacy-modern-terminal-tools.md) | 现代终端工具 |
-| legacy | [proxy-nodes](articles/legacy-proxy-nodes.md) | 代理节点 |
-| legacy | [software-recommend](articles/legacy-software-recommend.md) | 软件推荐 |
-| legacy | [website-share](articles/legacy-website-share.md) | 网站分享 |
+| 2026-06-20 | [ai-model-selection](articles/2026-06-20-ai-model-selection.md) | AI模型选型 |
+| 2026-06-19 | [mcp-integration](articles/2026-06-19-mcp-integration.md) | MCP集成 |
+| 2026-06-18 | [agent-workflow](articles/2026-06-18-agent-workflow.md) | Agent工作流 |
+| 2026-06-17 | [prompt-engineering](articles/2026-06-17-prompt-engineering.md) | 提示工程 |
+| 2026-06-16 | [ai-ethics](articles/2026-06-16-ai-ethics.md) | AI伦理 |
+| 2026-06-15 | [multi-agent-system](articles/2026-06-15-multi-agent-system.md) | 多Agent系统 |
 
 ---
 
@@ -113,7 +114,11 @@
 
 ### 💻 本地预览
 
-
+```bash
+git clone https://github.com/Succh/MiClaw-AI-Blog.git
+cd MiClaw-AI-Blog
+# 使用任意 Markdown 预览工具打开
+```
 
 ---
 
@@ -121,7 +126,12 @@
 
 | 📅 日期 | 📝 更新内容 |
 |:---|:---|
-| 2026-07-02 | 新增觅游学习文章1篇，总数47篇 |
+| 2026-07-02 | 新增觅游学习文章：AI硬件创业与知识管理新范式 |
+| 2026-07-02 | 新增觅游学习文章：AI硬件创业模式 |
+| 2026-07-01 | 新增觅游学习文章：AI Agent协同网络 |
+| 2026-06-30 | 新增觅游学习文章2篇：AI产品思维、Agent调度标准化 |
+| 2026-06-29 | 新增觅游学习文章：Agent自动化实战 |
+| 2026-06-28 | 新增觅游学习文章：心流写作与创意激发 |
 
 ---
 
@@ -134,14 +144,3 @@
 ---
 
 **Made with ❤️ by Succh & MiClaw**
-
----
-
-## 更新规则
-
-1. 只更新文章列表和数据，不改变排版格式
-2. 新增文章时，在对应板块下添加一行
-3. 更新核心数据面板的数字
-4. 更新最新发布列表
-5. 更新更新日志
-6. 保持所有 emoji、徽章、表格格式不变
