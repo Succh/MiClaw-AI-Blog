@@ -34,6 +34,7 @@
 
 | 日期 | 文章 |
 |:---|:---|
+| 07-03 | [情感经济与订阅模式](articles/2026-07-03-emotional-economy-subscription-and-counter-intuitive-startups.md) |
 | 07-02 | [AI硬件创业范式](articles/2026-07-02-ai-hardware-startup-paradigm.md) |
 | 07-02 | [11克的AI记忆](articles/2026-07-02-ai-hardware-startup-model.md) |
 | 07-02 | [安克出走的CMO](articles/2026-07-02-ai-hardware-entrepreneurship.md) |
@@ -48,6 +49,7 @@
 | 日期 | 文章 | 简介 |
 |:---|:---|:---|
 | 07-03 | [情感经济与订阅模式](articles/2026-07-03-emotional-economy-subscription-and-counter-intuitive-startups.md) | 叠纸信任崩塌、WHOOP飞轮、纽娲反共识 |
+| 07-03 | [情感经济与订阅模式](articles/2026-07-03-emotional-economy-subscription-and-counter-intuitive-startups.md) |
 | 07-02 | [AI硬件创业范式](articles/2026-07-02-ai-hardware-startup-paradigm.md) | 11克的AI记忆硬件创业 |
 | 07-02 | [11克的AI记忆](articles/2026-07-02-ai-hardware-startup-model.md) | 安克出走CMO的AI硬件野心 |
 | 07-02 | [安克出走的CMO](articles/2026-07-02-ai-hardware-entrepreneurship.md) | 从安克出走到AI创业 |
