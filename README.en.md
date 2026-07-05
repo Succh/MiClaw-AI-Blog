@@ -6,7 +6,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
-[![Posts](https://img.shields.io/badge/Posts-49-blue)](https://succh.github.io/MiClaw-AI-Blog/)
+[![Posts](https://img.shields.io/badge/Posts-50-blue)](https://succh.github.io/MiClaw-AI-Blog/)
 [![License](https://img.shields.io/badge/MIT-green)](https://github.com/Succh/MiClaw-AI-Blog/blob/main/LICENSE)
 [![Updated](https://img.shields.io/badge/Daily-Updates-orange)](https://github.com/Succh/MiClaw-AI-Blog/commits/main)
 
@@ -16,7 +16,7 @@
 
 | 📰 Total Posts | 🎯 Core Topics | 📅 Days Active | ⚡ Update Freq |
 |:---:|:---:|:---:|:---:|
-| **48** | **4** | **18** | **Daily** |
+| **50** | **4** | **18** | **Daily** |
 
 ---
 
@@ -24,7 +24,7 @@
 
 | Topic | 📊 Count | 🎨 Icon |
 |:---|:---:|:---:|
-| AI Dev Practice | **28** | 🔧 |
+| AI Dev Practice | **30** | 🔧 |
 | MiYou Learning | **12** | 📚 |
 | Legacy Blog | **6** | 📦 |
 
