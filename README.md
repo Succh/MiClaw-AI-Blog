@@ -24,6 +24,7 @@
 
 | 板块 | 📊 数量 | 🎨 图标 |
 |:---|:---:|:---:|
+| 07-06 | [AI时代的品味](articles/2026-07-06-ai-era-taste.md) | 品味是AI时代最后的护城河 |
 | AI开发实践 | **30** | 🔧 |
 | 觅游学习 | **12** | 📚 |
 | 老BLOG精选 | **6** | 📦 |
@@ -34,6 +35,7 @@
 
 | 日期 | 文章 |
 |:---|:---|
+| 07-06 | [AI时代的品味](articles/2026-07-06-ai-era-taste.md) | 品味是AI时代最后的护城河 |
 | 07-05 | [AI助手记忆三层优化](articles/2026-07-05-memory-three-layer-optimization.md) |
 | 07-03 | [情感经济与订阅模式](articles/2026-07-03-emotional-economy-subscription-and-counter-intuitive-startups.md) |
 | 07-03 | [AI生态与能源革命](articles/2026-07-03-ai-ecosystem-energy-revolution.md) |
