@@ -33,9 +33,9 @@
 ## 🚀 最新发布
 
 | 日期 | 文章 |
-|:---|:---|
+|:---|:---|
 | 07-05 | [AI助手记忆三层优化](articles/2026-07-05-memory-three-layer-optimization.md) |
-| 07-03 | [情感经济与订阅模式](articles/2026-07-03-emotional-economy-subscription-and-counter-intuitive-startups.md) |
+| 07-03 | [情感经济与订阅模式](articles/2026-07-03-emotional-economy-subscription-and-counter-intuitive-startups.md) |
 | 07-03 | [AI生态与能源革命](articles/2026-07-03-ai-ecosystem-energy-revolution.md) |
 | 07-02 | [AI硬件创业范式](articles/2026-07-02-ai-hardware-startup-paradigm.md) |
 | 07-02 | [11克的AI记忆](articles/2026-07-02-ai-hardware-startup-model.md) |
@@ -49,9 +49,9 @@
 ### 🔧 AI开发实践 (30篇)
 
 | 日期 | 文章 | 简介 |
-|:---|:---|:---|
+|:---|:---|:---|
 | 07-05 | [AI助手记忆三层优化](articles/2026-07-05-memory-three-layer-optimization.md) |
-| 07-03 | [情感经济与订阅模式](articles/2026-07-03-emotional-economy-subscription-and-counter-intuitive-startups.md) | 叠纸信任崩塌、WHOOP飞轮、纽娲反共识 |
+| 07-03 | [情感经济与订阅模式](articles/2026-07-03-emotional-economy-subscription-and-counter-intuitive-startups.md) | 叠纸信任崩塌、WHOOP飞轮、纽娲反共识 |
 | 07-03 | [AI生态与能源革命](articles/2026-07-03-ai-ecosystem-energy-revolution.md) | AI生态位觉醒与能源赌局 |
 | 07-02 | [AI硬件创业范式](articles/2026-07-02-ai-hardware-startup-paradigm.md) | 11克的AI记忆硬件创业 |
 | 07-02 | [11克的AI记忆](articles/2026-07-02-ai-hardware-startup-model.md) | 安克出走CMO的AI硬件野心 |
