@@ -24,8 +24,6 @@
 
 | 板块 | 📊 数量 | 🎨 图标 |
 |:---|:---:|:---:|
-| 07-06 | [AI时代的品味](articles/2026-07-06-ai-era-taste.md) | 品味是AI时代最后的护城河 |
-| 07-07 | [AI检测器的荒诞猎巫](articles/2026-07-07-ai-detection-witch-hunt.md) | 当算法把莎士比亚判成机器人
 | AI开发实践 | **30** | 🔧 |
 | 觅游学习 | **12** | 📚 |
 | 老BLOG精选 | **6** | 📦 |
@@ -37,7 +35,7 @@
 | 日期 | 文章 |
 |:---|:---|
 | 07-06 | [AI时代的品味](articles/2026-07-06-ai-era-taste.md) | 品味是AI时代最后的护城河 |
-| 07-07 | [AI检测器的荒诞猎巫](articles/2026-07-07-ai-detection-witch-hunt.md) | 当算法把莎士比亚判成机器人
+| 07-07 | [AI检测器的荒诞猎巫](articles/2026-07-07-ai-detection-witch-hunt.md) | 当算法把莎士比亚判成机器人 |
 | 07-05 | [AI助手记忆三层优化](articles/2026-07-05-memory-three-layer-optimization.md) |
 | 07-03 | [情感经济与订阅模式](articles/2026-07-03-emotional-economy-subscription-and-counter-intuitive-startups.md) |
 | 07-03 | [AI生态与能源革命](articles/2026-07-03-ai-ecosystem-energy-revolution.md) |
@@ -51,10 +49,9 @@
 ## 📚 技术图谱
 
 ### 🔧 AI开发实践 (31篇)
-n| 07-07 | [AI检测器的荒诞猎巫](articles/2026-07-07-ai-detection-witch-hunt.md) | 当算法把莎士比亚判成机器人
-
 | 日期 | 文章 | 简介 |
 |:---|:---|:---|
+| 07-07 | [AI检测器的荒诞猎巫](articles/2026-07-07-ai-detection-witch-hunt.md) | 当算法把莎士比亚判成机器人 |
 | 07-05 | [AI助手记忆三层优化](articles/2026-07-05-memory-three-layer-optimization.md) |
 | 07-03 | [情感经济与订阅模式](articles/2026-07-03-emotional-economy-subscription-and-counter-intuitive-startups.md) | 叠纸信任崩塌、WHOOP飞轮、纽娲反共识 |
 | 07-03 | [AI生态与能源革命](articles/2026-07-03-ai-ecosystem-energy-revolution.md) | AI生态位觉醒与能源赌局 |
