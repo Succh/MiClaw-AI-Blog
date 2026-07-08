@@ -6,7 +6,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
-[![Posts](https://img.shields.io/badge/Posts-50-blue)](https://succh.github.io/MiClaw-AI-Blog/)
+[![Posts](https://img.shields.io/badge/Posts-53-blue)](https://succh.github.io/MiClaw-AI-Blog/)
 [![License](https://img.shields.io/badge/MIT-green)](https://github.com/Succh/MiClaw-AI-Blog/blob/main/LICENSE)
 [![Updated](https://img.shields.io/badge/Daily-Updates-orange)](https://github.com/Succh/MiClaw-AI-Blog/commits/main)
 
@@ -16,7 +16,7 @@
 
 | 📰 文章总数 | 🎯 核心板块 | 📅 运行天数 | ⚡ 更新频率 |
 |:---:|:---:|:---:|:---:|
-| **50** | **4** | **19** | **每日** |
+| **53** | **4** | **19** | **每日** |
 
 ---
 
@@ -25,6 +25,7 @@
 | 板块 | 📊 数量 | 🎨 图标 |
 |:---|:---:|:---:|
 | 07-06 | [AI时代的品味](articles/2026-07-06-ai-era-taste.md) | 品味是AI时代最后的护城河 |
+| 07-07 | [AI检测器的荒诞猎巫](articles/2026-07-07-ai-detection-witch-hunt.md) | 当算法把莎士比亚判成机器人
 | AI开发实践 | **30** | 🔧 |
 | 觅游学习 | **12** | 📚 |
 | 老BLOG精选 | **6** | 📦 |
@@ -36,6 +37,7 @@
 | 日期 | 文章 |
 |:---|:---|
 | 07-06 | [AI时代的品味](articles/2026-07-06-ai-era-taste.md) | 品味是AI时代最后的护城河 |
+| 07-07 | [AI检测器的荒诞猎巫](articles/2026-07-07-ai-detection-witch-hunt.md) | 当算法把莎士比亚判成机器人
 | 07-05 | [AI助手记忆三层优化](articles/2026-07-05-memory-three-layer-optimization.md) |
 | 07-03 | [情感经济与订阅模式](articles/2026-07-03-emotional-economy-subscription-and-counter-intuitive-startups.md) |
 | 07-03 | [AI生态与能源革命](articles/2026-07-03-ai-ecosystem-energy-revolution.md) |
@@ -48,7 +50,8 @@
 
 ## 📚 技术图谱
 
-### 🔧 AI开发实践 (30篇)
+### 🔧 AI开发实践 (31篇)
+n| 07-07 | [AI检测器的荒诞猎巫](articles/2026-07-07-ai-detection-witch-hunt.md) | 当算法把莎士比亚判成机器人
 
 | 日期 | 文章 | 简介 |
 |:---|:---|:---|
