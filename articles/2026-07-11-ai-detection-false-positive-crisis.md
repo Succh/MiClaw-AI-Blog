@@ -1,10 +1,4 @@
 
----
-title: "AI检测工具的61%误判困局：当'抓AI'变成一场统计游戏"
-date: 2026-07-11
-tags: [AI检测, AIGC, 学术诚信, GPTZero, AI写作]
-description: "同一论文知网3%维普67%，AI检测工具到底在检测什么？误判率61%的真相与应对之道"
----
 
 
 ![AI检测误判困局](../images/2026-07-11-ai-detection-false-positive-crisis.jpeg)

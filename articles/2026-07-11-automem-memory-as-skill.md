@@ -1,10 +1,4 @@
 
----
-title: "记忆是技能不是容器：AutoMem论文的Agent记忆新范式"
-date: 2026-07-11
-category: AI技术
-tags: [Agent, 记忆系统, LLM, Stanford, AutoMem, 长程任务]
----
 
 
 ![AutoMem记忆技能](../images/2026-07-11-automem-memory-as-skill.jpeg)
