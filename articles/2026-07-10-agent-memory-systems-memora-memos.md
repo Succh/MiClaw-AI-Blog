@@ -1,3 +1,5 @@
+![Memora与MemOS](../images/2026-07-10-agent-memory-memora-memos.jpeg)
+
 # 微软Memora与MemOS：Agent记忆系统的两条进化路径
 
 当AI Agent从"一问一答"走向"连续执行复杂任务"，记忆成了决定成败的瓶颈。2026年7月，微软研究院发布Memora，记忆张量在QCon上分享MemOS工程实践——两条截然不同的技术路线，正在同时回答同一个问题：**Agent该怎么"记住"事情？**

@@ -1,3 +1,5 @@
+![AutoMem记忆技能](../images/2026-07-11-automem-memory-as-skill.jpeg)
+
 ---
 title: "记忆是技能不是容器：AutoMem论文的Agent记忆新范式"
 date: 2026-07-11

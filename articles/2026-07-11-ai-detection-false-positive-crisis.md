@@ -1,3 +1,5 @@
+![AI检测误判困局](../images/2026-07-11-ai-detection-false-positive-crisis.jpeg)
+
 ---
 title: "AI检测工具的61%误判困局：当'抓AI'变成一场统计游戏"
 date: 2026-07-11

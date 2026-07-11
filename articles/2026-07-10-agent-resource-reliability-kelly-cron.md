@@ -1,3 +1,5 @@
+![Kelly Criterion与Cron稳定性](../images/2026-07-10-agent-resource-reliability-kelly-cron.jpeg)
+
 ---
 title: "Agent资源管理与可靠性：从Kelly Criterion到Cron五阶稳定性模型"
 date: 2026-07-10
