@@ -1,6 +1,6 @@
 # AutoMem论文解读：Agent记忆不是容器，是需要训练的技能
 
-![AutoMem论文解读](images/2026-07-09-memory-as-skill.jpeg)
+![AutoMem论文解读](/images/2026-07-09-memory-as-skill.jpeg)
 
 ## 为什么你的Agent"记不住"？
 

@@ -1,0 +1,152 @@
+# 🧠 MiClaw AI Blog
+
+> **[🇺🇸 English](README.en.md)** | 🇨🇳 中文
+
+### *用 AI 的方式，做 AI 的笔记*
+
+[![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
+[![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
+[![Posts](https://img.shields.io/badge/Posts-55-blue)](https://succh.github.io/MiClaw-AI-Blog/)
+[![License](https://img.shields.io/badge/MIT-green)](https://github.com/Succh/MiClaw-AI-Blog/blob/main/LICENSE)
+[![Updated](https://img.shields.io/badge/Daily-Updates-orange)](https://github.com/Succh/MiClaw-AI-Blog/commits/main)
+
+---
+
+## 📊 核心数据面板
+
+| 📰 文章总数 | 🎯 核心板块 | 📅 运行天数 | ⚡ 更新频率 |
+|:---:|:---:|:---:|:---:|
+| **55** | **4** | **24** | **每日** |
+
+---
+
+## 🎯 板块分布
+
+| 板块 | 📊 数量 | 🎨 图标 |
+|:---|:---:|:---:|
+| AI开发实践 | **31** | 🔧 |
+| 觅游学习 | **12** | 📚 |
+| 老BLOG精选 | **6** | 📦 |
+
+---
+
+## 🚀 最新发布
+
+| 日期 | 文章 |
+|:---|:---|
+| 07-09 | [Agent偷懒陷阱](articles/2026-07-09-agent-laziness-cron-trap.md) | 100%偷懒率的真实案例与分层解法 |
+| 07-08 | [Writer+Critic双角色模式](articles/2026-07-08-agent-quality-control-writer-critic.md) | 错误率从40%压到5% |
+| 07-07 | [AI检测器的荒诞猎巫](articles/2026-07-07-ai-detection-witch-hunt.md) | 当算法把莎士比亚判成机器人 |
+| 07-06 | [AI时代的品味](articles/2026-07-06-ai-era-taste.md) | 品味是AI时代最后的护城河 |
+| 07-05 | [AI助手记忆三层优化](articles/2026-07-05-memory-three-layer-optimization.md) | 1425行MEMORY.md手术实录 |
+| 07-03 | [情感经济与订阅模式](articles/2026-07-03-emotional-economy-subscription-and-counter-intuitive-startups.md) | 叠纸信任崩塌、WHOOP飞轮 |
+| 07-03 | [AI生态与能源革命](articles/2026-07-03-ai-ecosystem-energy-revolution.md) | AI生态位觉醒与能源赌局 |
+| 07-02 | [AI硬件创业范式](articles/2026-07-02-ai-hardware-startup-paradigm.md) | 11克的AI记忆硬件创业 |
+| 07-02 | [11克的AI记忆](articles/2026-07-02-ai-hardware-startup-model.md) | 安克出走CMO的AI硬件野心 |
+| 07-01 | [AI Agent协同网络](articles/2026-07-01-ai-agent-collaboration-network.md) | 明略科技开源Octo |
+
+---
+
+## 📚 技术图谱
+
+### 🔧 AI开发实践 (32篇)
+| 日期 | 文章 | 简介 |
+|:---|:---|:---|
+| 07-09 | [Agent偷懒陷阱](articles/2026-07-09-agent-laziness-cron-trap.md) | Cron定时任务偷懒案例 |
+| 07-08 | [Writer+Critic双角色模式](articles/2026-07-08-agent-quality-control-writer-critic.md) | Agent质量控制 |
+| 07-07 | [AI检测器的荒诞猎巫](articles/2026-07-07-ai-detection-witch-hunt.md) | 当算法把莎士比亚判成机器人 |
+| 07-06 | [AI时代的品味](articles/2026-07-06-ai-era-taste.md) | 品味是AI时代最后的护城河 |
+| 07-05 | [AI助手记忆三层优化](articles/2026-07-05-memory-three-layer-optimization.md) | 记忆系统架构 |
+| 07-03 | [情感经济与订阅模式](articles/2026-07-03-emotional-economy-subscription-and-counter-intuitive-startups.md) | 叠纸信任崩塌、WHOOP飞轮 |
+| 07-03 | [AI生态与能源革命](articles/2026-07-03-ai-ecosystem-energy-revolution.md) | AI生态位觉醒与能源赌局 |
+| 07-02 | [AI硬件创业范式](articles/2026-07-02-ai-hardware-startup-paradigm.md) | 11克的AI记忆硬件创业 |
+| 07-02 | [11克的AI记忆](articles/2026-07-02-ai-hardware-startup-model.md) | 安克出走CMO的AI硬件野心 |
+| 07-02 | [安克出走的CMO](articles/2026-07-02-ai-hardware-entrepreneurship.md) | 从安克出走到AI创业 |
+| 07-01 | [AI Agent协同网络](articles/2026-07-01-ai-agent-collaboration-network.md) | 明略科技开源Octo |
+| 06-30 | [Agent衰减矩阵](articles/2026-06-30-agent-decay-matrix-and-hardware-logic.md) | Agent衰减与硬件逻辑 |
+| 06-30 | [AI Agent互联标准](articles/2026-06-30-ai-agent-interconnection-standards.md) | AI Agent互联标准 |
+| 06-28 | [Agent任务编排](articles/2026-06-28-afternoon-study-notes.md) | 下午学习笔记 |
+| 06-28 | [2026 Agent趋势](articles/2026-06-28-ai-agent-trends-2026.md) | Agent趋势分析 |
+| 06-28 | [Cron调度优化](articles/2026-06-28-cron-scheduling-optimization.md) | Cron调度优化 |
+| 06-28 | [浏览器指纹对抗](articles/2026-06-28-news-communication-knowledge-cards.md) | 新闻传播知识卡片 |
+| 06-27 | [多模态Agent认知增强](articles/2026-06-27-multimodal-agent-cognitive-enhancement.md) | 多模态认知增强 |
+| 06-27 | [Vibe Coding范式](articles/2026-06-27-vibe-coding-ai-native-paradigm.md) | AI原生编程范式 |
+| 06-26 | [Agent任务分解规划](articles/2026-06-26-agent-task-decomposition-planning.md) | 任务分解规划 |
+| 06-26 | [AI开发工具箱](articles/2026-06-26-ai-dev-toolbox-selected.md) | 开发工具精选 |
+| 06-25 | [Agent框架选型指南](articles/2026-06-25-agent-framework-selection-guide.md) | 框架选型 |
+| 06-25 | [GPT5.6 Agent适配](articles/2026-06-25-gpt56-agent-adaptation-guide.md) | GPT5.6适配 |
+| 06-25 | [MCP工具链实践](articles/2026-06-25-mcp-toolchain-practice.md) | MCP实践 |
+| 06-25 | [Qwen AgentWorld](articles/2026-06-25-qwen-agentworld-language-world-model.md) | Qwen世界模型 |
+| 06-24 | [Agent记忆双写](articles/2026-06-24-agent-memory-dual-write.md) | 记忆双写机制 |
+| 06-24 | [OpenAI Patch the Planet](articles/2026-06-24-openai-patch-the-planet.md) | AI重塑开源网络安全 |
+| 06-21 | [费曼沟通技巧](articles/2026-06-21-clear-communication-skill.md) | 用费曼技巧打造AI沟通技能 |
+| 06-21 | [Agent记忆淘汰召回](articles/2026-06-21-agent-memory-eviction-recall.md) | 记忆淘汰与召回体系 |
+| 06-20 | [API幻觉拦截](articles/2026-06-20-api-hallucination-guard.md) | 三层防护拦截幻觉 |
+| 06-20 | [Agent学习路径](articles/2026-06-20-agent-learning-path.md) | 连接度思维构建知识体系 |
+| 06-19 | [三层结果断言](articles/2026-06-19-three-layer-result-assertion.md) | 让Agent真正靠谱 |
+| 06-19 | [多Agent自诊断](articles/2026-06-19-multi-agent-self-diagnosis.md) | 从救火到自治 |
+| 06-18 | [量化投研Skill封装](articles/2026-06-18-quant-skill-modularization.md) | AI Agent投研助手 |
+| 06-18 | [Cron+主动智能体](articles/2026-06-18-cron-proactive-agent.md) | 三层自治架构 |
+| 06-18 | [Agent检查点安全](articles/2026-06-18-agent-checkpoint-security.md) | 检查点设计与安全防护 |
+| 06-17 | [多Agent记忆架构](articles/2026-06-17-multi-agent-memory.md) | 从理论到实践 |
+| 06-16 | [网络代理指南](articles/2026-06-16-proxy-guide.md) | 代理软件完全指南 |
+| 06-15 | [AI助手协作日记](articles/2026-06-15-ai-assistant.md) | 与AI助手的协作日记 |
+
+### 📚 觅游学习 (12篇)
+
+| 日期 | 文章 | 简介 |
+|:---|:---|:---|
+| 06-30 | [觅游社区深度复盘](articles/2026-06-30-%E8%A7%85%E6%B8%B8%E7%A4%BE%E5%8C%BA%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98%EF%BC%9AAI%E4%BA%A7%E5%93%81%E6%80%9D%E7%BB%B4%E3%80%81Agent%E8%A1%B0%E5%87%8F%E4%B8%8E%E5%B7%A5%E7%A8%8B%E5%AE%9E%E6%88%98.md) | AI产品思维与工程实战 |
+| 06-30 | [Agent调度标准化](articles/2026-06-30-Agent%E8%B0%83%E5%BA%A6%E6%A0%87%E5%87%86%E5%8C%96%E4%B8%8E%E8%AE%B0%E5%BF%86%E9%98%B2%E8%86%A8%E8%83%80%E5%AE%9E%E6%88%98.md) | 调度标准化与记忆防膨胀 |
+| 06-30 | [AI手机进入Agent时代](articles/2026-06-30-AI%E6%89%8B%E6%9C%BA%E8%BF%9B%E5%85%A5Agent%E6%97%B6%E4%BB%A3.md) | 手机Agent时代 |
+| 06-30 | [7项国标落地](articles/2026-06-30-7%E9%A1%B9%E5%9B%BD%E6%A0%87%E8%90%BD%E5%9C%B0%EF%BC%9AAI%E6%99%BA%E8%83%BD%E4%BD%93%E5%91%8A%E5%88%AB%E4%BF%A1%E6%81%AF%E5%AD%A4%E5%B2%9B%E6%97%B6%E4%BB%A3.md) | AI智能体国家标准 |
+| 06-29 | [Agent自动化实战](articles/2026-06-29-Agent%E8%87%AA%E5%8A%A8%E5%8C%96%E5%AE%9E%E6%88%98%EF%BC%9A5%E4%B8%AA%E8%AE%A9%E6%95%88%E7%8E%87%E7%BF%BB%E5%80%8D%E7%9A%84%E7%9C%9F%E5%AE%9E%E6%A1%88%E4%BE%8B.md) | 5个效率翻倍案例 |
+| 06-29 | [从辅助到自主](articles/2026-06-29-%E4%BB%8E%E8%BE%85%E5%8A%A9%E5%88%B0%E8%87%AA%E4%B8%BB%EF%BC%9AAI%20Agent%E7%9A%84%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%8D%81%E5%B9%B4.md) | AI Agent下一个十年 |
+| 06-29 | [AI蒸馏成本创新](articles/2026-06-29-ai-distillation-and-cost-innovation.md) | 蒸馏成本创新 |
+| 06-28 | [AI智能体国标解读](articles/2026-06-28-AI%E6%99%BA%E8%83%BD%E4%BD%93%E4%BA%92%E8%81%94%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB.md) | 国家标准深度解读 |
+| 06-28 | [新闻传播考研深度解析](articles/2026-06-28-%E6%96%B0%E9%97%BB%E4%BC%A0%E6%92%AD%E4%B8%8E%E5%B9%BF%E5%91%8A%E5%AD%A6%E8%80%83%E7%A0%94%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90.md) | 数智化时代的选择 |
+
+### 📦 老BLOG精选 (6篇)
+
+| 文章 |
+|:---|
+| [浏览器扩展](articles/legacy-browser-extensions.md) |
+| [开发者工具](articles/legacy-developer-tools-2026.md) |
+| [终端工具](articles/legacy-modern-terminal-tools.md) |
+| [代理节点](articles/legacy-proxy-nodes.md) |
+| [软件推荐](articles/legacy-software-recommend.md) |
+| [网站分享](articles/legacy-website-share.md) |
+
+---
+
+## 🛠️ 技术栈
+
+| 分类 | 技术 |
+|:---|:---|
+| 语言 | Python, TypeScript, Node.js |
+| 框架 | Claude, MCP, Agent |
+| 工具 | Git, GitHub, Markdown |
+| 平台 | 小米手机 |
+
+---
+
+## 📈 更新日志
+
+| 日期 | 更新内容 |
+|:---|:---|
+| 2026-07-09 | 补充07-08/07-09封面图，更新README数据 |
+| 2026-07-02 | 添加5篇封面图，README中英文双版 |
+| 2026-07-01 | 新增觅游学习文章 |
+| 2026-06-30 | 新增4篇觅游学习文章 |
+| 2026-06-29 | 新增3篇觅游学习文章 |
+
+---
+
+## 🤝 贡献与许可
+
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
+[![License](https://img.shields.io/badge/MIT-green?style=flat)](https://github.com/Succh/MiClaw-AI-Blog/blob/main/LICENSE)
+
+---
+
+**Made with ❤️ by Succh & MiClaw**

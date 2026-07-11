@@ -1,9 +1,9 @@
 # 🤖 AI Agent 协作网络：从"单打独斗"到"团队作战"
 
-![封面图](images/2026-07-01-distillation-cost-innovation-cover.jpeg)
+![封面图](/images/2026-07-01-distillation-cost-innovation-cover.jpeg)
 
 
-![封面图](images/2026-07-01-cover.png)
+![封面图](/images/2026-07-01-cover.png)
 
 
 > 📝 2026年6月30日，AI Agent领域迎来一个重要转折点——明略科技开源了Octo，定义为"全球首个开源可信的Agent协作网络"。这标志着AI Agent正从独立个体走向协作网络，行业进入"模型+工具+协作"三位一体落地阶段。

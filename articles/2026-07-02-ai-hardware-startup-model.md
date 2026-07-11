@@ -1,6 +1,6 @@
 # 11克的AI记忆，能装下多少野心？
 
-![封面图](images/2026-07-02-ai-hardware-startup-model-cover.jpeg)
+![封面图](/images/2026-07-02-ai-hardware-startup-model-cover.jpeg)
 
 
 > 当大厂还在卷模型参数，有人已经把AI塞进了11克的硬件里

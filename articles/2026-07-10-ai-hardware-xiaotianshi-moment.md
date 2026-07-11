@@ -1,6 +1,6 @@
 # AI硬件的"小天才时刻"：从翻车案例看成功的三要素
 
-![AI硬件小天才时刻](images/ai-hardware-xiaotianshi-moment.jpeg)
+![AI硬件小天才时刻](/images/ai-hardware-xiaotianshi-moment.jpeg)
 
 当AI Pin在CES上惊艳亮相，当Rabbit R1以复古造型刷爆社交媒体，我们都以为看到了"下一代计算平台"的曙光。然而一年过去，这些曾经的明星产品却悄然退场，留下一地鸡毛和三个深刻教训。
 

@@ -2,7 +2,7 @@
 
 > 规则存活率从7%到42%，同类错误复发率从35%降到8%——靠的不是换更贵的模型，而是给记忆做了一次外科手术。
 
-![cover](images/2026-07-05-memory-optimization.jpeg)
+![cover](/images/2026-07-05-memory-optimization.jpeg)
 
 ## 问题：1425行的"记忆肿瘤"
 
