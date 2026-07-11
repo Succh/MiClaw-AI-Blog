@@ -1,4 +1,3 @@
-![多Agent Skill链](../images/2026-07-11-multi-agent-skill-chain.jpeg)
 
 ---
 title: "多Agent Skill链编排：从'一个人干'到'流水线协同'的实战跃迁"
@@ -6,6 +5,11 @@ date: 2026-07-11
 category: Agent架构
 tags: [多Agent, Skill链, 编排, Hermes, 工作流]
 ---
+
+
+![多Agent Skill链](../images/2026-07-11-multi-agent-skill-chain.jpeg)
+
+
 
 # 多Agent Skill链编排：从"一个人干"到"流水线协同"的实战跃迁
 

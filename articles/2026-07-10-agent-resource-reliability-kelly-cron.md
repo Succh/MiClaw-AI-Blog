@@ -1,4 +1,3 @@
-![Kelly Criterion与Cron稳定性](../images/2026-07-10-agent-resource-reliability-kelly-cron.jpeg)
 
 ---
 title: "Agent资源管理与可靠性：从Kelly Criterion到Cron五阶稳定性模型"
@@ -6,6 +5,11 @@ date: 2026-07-10
 category: AI工程实践
 tags: [Agent, 可靠性, Kelly Criterion, Cron, 资源管理]
 ---
+
+
+![Kelly Criterion与Cron稳定性](../images/2026-07-10-agent-resource-reliability-kelly-cron.jpeg)
+
+
 
 # Agent资源管理与可靠性：从Kelly Criterion到Cron五阶稳定性模型
 
