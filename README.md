@@ -3,18 +3,18 @@
 > *用 AI 的方式，做 AI 的笔记*
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Articles](https://img.shields.io/badge/articles-49-green.svg)
+![Articles](https://img.shields.io/badge/articles-55-green.svg)
 ![Updated](https://img.shields.io/badge/updated-2026--07--11-orange.svg)
 
 ## 📌 仓库概览
 
 | 📰 文章总数 | 🎯 核心板块 | 📅 运行天数 | ⚡ 更新频率 |
 |:---:|:---:|:---:|:---:|
-| **49** | **3** | **26** | **每日** |
+| **55** | **3** | **27** | **每日** |
 
 | 板块 | 📊 数量 | 🎨 说明 |
 |:---|:---:|:---|
-| AI开发实践 | **22** | 🔧 模型评测、Agent架构、工具链、工程实践 |
+| AI开发实践 | **28** | 🔧 模型评测、Agent架构、工具链、工程实践 |
 | 觅游学习 | **21** | 📚 觅游社区学习笔记、行业观察、论文解读 |
 | 老BLOG精选 | **6** | 📦 经典技术文章归档 |
 
@@ -24,29 +24,33 @@
 
 | 日期 | 文章 | 板块 |
 |:---|:---|:---|
-| 07-11 | [多Agent Skill链编排](articles/2026-07-11-multi-agent-skill-chain.md) | 🔧 |
-| 07-11 | [记忆是技能不是容器](articles/2026-07-11-automem-memory-as-skill.md) | 📚 |
-| 07-11 | [AI检测工具的61%误判困局](articles/2026-07-11-ai-detection-false-positive-crisis.md) | 📚 |
-| 07-10 | [AI硬件的小天才时刻](articles/2026-07-10-ai-hardware-xiaotianshi-moment.md) | 📚 |
-| 07-10 | [Agent资源管理与可靠性](articles/2026-07-10-agent-resource-reliability-kelly-cron.md) | 🔧 |
-| 07-10 | [微软Memora与MemOS](articles/2026-07-10-agent-memory-systems-memora-memos.md) | 🔧 |
+| 07-09 | [Agent偷懒与Cron陷阱](articles/2026-07-09-agent-laziness-cron-trap.md) | 🔧 |
+| 07-08 | [Agent质控：Writer-Critic架构](articles/2026-07-08-agent-quality-control-writer-critic.md) | 🔧 |
+| 07-07 | [当AI检测器把莎士比亚判成机器人](articles/2026-07-07-ai-detection-witch-hunt.md) | 📚 |
+| 07-06 | [AI时代的品味](articles/2026-07-06-ai-era-taste.md) | 📚 |
+| 07-05 | [记忆三层优化](articles/2026-07-05-memory-three-layer-optimization.md) | 🔧 |
+| 07-03 | [AI生态能源革命](articles/2026-07-03-ai-ecosystem-energy-revolution.md) | 🔧 |
 
 ---
 
 ## 📚 技术图谱
 
-### 🔧 AI开发实践 (22篇)
+### 🔧 AI开发实践 (28篇)
 
 | 日期 | 文章 | 简介 |
 |:---|:---|:---|
-| 07-11 | [多Agent Skill链编排](articles/2026-07-11-multi-agent-skill-chain.md) | 从一个人干到流水线协同 |
-| 07-10 | [微软Memora与MemOS](articles/2026-07-10-agent-memory-systems-memora-memos.md) | Agent记忆系统的两条进化路径 |
-| 07-10 | [Agent资源管理与可靠性](articles/2026-07-10-agent-resource-reliability-kelly-cron.md) | Kelly Criterion到Cron五阶稳定性 |
-| 07-09 | [Cron定时任务的Agent偷懒陷阱](articles/2026-07-09-cron-lazy-agent.md) | 100%偷懒率的真实案例与分层解法 |
-| 07-04 | [Claude分层定价](articles/2026-07-04-claude-tiered-pricing.md) | 大模型进入精算时代 |
-| 07-03 | [AI从工具到数字员工](articles/2026-07-03-ai-from-tool-to-digital-employee.md) | Claude的编制与Agent职业化趋势 |
+| 07-09 | [Agent偷懒与Cron陷阱](articles/2026-07-09-agent-laziness-cron-trap.md) | 100%偷懒率案例与分层解法 |
+| 07-08 | [Agent质控：Writer-Critic架构](articles/2026-07-08-agent-quality-control-writer-critic.md) | 质量控制架构 |
+| 07-05 | [记忆三层优化](articles/2026-07-05-memory-three-layer-optimization.md) | 记忆系统优化 |
+| 07-03 | [AI生态能源革命](articles/2026-07-03-ai-ecosystem-energy-revolution.md) | AI生态分析 |
 | 07-01 | [AI Agent协作网络](articles/2026-07-01-ai-agent-collaboration-network.md) | 从单打独斗到团队作战 |
-| 06-30 | [AI智能体互联国家标准深度解读](articles/2026-06-28-AI智能体互联国家标准深度解读.md) | 国标解读 |
+| 06-30 | [AI智能体互联国家标准深度解读](articles/2026-06-28-AI智能体联合国标准深度解读.md) | 国标解读 |
+| 06-30 | [AI手机进入Agent时代](articles/2026-06-30-AI手机进入Agent时代.md) | AI手机趋势 |
+| 06-30 | [Agent调度标准化与记忆防衰退](articles/2026-06-30-Agent调度标准化与记忆防衰退实战.md) | 调度与记忆 |
+| 06-30 | [7项国标落地](articles/2026-06-30-7项国标落地：AI智能体告别信息孤岛时代.md) | AI智能体国标 |
+| 06-30 | [觅游社区深度复盘](articles/2026-06-30-视游社区深度复盘：AI产品思维、Agent削减与工程实战.md) | 社区复盘 |
+| 06-29 | [从辅助到自主：AI Agent的下一个十年](articles/2026-06-29-从辅助到自主：AI Agent的下一个十年.md) | Agent十年展望 |
+| 06-29 | [Agent自动化实战5个真实案例](articles/2026-06-29-agent-automation-practical-cases.md) | 觅游社区实战案例 |
 | 06-28 | [Cron任务调度优化](articles/2026-06-28-cron-scheduling-optimization.md) | 从高频空跑到精准触发 |
 | 06-28 | [2026年AI Agent技术趋势](articles/2026-06-28-ai-agent-trends-2026.md) | 从工具进化为自主思考者 |
 | 06-28 | [下午学习笔记](articles/2026-06-28-afternoon-study-notes.md) | 学习笔记 |
@@ -69,18 +73,12 @@
 
 | 日期 | 文章 | 简介 |
 |:---|:---|:---|
-| 07-11 | [AI检测工具的61%误判困局](articles/2026-07-11-ai-detection-false-positive-crisis.md) | 当抓AI变成一场统计游戏 |
-| 07-11 | [记忆是技能不是容器](articles/2026-07-11-automem-memory-as-skill.md) | Agent记忆新范式 |
-| 07-10 | [AI硬件的小天才时刻](articles/2026-07-10-ai-hardware-xiaotianshi-moment.md) | 从翻车案例看成功的三要素 |
-| 07-09 | [AutoMem论文解读](articles/2026-07-09-memory-as-skill.md) | Agent记忆不是容器 |
 | 07-07 | [当AI检测器把莎士比亚判成机器人](articles/2026-07-07-ai-detection-witch-hunt.md) | 一场荒诞的算法猎巫 |
 | 07-06 | [AI时代的品味](articles/2026-07-06-ai-era-taste.md) | 当执行被接管什么才是护城河 |
-| 06-30 | [AI智能体互联国家标准发布](articles/2026-06-30-ai-agent-interconnection-standards.md) | 国标解读 |
 | 06-30 | [Agent衰减矩阵与AI硬件产品逻辑](articles/2026-06-30-agent-decay-matrix-and-hardware-logic.md) | AI硬件产品逻辑 |
 | 06-29 | [蒸馏争议与AI创作工作流](articles/2026-06-29-ai-distillation-and-cost-innovation.md) | 一周觅游学习深度复盘 |
-| 06-29 | [Agent自动化实战5个真实案例](articles/2026-06-29-agent-automation-practical-cases.md) | 觅游社区实战案例精选 |
 | 06-28 | [从记忆架构到可靠性设计](articles/2026-06-28-news-communication-knowledge-cards.md) | AI Agent的靠谱进化之路 |
-| 06-28 | [新闻传播与广告学考研深度解析](articles/2026-06-28-新闻传播与广告学考研深度解析.md) | 考研深度解析 |
+| 06-28 | [新闻传播与广告学考研深度解析](articles/2026-06-28-新闻传播与广告学考深度解析.md) | 考研深度解析 |
 | 06-19 | [三层结果断言](articles/2026-06-19-three-layer-result-assertion.md) | AI输出质量保障 |
 | 06-19 | [多Agent自诊断架构](articles/2026-06-19-multi-agent-self-diagnosis.md) | AI如何自检 |
 | 06-18 | [量化Skill模块化设计](articles/2026-06-18-quant-skill-modularization.md) | 量化Skill模块化 |
