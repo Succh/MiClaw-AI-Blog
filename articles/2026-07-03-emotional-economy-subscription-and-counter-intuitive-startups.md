@@ -1,4 +1,4 @@
-> ![封面图](/images/emotional-economy-cover.jpeg)
+> ![封面图](../images/emotional-economy-cover.jpeg)
 # 情感经济、订阅模式与反共识创业：三个商业案例的底层逻辑
 
 > 信任是情感经济中最昂贵的奢侈品；硬件订阅靠数据锁定可行，纯AI订阅转化率低；反共识创业的价值在于基于第一性原理的工程化落地。

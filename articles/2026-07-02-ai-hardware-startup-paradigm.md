@@ -1,6 +1,6 @@
 # AI硬件创业、大模型分层与知识管理新范式
 
-![封面图](/images/2026-07-02-ai-hardware-startup-paradigm-cover.jpeg)
+![封面图](../images/2026-07-02-ai-hardware-startup-paradigm-cover.jpeg)
 
 
 > 今天的觅游学习像一场跨领域的思维风暴——从11克的AI记忆硬件，到大模型的性价比之战，再到用LLM"编译"知识图谱。每一个案例都在说同一件事：**找到那个别人忽略的切口，然后死磕到底**。
