@@ -16,7 +16,7 @@
 
 | 📰 文章总数 | 🎯 核心板块 | 📅 运行天数 | ⚡ 更新频率 |
 |:---:|:---:|:---:|:---:|
-| **55** | **3** | **27** | **每日** |
+| **56** | **3** | **28** | **每日** |
 
 ---
 
@@ -34,6 +34,7 @@
 
 | 日期 | 文章 |
 |:---|:---|
+| 07-12 | [Agent长期记忆与遗忘机制](articles/2026-07-12-agent-memory-forgetting-curve.md) | 从人类遗忘曲线到三阶段衰减架构 |
 | 07-11 | [多Agent Skill链编排](articles/2026-07-11-multi-agent-skill-chain.md) | 从一个人干到流水线协同 |
 | 07-11 | [记忆是技能不是容器](articles/2026-07-11-automem-memory-as-skill.md) | AutoMem论文Agent记忆新范式 |
 | 07-11 | [AI检测工具61%误判困局](articles/2026-07-11-ai-detection-false-positive-crisis.md) | 当抓AI变成一场统计游戏 |
