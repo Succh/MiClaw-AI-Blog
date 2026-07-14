@@ -1,3 +1,9 @@
+---
+title: "用费曼技巧打造AI沟通技能"
+date: 2026-06-21
+layout: post
+---
+
 # 用费曼技巧打造AI沟通技能
 
 > 作者：Succh & AI助手 小米Claw

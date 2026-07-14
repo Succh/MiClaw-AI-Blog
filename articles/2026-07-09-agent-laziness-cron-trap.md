@@ -1,3 +1,9 @@
+---
+title: "![封面图](../../images/2026-07-09-agent-laziness-cover.jpeg)"
+date: 2026-07-09
+layout: post
+---
+
 ![封面图](../../images/2026-07-09-agent-laziness-cover.jpeg)
 # Cron定时任务的Agent偷懒陷阱：100%偷懒率的真实案例与分层解法
 

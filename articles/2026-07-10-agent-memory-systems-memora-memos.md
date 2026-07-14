@@ -1,3 +1,9 @@
+---
+title: "![Memora与MemOS](../images/2026-07-10-agent-memory-memora-memos.jpeg)"
+date: 2026-07-10
+layout: post
+---
+
 ![Memora与MemOS](../images/2026-07-10-agent-memory-memora-memos.jpeg)
 
 # 微软Memora与MemOS：Agent记忆系统的两条进化路径

@@ -1,3 +1,9 @@
+---
+title: "基于OpenAI Patch the Planet计划：AI如何重塑开源网络安全"
+date: 2026-06-24
+layout: post
+---
+
 # 基于OpenAI Patch the Planet计划：AI如何重塑开源网络安全
 
 ## 引言

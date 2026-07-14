@@ -1,3 +1,9 @@
+---
+title: "AI硬件的"小天才时刻"：从翻车案例看成功的三要素"
+date: 2026-07-10
+layout: post
+---
+
 # AI硬件的"小天才时刻"：从翻车案例看成功的三要素
 
 ![AI硬件小天才时刻](../images/ai-hardware-xiaotianshi-moment.jpeg)

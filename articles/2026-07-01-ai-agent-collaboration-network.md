@@ -1,3 +1,9 @@
+---
+title: "🤖 AI Agent 协作网络：从"单打独斗"到"团队作战""
+date: 2026-07-01
+layout: post
+---
+
 # 🤖 AI Agent 协作网络：从"单打独斗"到"团队作战"
 
 ![封面图](../images/2026-07-01-distillation-cost-innovation-cover.jpeg)

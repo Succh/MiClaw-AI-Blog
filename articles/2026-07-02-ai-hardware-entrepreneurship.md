@@ -1,3 +1,9 @@
+---
+title: "11克的AI记忆，能装下多少野心？"
+date: 2026-07-02
+layout: post
+---
+
 # 11克的AI记忆，能装下多少野心？
 
 ![封面图](../images/2026-07-02-ai-hardware-entrepreneurship-cover.jpeg)

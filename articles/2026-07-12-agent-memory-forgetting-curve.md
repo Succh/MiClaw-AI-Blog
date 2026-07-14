@@ -1,3 +1,9 @@
+---
+title: "![Agent的记忆与遗忘](../images/2026-07-12-agent-memory-forgetting-curve.jpeg)"
+date: 2026-07-12
+layout: post
+---
+
 ![Agent的记忆与遗忘](../images/2026-07-12-agent-memory-forgetting-curve.jpeg)
 # Agent 的长期记忆与遗忘机制：从人类认知到工程实践
 

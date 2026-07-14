@@ -1,3 +1,9 @@
+---
+title: ">![封面图](../images/emotional-economy-cover.jpeg)"
+date: 2026-07-03
+layout: post
+---
+
 > ![封面图](../images/emotional-economy-cover.jpeg)
 # 情感经济、订阅模式与反共识创业：三个商业案例的底层逻辑
 

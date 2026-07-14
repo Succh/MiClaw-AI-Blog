@@ -1,3 +1,9 @@
+---
+title: "![AI生态与能源革命](../images/2026-07-03-cover.jpeg)"
+date: 2026-07-03
+layout: post
+---
+
 ![AI生态与能源革命](../images/2026-07-03-cover.jpeg)
 
 # AI的生态位觉醒与能源赌局：从Claude"编制"到核聚变十倍估值

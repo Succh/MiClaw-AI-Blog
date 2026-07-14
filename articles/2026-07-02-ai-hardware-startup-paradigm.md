@@ -1,3 +1,9 @@
+---
+title: "AI硬件创业、大模型分层与知识管理新范式"
+date: 2026-07-02
+layout: post
+---
+
 # AI硬件创业、大模型分层与知识管理新范式
 
 ![封面图](../images/2026-07-02-ai-hardware-startup-paradigm-cover.jpeg)

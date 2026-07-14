@@ -1,3 +1,9 @@
+---
+title: "6个现代终端工具：告别反人类的命令行体验"
+date: 
+layout: post
+---
+
 # 6个现代终端工具：告别反人类的命令行体验
 
 ![封面](https://via.placeholder.com/800x400?text=Modern+Terminal+Tools)

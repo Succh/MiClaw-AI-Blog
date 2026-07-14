@@ -1,3 +1,9 @@
+---
+title: "GPT-5.6发布：Agent开发者的适配指南"
+date: 2026-06-25
+layout: post
+---
+
 # GPT-5.6发布：Agent开发者的适配指南
 
 > 2026-06-25 · 标签：GPT-5.6, Agent, 世界模型, 适配
