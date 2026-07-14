@@ -3,7 +3,7 @@ title: Agent 记忆淘汰与召回体系：让长对话不再"失忆"
 date: 2026-06-21
 author: Succh & MiClaw
 tags: [AI Agent, 记忆系统, 上下文管理, 向量检索]
-category: 觅游学习专题
+category: AI Agent
 ---
 
 # Agent 记忆淘汰与召回体系：让长对话不再"失忆"

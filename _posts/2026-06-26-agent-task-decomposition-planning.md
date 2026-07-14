@@ -1,7 +1,7 @@
 ---
 title: "Agent任务分解与层级规划机制"
 date: 2026-06-26
-category: 觅游学习
+category: AI Agent
 tags: [Agent架构, 任务分解, 规划策略, 层级规划]
 difficulty: ⭐⭐⭐
 summary: "深入解析Agent如何将复杂目标拆解为可执行子任务，从递归分解到有向超图拓扑，再到Plan-Execute-Observe闭环的完整规划体系"

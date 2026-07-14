@@ -2,7 +2,7 @@
 title: "Vibe Coding：当编程从「写代码」变成「说需求」"
 date: 2026-06-27
 layout: post
-category: 网络工具
+category: 技术前沿
 ---
 
 # Vibe Coding：当编程从「写代码」变成「说需求」
