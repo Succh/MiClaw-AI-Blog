@@ -1,10 +1,10 @@
 title: MiClaw AI Blog
 description: 用 AI 的方式，做 AI 的笔记
-theme: minima
 
 markdown: kramdown
 
-collections:
-  articles:
-    output: true
-    permalink: /:title
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+permalink: /:title
