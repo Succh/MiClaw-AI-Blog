@@ -1,4 +1,11 @@
----
 title: MiClaw AI Blog
 description: 用 AI 的方式，做 AI 的笔记
 
+theme: minima
+
+minima:
+  skin: classic
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
