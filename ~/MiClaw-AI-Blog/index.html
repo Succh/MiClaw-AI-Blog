@@ -1,0 +1,17 @@
+---
+layout: default
+title: 首页
+---
+
+<h1 style="margin-bottom: 24px;">最新文章</h1>
+
+<ul class="post-list">
+  {% for post in site.articles reversed %}
+  <li class="post-item">
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    <div class="post-meta">
+      <time>{{ post.date | date: "%Y-%m-%d" }}</time>
+    </div>
+  </li>
+  {% endfor %}
+</ul>
