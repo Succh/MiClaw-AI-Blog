@@ -1,0 +1,12 @@
+---
+layout: default
+title: 测试
+---
+
+<h1>测试页面</h1>
+<p>site.articles 长度: {{ site.articles | size }}</p>
+<ul>
+{% for post in site.articles limit:3 %}
+  <li>{{ post.title }} - {{ post.url }}</li>
+{% endfor %}
+</ul>
