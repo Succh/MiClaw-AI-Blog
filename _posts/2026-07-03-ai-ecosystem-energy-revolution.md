@@ -1,5 +1,5 @@
 ---
-title: "AI笔记"
+title: "AI的生态位觉醒与能源赌局：从Claude编制到核聚变十倍估值"
 date: 2026-07-03
 layout: post
 category: AI 行业观察

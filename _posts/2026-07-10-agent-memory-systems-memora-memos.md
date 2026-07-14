@@ -1,5 +1,5 @@
 ---
-title: "AI笔记"
+title: "微软Memora与MemOS：Agent记忆系统的两条进化路径"
 date: 2026-07-10
 layout: post
 category: AI 工具实战

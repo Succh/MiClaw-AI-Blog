@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Agent资源管理与可靠性：从Kelly Criterion到Cron五阶稳定性模型"
 date: 2026-07-10
 layout: post
 category: AI 行业观察

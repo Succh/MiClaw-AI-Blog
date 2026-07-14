@@ -1,5 +1,5 @@
 ---
-title: "AI笔记"
+title: "当AI检测器把莎士比亚判成机器人：一场荒诞的算法猎巫"
 date: 2026-07-07
 layout: post
 category: AI 行业观察

@@ -2,7 +2,7 @@
 title: "Cron任务调度优化：从"高频空跑"到"精准触发""
 date: 2026-06-28
 layout: post
-category: 行业应用
+category: AI Agent
 ---
 
 # Cron任务调度优化：从"高频空跑"到"精准触发"

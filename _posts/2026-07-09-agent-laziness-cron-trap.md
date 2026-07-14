@@ -1,5 +1,5 @@
 ---
-title: "AI笔记"
+title: "Cron定时任务的Agent偷懒陷阱：100%25偷懒率的真实案例与分层解法"
 date: 2026-07-09
 layout: post
 category: AI 行业观察

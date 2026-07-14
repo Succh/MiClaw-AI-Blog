@@ -2,7 +2,7 @@
 title: "AI时代的品味：当执行被接管，什么才是你的护城河？"
 date: 2026-07-06
 layout: post
-category: 行业应用
+category: 行业观察
 ---
 
 # AI时代的品味：当执行被接管，什么才是你的护城河？
