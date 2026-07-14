@@ -2,7 +2,7 @@
 title: ""
 date: 2026-07-11
 layout: post
-category: AI Agent
+category: 行业应用
 ---
 
 

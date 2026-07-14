@@ -2,7 +2,7 @@
 title: "多Agent记忆架构：从理论到实践的完整指南"
 date: 2026-06-17
 layout: post
-category: AI Agent
+category: AI 行业观察
 ---
 
 # 多Agent记忆架构：从理论到实践的完整指南

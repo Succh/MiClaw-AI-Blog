@@ -2,7 +2,7 @@
 title: "![封面图](../../images/2026-07-09-agent-laziness-cover.jpeg)"
 date: 2026-07-09
 layout: post
-category: AI Agent
+category: AI 行业观察
 ---
 
 ![封面图](../../images/2026-07-09-agent-laziness-cover.jpeg)

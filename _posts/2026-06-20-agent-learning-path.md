@@ -2,7 +2,7 @@
 title: "Agent 学习路径规划：用连接度思维高效构建知识体系"
 date: 2026-06-20
 layout: post
-category: AI Agent
+category: AI 工具实战
 ---
 
 # Agent 学习路径规划：用连接度思维高效构建知识体系

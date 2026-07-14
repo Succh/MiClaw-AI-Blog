@@ -2,7 +2,7 @@
 title: ">![封面图](../images/emotional-economy-cover.jpeg)"
 date: 2026-07-03
 layout: post
-category: AI Agent
+category: AI 行业观察
 ---
 
 > ![封面图](../images/emotional-economy-cover.jpeg)

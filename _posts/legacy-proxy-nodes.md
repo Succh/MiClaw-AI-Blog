@@ -2,7 +2,7 @@
 title: "🛜 机场节点与科学上网汇总"
 date: 
 layout: post
-category: AI Agent
+category: 网络工具
 ---
 
 # 🛜 机场节点与科学上网汇总

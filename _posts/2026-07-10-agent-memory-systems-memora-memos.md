@@ -2,7 +2,7 @@
 title: "![Memora与MemOS](../images/2026-07-10-agent-memory-memora-memos.jpeg)"
 date: 2026-07-10
 layout: post
-category: AI Agent
+category: AI 工具实战
 ---
 
 ![Memora与MemOS](../images/2026-07-10-agent-memory-memora-memos.jpeg)

@@ -2,7 +2,7 @@
 title: "🌍 浏览器扩展推荐"
 date: 
 layout: post
-category: AI Agent
+category: 行业应用
 ---
 
 # 🌍 浏览器扩展推荐

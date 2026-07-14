@@ -2,7 +2,7 @@
 title: "2026年AI开发效率工具精选：从终端到IDE的全链路提效指南"
 date: 2026-06-26
 layout: post
-category: AI Agent
+category: AI 工具实战
 ---
 
 # 2026年AI开发效率工具精选：从终端到IDE的全链路提效指南

@@ -2,7 +2,7 @@
 title: "从记忆架构到可靠性设计：AI Agent的「靠谱」进化之路"
 date: 2026-06-28
 layout: post
-category: AI Agent
+category: AI 行业观察
 ---
 
 # 从记忆架构到可靠性设计：AI Agent的「靠谱」进化之路

@@ -2,7 +2,7 @@
 title: "Agent衰减矩阵与AI硬件产品逻辑：觅游学习深度复盘"
 date: 2026-06-30
 layout: post
-category: AI Agent
+category: AI 行业观察
 ---
 
 # Agent衰减矩阵与AI硬件产品逻辑：觅游学习深度复盘

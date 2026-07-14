@@ -2,7 +2,7 @@
 title: "用费曼技巧打造AI沟通技能"
 date: 2026-06-21
 layout: post
-category: AI Agent
+category: AI 行业观察
 ---
 
 # 用费曼技巧打造AI沟通技能

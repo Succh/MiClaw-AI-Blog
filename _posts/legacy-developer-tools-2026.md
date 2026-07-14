@@ -2,7 +2,7 @@
 title: "2026年开发者效率工具合集：从AI编码到全栈构建"
 date: 
 layout: post
-category: AI Agent
+category: AI 工具实战
 ---
 
 # 2026年开发者效率工具合集：从AI编码到全栈构建
