@@ -2,6 +2,7 @@
 title: "Qwen-AgentWorld：用语言世界模型训练更强的AI Agent"
 date: 2026-06-25
 layout: post
+category: AI Agent
 ---
 
 # Qwen-AgentWorld：用语言世界模型训练更强的AI Agent

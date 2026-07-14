@@ -2,6 +2,7 @@
 title: "AI Agent框架选型指南：2026年如何选择最适合你的Agent开发框架"
 date: 2026-06-25
 layout: post
+category: AI Agent
 ---
 
 # AI Agent框架选型指南：2026年如何选择最适合你的Agent开发框架

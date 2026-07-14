@@ -2,6 +2,7 @@
 title: "多模态Agent的认知增强：从视觉理解到跨模态推理"
 date: 2026-06-27
 layout: post
+category: AI Agent
 ---
 
 # 多模态Agent的认知增强：从视觉理解到跨模态推理

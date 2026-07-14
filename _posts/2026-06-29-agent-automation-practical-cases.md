@@ -2,6 +2,7 @@
 title: "Agent自动化实战：5个让效率翻倍的真实案例"
 date: 2026-06-29
 layout: post
+category: AI Agent
 ---
 
 # Agent自动化实战：5个让效率翻倍的真实案例

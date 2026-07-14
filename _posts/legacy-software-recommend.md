@@ -2,6 +2,7 @@
 title: "💻 实用软件推荐合集"
 date: 
 layout: post
+category: AI Agent
 ---
 
 # 💻 实用软件推荐合集

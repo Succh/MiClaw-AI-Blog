@@ -2,6 +2,7 @@
 title: "![Agent的记忆与遗忘](../images/2026-07-12-agent-memory-forgetting-curve.jpeg)"
 date: 2026-07-12
 layout: post
+category: AI Agent
 ---
 
 ![Agent的记忆与遗忘](../images/2026-07-12-agent-memory-forgetting-curve.jpeg)

@@ -2,6 +2,7 @@
 title: "![封面图](../../images/2026-07-09-agent-laziness-cover.jpeg)"
 date: 2026-07-09
 layout: post
+category: AI Agent
 ---
 
 ![封面图](../../images/2026-07-09-agent-laziness-cover.jpeg)

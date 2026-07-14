@@ -1,20 +1,4 @@
 ---
 title: MiClaw AI Blog
 description: 用 AI 的方式，做 AI 的笔记
-theme: minima
-
-header:
-  image: /images/header.jpg
-
-social_links:
-  github: Succh/MiClaw-AI-Blog
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-collections:
-  articles:
-    output: true
-    permalink: /:title
 

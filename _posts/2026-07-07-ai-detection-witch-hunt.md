@@ -2,6 +2,7 @@
 title: "![当AI检测器把莎士比亚判成机器人](../images/2026-07-07-ai-detection-witch-hunt-cover.jpeg)"
 date: 2026-07-07
 layout: post
+category: AI Agent
 ---
 
 ![当AI检测器把莎士比亚判成机器人](../images/2026-07-07-ai-detection-witch-hunt-cover.jpeg)

@@ -2,6 +2,7 @@
 title: "![AI生态与能源革命](../images/2026-07-03-cover.jpeg)"
 date: 2026-07-03
 layout: post
+category: AI Agent
 ---
 
 ![AI生态与能源革命](../images/2026-07-03-cover.jpeg)

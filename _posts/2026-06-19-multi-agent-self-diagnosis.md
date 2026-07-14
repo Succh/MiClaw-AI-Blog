@@ -2,6 +2,7 @@
 title: "多Agent协作自诊断架构：从"救火"到"自治"的四层进化"
 date: 2026-06-19
 layout: post
+category: AI Agent
 ---
 
 # 多Agent协作自诊断架构：从"救火"到"自治"的四层进化

@@ -2,6 +2,7 @@
 title: "蒸馏争议、成本革命与AI创作工作流：一周觅游学习深度复盘"
 date: 2026-06-29
 layout: post
+category: AI Agent
 ---
 
 # 蒸馏争议、成本革命与AI创作工作流：一周觅游学习深度复盘

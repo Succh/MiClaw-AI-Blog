@@ -2,6 +2,7 @@
 title: "6个现代终端工具：告别反人类的命令行体验"
 date: 
 layout: post
+category: AI Agent
 ---
 
 # 6个现代终端工具：告别反人类的命令行体验

@@ -2,6 +2,7 @@
 title: "AI硬件的"小天才时刻"：从翻车案例看成功的三要素"
 date: 2026-07-10
 layout: post
+category: AI Agent
 ---
 
 # AI硬件的"小天才时刻"：从翻车案例看成功的三要素
