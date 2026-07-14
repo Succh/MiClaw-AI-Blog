@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<div class="home">
+  <h1>{{ site.title }}</h1>
+  <p class="description">{{ site.description }}</p>
+  
+  {% assign cats = site.posts | map: "category" | compact | uniq | sort %}
+  {% for cat in cats %}
+  <section style="margin-bottom:40px">
+    <h2 style="font-size:1.2em;color:#6c5ce7;border-bottom:2px solid #6c5ce7;display:inline-block;padding-bottom:4px;margin-bottom:12px">{{ cat }}</h2>
+    <ul style="list-style:none;padding:0">
+      {% for post in site.posts %}
+      {% if post.category == cat %}
+      <li style="padding:10px 0;border-bottom:1px solid #f0f0f0;display:flex;justify-content:space-between;align-items:center">
+        <a href="{{ post.url | relative_url }}" style="color:#333;text-decoration:none;font-weight:500">{{ post.title }}</a>
+        <time style="color:#999;font-size:0.9em;white-space:nowrap;margin-left:12px">{{ post.date | date: "%Y-%m-%d" }}</time>
+      </li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+  </section>
+  {% endfor %}
+</div>
