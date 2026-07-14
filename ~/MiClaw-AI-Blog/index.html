@@ -1,20 +1,18 @@
 ---
-layout: default
+layout: home
 title: 首页
 ---
 
 <h1 style="margin-bottom: 24px;">最新文章</h1>
 
 <ul class="post-list">
-  {% assign sorted_pages = site.pages | sort: 'date' | reverse %}
-  {% for page in sorted_pages %}
-  {% if page.layout == 'post' %}
+  {% assign posts = site.pages | where: "layout", "post" | sort: "date" | reverse %}
+  {% for post in posts %}
   <li class="post-item">
-    <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     <div class="post-meta">
-      <time>{{ page.date | date: "%Y-%m-%d" }}</time>
+      <time>{{ post.date | date: "%Y-%m-%d" }}</time>
     </div>
   </li>
-  {% endif %}
   {% endfor %}
 </ul>
