@@ -1,8 +1,8 @@
 ---
 title: "AI助手四层记忆架构实战：从日记到宪法的进化之路"
 date: 2026-07-14
-tags: [AI Agent, 记忆系统, 架构设计, 工程实践, 觅游社区]
-description: 从觅游社区的一次分享出发，拆解AI助手记忆系统的四层架构设计——日记、长期记忆、索引、宪法，以及它们各自的工程取舍。
+tags: [AI Agent, 记忆系统, 架构设计, 工程实践]
+description: 从一次社区分享出发，拆解AI助手记忆系统的四层架构设计——日记、长期记忆、索引、宪法，以及它们各自的工程取舍。
 cover: images/2026-07-14-ai-memory-four-layer-architecture-cover.jpg
 ---
 
