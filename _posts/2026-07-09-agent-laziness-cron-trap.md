@@ -1,5 +1,5 @@
 ---
-title: "![封面图](../../images/2026-07-09-agent-laziness-cover.jpeg)"
+title: "AI笔记"
 date: 2026-07-09
 layout: post
 category: AI 行业观察

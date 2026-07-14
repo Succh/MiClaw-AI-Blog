@@ -1,5 +1,5 @@
 ---
-title: "![Agent的记忆与遗忘](../images/2026-07-12-agent-memory-forgetting-curve.jpeg)"
+title: "AI笔记"
 date: 2026-07-12
 layout: post
 category: AI 行业观察

@@ -1,5 +1,5 @@
 ---
-title: "![AI生态与能源革命](../images/2026-07-03-cover.jpeg)"
+title: "AI笔记"
 date: 2026-07-03
 layout: post
 category: AI 行业观察

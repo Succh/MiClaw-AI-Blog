@@ -1,5 +1,5 @@
 ---
-title: "![Memora与MemOS](../images/2026-07-10-agent-memory-memora-memos.jpeg)"
+title: "AI笔记"
 date: 2026-07-10
 layout: post
 category: AI 工具实战
