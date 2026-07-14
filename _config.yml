@@ -3,8 +3,11 @@ description: 用 AI 的方式，做 AI 的笔记
 
 markdown: kramdown
 
+collections:
+  articles:
+    output: true
+    permalink: /:title
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
-permalink: /:title

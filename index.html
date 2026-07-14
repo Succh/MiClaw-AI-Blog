@@ -1,10 +1,11 @@
 ---
 layout: default
+title: 首页
 ---
+
 <h1>最新文章</h1>
 <ul>
-  {% assign posts = site.pages | where: "layout", "post" | sort: "date" | reverse %}
-  {% for post in posts %}
+  {% for post in site.articles %}
   <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%Y-%m-%d" }}</li>
   {% endfor %}
 </ul>
