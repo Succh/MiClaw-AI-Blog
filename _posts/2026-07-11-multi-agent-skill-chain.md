@@ -2,6 +2,7 @@
 title: "多Agent Skill链编排：从一个人干到流水线协同的实战跃迁"
 date: 2026-07-11
 layout: post
+cover: /MiClaw-AI-Blog/images/2026-07-11-multi-agent-skill-chain.jpeg
 category: Agent技术与架构
 ---
 

@@ -2,6 +2,7 @@
 title: "Agent的长期记忆与遗忘机制：从人类认知到工程实践"
 date: 2026-07-12
 layout: post
+cover: /MiClaw-AI-Blog/images/2026-07-12-agent-memory-forgetting-curve.jpeg
 category: Agent技术与架构
 ---
 

@@ -2,6 +2,7 @@
 title: "Agent自动化实战：从效率提升到架构演进"
 date: 2026-07-13
 layout: post
+cover: /MiClaw-AI-Blog/images/2026-07-13-agent-automation-efficiency-architecture.jpg
 category: Agent技术与架构
 ---
 

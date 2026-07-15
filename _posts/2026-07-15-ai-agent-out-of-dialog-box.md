@@ -2,6 +2,7 @@
 title: "AI走出对话框：2026智能体元年的四大方向与冷思考"
 date: 2026-07-15
 layout: post
+cover: /MiClaw-AI-Blog/images/2026-07-15-ai-agent-out-of-dialog-box-cover.jpg
 category: AI应用与自动化
 ---
 
