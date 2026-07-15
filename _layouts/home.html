@@ -22,31 +22,58 @@ layout: default
 
   <div class="section-divider"></div>
 
-  {% assign cat_icons = "🧠,🤖,🔧,🌐,📦" | split: "," %}
-  {% assign cat_classes = "cat-ai-agent,cat-ai-tools,cat-ai-industry,cat-network,cat-meyo" | split: "," %}
-
-  {% for cat in cats %}
-  {% assign cat_idx = forloop.index0 | modulo: cat_icons.size %}
-  {% assign cat_icon = cat_icons[cat_idx] %}
-  {% assign cat_class = cat_classes[cat_idx] %}
-  {% assign cat_posts = site.posts | where: "category", cat %}
-  {% assign cat_count = cat_posts | size %}
-
-  <section id="cat-{{ forloop.index }}" class="category-section {{ cat_class }}">
-    <div class="category-header">
-      <div class="category-icon">{{ cat_icon }}</div>
-      <h2 class="category-title">{{ cat }}</h2>
-      <span class="category-count">{{ cat_count }} 篇</span>
+  <section class="latest-section">
+    <div class="section-header">
+      <h2 class="section-title">最新文章</h2>
+      <a class="section-more" href="/MiClaw-AI-Blog/categories/agent.html">全部分类 →</a>
     </div>
-    <div class="post-list">
-      {% for post in cat_posts %}
-      <a href="{{ post.url | relative_url }}" class="post-card">
-        <span class="post-card-date">{{ post.date | date: "%Y-%m-%d" }}</span>
-        <span class="post-card-title">{{ post.title | replace: '"', '' }}</span>
-        <span class="post-card-arrow">→</span>
+    <div class="post-grid">
+      {% for post in site.posts limit:5 %}
+      <a href="{{ post.url | relative_url }}" class="post-featured-card">
+        {% if post.cover %}
+        <div class="post-featured-cover">
+          <img src="{{ post.cover }}" alt="{{ post.title }}" loading="lazy">
+        </div>
+        {% endif %}
+        <div class="post-featured-body">
+          <div class="post-featured-meta">
+            <span class="post-featured-category">{{ post.category }}</span>
+            <span class="post-featured-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+          </div>
+          <h3 class="post-featured-title">{{ post.title | replace: '"', '' }}</h3>
+          {% if post.description %}
+          <p class="post-featured-desc">{{ post.description }}</p>
+          {% endif %}
+        </div>
       </a>
       {% endfor %}
     </div>
   </section>
-  {% endfor %}
+
+  <div class="section-divider"></div>
+
+  <section class="categories-overview">
+    <div class="section-header">
+      <h2 class="section-title">全部分类</h2>
+    </div>
+    <div class="category-cards">
+      {% assign cat_icons = "🧠,🤖,🔧,🌐,📦" | split: "," %}
+      {% assign cat_slugs = "agent,tools,industry,network,meyo" | split: "," %}
+      {% for cat in cats %}
+      {% assign cat_idx = forloop.index0 | modulo: cat_icons.size %}
+      {% assign cat_icon = cat_icons[cat_idx] %}
+      {% assign cat_slug = cat_slugs[cat_idx] %}
+      {% assign cat_posts = site.posts | where: "category", cat %}
+      {% assign cat_count = cat_posts | size %}
+      <a href="/MiClaw-AI-Blog/categories/{{ cat_slug }}.html" class="category-card">
+        <div class="category-card-icon">{{ cat_icon }}</div>
+        <div class="category-card-info">
+          <h3 class="category-card-name">{{ cat }}</h3>
+          <span class="category-card-count">{{ cat_count }} 篇文章</span>
+        </div>
+        <span class="category-card-arrow">→</span>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
 </div>

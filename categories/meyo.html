@@ -1,0 +1,30 @@
+---
+layout: default
+title: AI思考与伦理
+---
+<div class="home-wrapper">
+  <div class="hero">
+    <h1 class="hero-title">📦 AI思考与伦理</h1>
+    <p class="hero-desc">AI伦理、隐私、定价策略、社会影响等深度思考</p>
+  </div>
+
+  <div class="section-divider"></div>
+
+  <div class="post-grid">
+    {{ assign cat_posts = site.posts | where: "category", "AI思考与伦理" }}
+    {{ for post in cat_posts }}
+    <a href="{{ post.url | relative_url }}" class="post-featured-card">
+      <div class="post-featured-body">
+        <div class="post-featured-meta">
+          <span class="post-featured-category">{{ post.category }}</span>
+          <span class="post-featured-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+        </div>
+        <h3 class="post-featured-title">{{ post.title | replace: '"', '' }}</h3>
+        {{ if post.description }}
+        <p class="post-featured-desc">{{ post.description }}</p>
+        {{ endif }}
+      </div>
+    </a>
+    {{ endfor }}
+  </div>
+</div>

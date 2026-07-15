@@ -2,8 +2,7 @@
   <div class="header-inner">
     <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
     <nav class="main-nav">
-      <a class="nav-link" href="{{ '/' | relative_url }}">全部</a>
-      {% assign cats = site.posts | map: "category" | compact | uniq %}
+      <a class="nav-link" href="{{ '/' | relative_url }}">首页</a>
       <div class="nav-dropdown">
         <button class="nav-dropdown-toggle" aria-label="分类导航">
           分类
@@ -12,9 +11,11 @@
           </svg>
         </button>
         <div class="nav-dropdown-menu">
-          {% for cat in cats %}
-          <a class="nav-dropdown-item" href="#cat-{{ forloop.index }}">{{ cat }}</a>
-          {% endfor %}
+          <a class="nav-dropdown-item" href="/MiClaw-AI-Blog/categories/agent.html">🧠 Agent技术与架构</a>
+          <a class="nav-dropdown-item" href="/MiClaw-AI-Blog/categories/tools.html">🔧 开发者工具箱</a>
+          <a class="nav-dropdown-item" href="/MiClaw-AI-Blog/categories/industry.html">🌐 AI硬件与创业</a>
+          <a class="nav-dropdown-item" href="/MiClaw-AI-Blog/categories/network.html">🤖 AI应用与自动化</a>
+          <a class="nav-dropdown-item" href="/MiClaw-AI-Blog/categories/meyo.html">📦 AI思考与伦理</a>
         </div>
       </div>
     </nav>
