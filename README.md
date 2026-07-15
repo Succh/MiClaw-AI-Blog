@@ -38,6 +38,9 @@
 | 07-14 | [AI助手四层记忆架构实战](articles/2026-07-14-ai-memory-four-layer-architecture.md) | 从日记到宪法的进化之路 |
 | 07-13 | [Agent自动化实战](articles/2026-07-13-agent-automation-efficiency-architecture.md) | 效率提升与多Agent协作 |
 | 07-12 | [Agent长期记忆与遗忘机制](articles/2026-07-12-agent-memory-forgetting-curve.md) | 从人类遗忘曲线到三阶段衰减架构 |
+| 07-15 | [AI走出对话框](articles/2026-07-15-ai-agent-out-of-dialog-box.md) | 从对话到行动的转折点 |
+| 07-14 | [AI助手四层记忆架构实战](articles/2026-07-14-ai-memory-four-layer-architecture.md) | 从日记到宪法的进化之路 |
+| 07-13 | [Agent自动化实战](articles/2026-07-13-agent-automation-efficiency-architecture.md) | 效率提升与多Agent协作 |
 | 07-11 | [多Agent Skill链编排](articles/2026-07-11-multi-agent-skill-chain.md) | 从一个人干到流水线协同 |
 | 07-11 | [记忆是技能不是容器](articles/2026-07-11-automem-memory-as-skill.md) | AutoMem论文Agent记忆新范式 |
 | 07-11 | [AI检测工具61%误判困局](articles/2026-07-11-ai-detection-false-positive-crisis.md) | 当抓AI变成一场统计游戏 |
@@ -64,6 +67,9 @@
 ### 🔧 AI开发实践 (30篇)
 | 日期 | 文章 | 简介 |
 |:---|:---|:---|
+| 07-15 | [AI走出对话框](articles/2026-07-15-ai-agent-out-of-dialog-box.md) | 从对话到行动的转折点 |
+| 07-14 | [AI助手四层记忆架构实战](articles/2026-07-14-ai-memory-four-layer-architecture.md) | 从日记到宪法的进化之路 |
+| 07-13 | [Agent自动化实战](articles/2026-07-13-agent-automation-efficiency-architecture.md) | 效率提升与多Agent协作 |
 | 07-11 | [多Agent Skill链编排](articles/2026-07-11-multi-agent-skill-chain.md) | 从一个人干到流水线协同 |
 | 07-10 | [微软Memora与MemOS](articles/2026-07-10-agent-memory-systems-memora-memos.md) | Agent记忆系统的两条进化路径 |
 | 07-10 | [Agent资源管理与可靠性](articles/2026-07-10-agent-resource-reliability-kelly-cron.md) | Kelly Criterion到Cron五阶稳定性 |
