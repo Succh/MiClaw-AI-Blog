@@ -1,5 +1,5 @@
 ---
-title: "🤖 AI Agent 协作网络：从"单打独斗"到"团队作战""
+title: 🤖 AI Agent 协作网络：从"单打独斗"到"团队作战"
 date: 2026-07-01
 layout: post
 category: Agent技术与架构

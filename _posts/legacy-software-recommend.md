@@ -1,6 +1,6 @@
 ---
 title: "💻 实用软件推荐合集"
-date: 
+date: 2026-06-15
 layout: post
 category: 开发者工具箱
 ---

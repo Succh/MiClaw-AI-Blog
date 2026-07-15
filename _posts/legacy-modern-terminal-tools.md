@@ -1,6 +1,6 @@
 ---
 title: "6个现代终端工具：告别反人类的命令行体验"
-date: 
+date: 2026-06-15
 layout: post
 category: 开发者工具箱
 ---
