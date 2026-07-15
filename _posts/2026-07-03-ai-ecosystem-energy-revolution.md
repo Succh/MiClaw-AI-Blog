@@ -5,7 +5,7 @@ layout: post
 category: AI 行业观察
 ---
 
-![AI生态与能源革命](../images/2026-07-03-cover.jpeg)
+![AI生态与能源革命](/images/2026-07-03-cover.jpeg)
 
 # AI的生态位觉醒与能源赌局：从Claude"编制"到核聚变十倍估值
 
