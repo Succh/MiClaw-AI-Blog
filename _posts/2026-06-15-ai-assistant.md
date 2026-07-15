@@ -2,7 +2,7 @@
 title: "🤖 与AI助手的协作日记"
 date: 2026-06-15
 layout: post
-category: AI 工具实战
+category: Agent技术与架构
 ---
 
 # 🤖 与AI助手的协作日记

@@ -2,7 +2,7 @@
 title: "💻 实用软件推荐合集"
 date: 
 layout: post
-category: 工具推荐
+category: 开发者工具箱
 ---
 
 # 💻 实用软件推荐合集

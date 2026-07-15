@@ -2,7 +2,7 @@
 title: "Agent记忆双写机制：事实层与规则层的协同"
 date: 2026-06-24
 layout: post
-category: AI Agent
+category: Agent技术与架构
 ---
 
 # Agent记忆双写机制：事实层与规则层的协同

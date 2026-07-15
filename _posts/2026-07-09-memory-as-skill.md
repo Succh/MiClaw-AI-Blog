@@ -2,7 +2,7 @@
 title: "AutoMem论文解读：Agent记忆不是容器，是需要训练的技能"
 date: 2026-07-09
 layout: post
-category: AI 行业观察
+category: Agent技术与架构
 ---
 
 # AutoMem论文解读：Agent记忆不是容器，是需要训练的技能

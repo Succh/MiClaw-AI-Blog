@@ -2,7 +2,7 @@
 title: "量化投研 Skill 模块化封装：让 AI Agent 成为你的投研助手"
 date: 2026-06-18
 layout: post
-category: AI 行业观察
+category: Agent技术与架构
 ---
 
 # 量化投研 Skill 模块化封装：让 AI Agent 成为你的投研助手

@@ -2,7 +2,7 @@
 title: "三层结果断言：让AI Agent真正「靠谱」地执行任务"
 date: 2026-06-19
 layout: post
-category: AI 工具实战
+category: Agent技术与架构
 ---
 
 # 三层结果断言：让AI Agent真正「靠谱」地执行任务

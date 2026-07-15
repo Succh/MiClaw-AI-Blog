@@ -2,7 +2,7 @@
 title: "Agent衰减矩阵与AI硬件产品逻辑"
 date: 2026-06-30
 layout: post
-category: AI 行业观察
+category: AI硬件与创业
 ---
 
 # Agent衰减矩阵与AI硬件产品逻辑

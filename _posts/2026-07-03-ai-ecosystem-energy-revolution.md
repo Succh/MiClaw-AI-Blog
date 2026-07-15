@@ -2,7 +2,7 @@
 title: "AI的生态位觉醒与能源赌局：从Claude编制到核聚变十倍估值"
 date: 2026-07-03
 layout: post
-category: AI 行业观察
+category: AI硬件与创业
 ---
 
 ![AI生态与能源革命](/MiClaw-AI-Blog/images/2026-07-03-cover.jpeg)

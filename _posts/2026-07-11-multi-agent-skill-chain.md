@@ -2,7 +2,7 @@
 title: "多Agent Skill链编排：从一个人干到流水线协同的实战跃迁"
 date: 2026-07-11
 layout: post
-category: AI Agent
+category: Agent技术与架构
 ---
 
 

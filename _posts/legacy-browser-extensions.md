@@ -2,7 +2,7 @@
 title: "🌍 浏览器扩展推荐"
 date: 
 layout: post
-category: 工具推荐
+category: 开发者工具箱
 ---
 
 # 🌍 浏览器扩展推荐

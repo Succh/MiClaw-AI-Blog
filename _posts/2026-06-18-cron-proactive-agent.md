@@ -2,7 +2,7 @@
 title: "Cron+主动智能体：三层自治架构实战指南"
 date: 2026-06-18
 layout: post
-category: AI Agent
+category: Agent技术与架构
 ---
 
 # Cron+主动智能体：三层自治架构实战指南

@@ -2,7 +2,7 @@
 title: "情感经济、订阅模式与反共识创业：三个商业案例的底层逻辑"
 date: 2026-07-03
 layout: post
-category: AI 行业观察
+category: AI硬件与创业
 ---
 
 > ![封面图](/MiClaw-AI-Blog/images/emotional-economy-cover.jpeg)

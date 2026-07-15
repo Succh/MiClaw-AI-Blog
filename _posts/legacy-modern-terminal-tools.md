@@ -2,7 +2,7 @@
 title: "6个现代终端工具：告别反人类的命令行体验"
 date: 
 layout: post
-category: AI 工具实战
+category: 开发者工具箱
 ---
 
 # 6个现代终端工具：告别反人类的命令行体验

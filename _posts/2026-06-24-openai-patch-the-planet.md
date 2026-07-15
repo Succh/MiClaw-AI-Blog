@@ -2,7 +2,7 @@
 title: "基于OpenAI Patch the Planet计划：AI如何重塑开源网络安全"
 date: 2026-06-24
 layout: post
-category: AI 工具实战
+category: Agent技术与架构
 ---
 
 # 基于OpenAI Patch the Planet计划：AI如何重塑开源网络安全

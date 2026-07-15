@@ -2,7 +2,7 @@
 title: "GPT-5.6发布：Agent开发者的适配指南"
 date: 2026-06-25
 layout: post
-category: AI 行业观察
+category: Agent技术与架构
 ---
 
 # GPT-5.6发布：Agent开发者的适配指南

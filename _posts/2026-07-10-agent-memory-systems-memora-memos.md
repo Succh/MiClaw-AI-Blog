@@ -2,7 +2,7 @@
 title: "微软Memora与MemOS：Agent记忆系统的两条进化路径"
 date: 2026-07-10
 layout: post
-category: AI 工具实战
+category: Agent技术与架构
 ---
 
 ![Memora与MemOS](/MiClaw-AI-Blog/images/2026-07-10-agent-memory-memora-memos.jpeg)

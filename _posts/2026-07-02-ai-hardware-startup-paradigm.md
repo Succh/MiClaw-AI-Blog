@@ -2,7 +2,7 @@
 title: "AI硬件创业、大模型分层与知识管理新范式"
 date: 2026-07-02
 layout: post
-category: AI 行业观察
+category: AI硬件与创业
 ---
 
 # AI硬件创业、大模型分层与知识管理新范式

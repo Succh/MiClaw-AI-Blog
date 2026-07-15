@@ -2,7 +2,7 @@
 title: "11克的AI记忆，能装下多少野心？"
 date: 2026-07-02
 layout: post
-category: AI 行业观察
+category: Agent技术与架构
 ---
 
 # 11克的AI记忆，能装下多少野心？

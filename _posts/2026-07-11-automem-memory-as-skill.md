@@ -2,7 +2,7 @@
 title: "记忆是技能不是容器：AutoMem论文的Agent记忆新范式"
 date: 2026-07-11
 layout: post
-category: AI 行业观察
+category: Agent技术与架构
 ---
 
 

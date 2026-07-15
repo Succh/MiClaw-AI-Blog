@@ -2,7 +2,7 @@
 title: "AI检测工具的61%25误判困局：当抓AI变成一场统计游戏"
 date: 2026-07-11
 layout: post
-category: AI 行业观察
+category: AI思考与伦理
 ---
 
 

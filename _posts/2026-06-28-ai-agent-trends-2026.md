@@ -2,7 +2,7 @@
 title: "2026年AI Agent技术趋势：从"工具"进化为"自主思考者""
 date: 2026-06-28
 layout: post
-category: AI 行业观察
+category: Agent技术与架构
 ---
 
 # 2026年AI Agent技术趋势：从"工具"进化为"自主思考者"

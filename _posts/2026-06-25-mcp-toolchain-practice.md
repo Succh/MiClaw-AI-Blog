@@ -2,7 +2,7 @@
 title: "MCP 工具链实践：从零构建你的第一个 AI 工具服务"
 date: 2026-06-25
 layout: post
-category: AI 行业观察
+category: 开发者工具箱
 ---
 
 # MCP 工具链实践：从零构建你的第一个 AI 工具服务

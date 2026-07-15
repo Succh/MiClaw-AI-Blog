@@ -2,7 +2,7 @@
 title: "Agent 检查点设计与安全防护实战：让 AI Agent 真正靠谱"
 date: 2026-06-18
 layout: post
-category: AI Agent
+category: Agent技术与架构
 ---
 
 # Agent 检查点设计与安全防护实战：让 AI Agent 真正靠谱

@@ -2,7 +2,7 @@
 title: "你的AI助手为什么越用越蠢？一个1425行MEMORY.md的手术实录"
 date: 2026-07-05
 layout: post
-category: AI 行业观察
+category: AI应用与自动化
 ---
 
 # 你的AI助手为什么越用越蠢？一个1425行MEMORY.md的手术实录

@@ -2,7 +2,7 @@
 title: "蒸馏争议、成本革命与AI创作工作流"
 date: 2026-06-29
 layout: post
-category: AI 行业观察
+category: AI思考与伦理
 ---
 
 # 蒸馏争议、成本革命与AI创作工作流

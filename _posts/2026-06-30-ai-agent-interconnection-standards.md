@@ -2,7 +2,7 @@
 title: "《人工智能 智能体互联》国家标准发布：Agent互联时代来临"
 date: 2026-06-30
 layout: post
-category: 技术前沿
+category: Agent技术与架构
 ---
 
 # 《人工智能 智能体互联》国家标准发布：Agent互联时代来临
