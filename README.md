@@ -18,11 +18,11 @@
 
 | 板块 | 数量 |
 |:---|:---:|
-| 🧠 Agent技术与架构 | 42 |
+| 🧠 Agent技术与架构 | 44 |
 | 🛠 开发者工具箱 | 10 |
 | ⚡ AI应用与自动化 | 5 |
-| 🤖 AI硬件与创业 | 5 |
-| 🔍 AI思考与伦理 | 4 |
+| 🤖 AI硬件与创业 | 4 |
+| 🔍 AI思考与伦理 | 3 |
 
 ---
 
@@ -43,7 +43,7 @@
 
 ## 📚 技术图谱
 
-### 🧠 Agent技术与架构 (42篇)
+### 🧠 Agent技术与架构 (44篇)
 
 | 日期 | 文章 |
 |:---|:---|
@@ -61,6 +61,7 @@
 | 06-24 | [基于OpenAI Patch the Planet计划：AI如何重塑开源网络安全](articles/2026-06-24-openai-patch-the-planet.md) |
 | 06-25 | [AI Agent框架选型指南：2026年如何选择最适合你的Agent开发框架](articles/2026-06-25-agent-framework-selection-guide.md) |
 | 06-25 | [GPT-5.6发布：Agent开发者的适配指南](articles/2026-06-25-gpt56-agent-adaptation-guide.md) |
+| 06-25 | [MCP 工具链实践：从零构建你的第一个 AI 工具服务](articles/2026-06-25-mcp-toolchain-practice.md) |
 | 06-25 | [Qwen-AgentWorld：用语言世界模型训练更强的AI Agent](articles/2026-06-25-qwen-agentworld-language-world-model.md) |
 | 06-26 | [Agent任务分解与层级规划机制](articles/2026-06-26-agent-task-decomposition-planning.md) |
 | 06-27 | [多模态Agent的认知增强：从视觉理解到跨模态推理](articles/2026-06-27-multimodal-agent-cognitive-enhancement.md) |
@@ -74,6 +75,7 @@
 | 06-30 | [7项国标落地：AI智能体告别「信息孤岛」时代](articles/2026-06-30-7项国标落地：AI智能体告别信息孤岛时代.md) |
 | 06-30 | [AI手机进入Agent时代：从语音助手到系统级智能入口](articles/2026-06-30-AI手机进入Agent时代.md) |
 | 06-30 | [Agent调度标准化与记忆防膨胀实战：从接口定义到投研自动化](articles/2026-06-30-Agent调度标准化与记忆防膨胀实战.md) |
+| 06-30 | [Agent衰减矩阵与AI硬件产品逻辑](articles/2026-06-30-agent-decay-matrix-and-hardware-logic.md) |
 | 06-30 | [《人工智能 智能体互联》国家标准发布：Agent互联时代来临](articles/2026-06-30-ai-agent-interconnection-standards.md) |
 | 06-30 | [AI产品思维、Agent衰减与工程实战](articles/2026-06-30-觅游社区深度复盘：AI产品思维、Agent衰减与工程实战.md) |
 | 07-01 | [🤖 AI Agent 协作网络：从](articles/2026-07-01-ai-agent-collaboration-network.md) |
@@ -95,9 +97,9 @@
 | 日期 | 文章 |
 |:---|:---|
 | 06-16 | [🛜 网络代理软件完全指南](articles/2026-06-16-proxy-guide.md) |
-| 06-25 | [MCP 工具链实践：从零构建你的第一个 AI 工具服务](articles/2026-06-25-mcp-toolchain-practice.md) |
 | 06-26 | [2026年AI开发效率工具精选：从终端到IDE的全链路提效指南](articles/2026-06-26-ai-dev-toolbox-selected.md) |
 | 06-27 | [Vibe Coding：当编程从「写代码」变成「说需求」](articles/2026-06-27-vibe-coding-ai-native-paradigm.md) |
+| 07-11 | [AI检测工具的61%25误判困局：当抓AI变成一场统计游戏](articles/2026-07-11-ai-detection-false-positive-crisis.md) |
 | 经典 | [🌍 浏览器扩展推荐](articles/legacy-browser-extensions.md) |
 | 经典 | [2026年开发者效率工具合集：从AI编码到全栈构建](articles/legacy-developer-tools-2026.md) |
 | 经典 | [6个现代终端工具：告别反人类的命令行体验](articles/legacy-modern-terminal-tools.md) |
@@ -115,24 +117,22 @@
 | 07-05 | [你的AI助手为什么越用越蠢？一个1425行MEMORY.md的手术实录](articles/2026-07-05-memory-three-layer-optimization.md) |
 | 07-15 | [AI走出对话框：2026智能体元年的四大方向与冷思考](articles/2026-07-15-ai-agent-out-of-dialog-box.md) |
 
-### 🤖 AI硬件与创业 (5篇)
+### 🤖 AI硬件与创业 (4篇)
 
 | 日期 | 文章 |
 |:---|:---|
-| 06-30 | [Agent衰减矩阵与AI硬件产品逻辑](articles/2026-06-30-agent-decay-matrix-and-hardware-logic.md) |
 | 07-02 | [AI硬件创业、大模型分层与知识管理新范式](articles/2026-07-02-ai-hardware-startup-paradigm.md) |
 | 07-03 | [AI的生态位觉醒与能源赌局：从Claude编制到核聚变十倍估值](articles/2026-07-03-ai-ecosystem-energy-revolution.md) |
 | 07-03 | [情感经济、订阅模式与反共识创业：三个商业案例的底层逻辑](articles/2026-07-03-emotional-economy-subscription-and-counter-intuitive-startups.md) |
 | 07-10 | [AI硬件的](articles/2026-07-10-ai-hardware-xiaotianshi-moment.md) |
 
-### 🔍 AI思考与伦理 (4篇)
+### 🔍 AI思考与伦理 (3篇)
 
 | 日期 | 文章 |
 |:---|:---|
 | 06-29 | [蒸馏争议、成本革命与AI创作工作流](articles/2026-06-29-ai-distillation-and-cost-innovation.md) |
 | 07-06 | [AI时代的品味：当执行被接管，什么才是你的护城河？](articles/2026-07-06-ai-era-taste.md) |
 | 07-07 | [当AI检测器把莎士比亚判成机器人：一场荒诞的算法猎巫](articles/2026-07-07-ai-detection-witch-hunt.md) |
-| 07-11 | [AI检测工具的61%25误判困局：当抓AI变成一场统计游戏](articles/2026-07-11-ai-detection-false-positive-crisis.md) |
 
 ---
 
