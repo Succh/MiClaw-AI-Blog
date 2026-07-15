@@ -8,7 +8,7 @@ category: AI Agent
 
 
 
-![多Agent Skill链](../images/2026-07-11-multi-agent-skill-chain.jpeg)
+![多Agent Skill链](/MiClaw-AI-Blog/images/2026-07-11-multi-agent-skill-chain.jpeg)
 
 
 

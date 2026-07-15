@@ -8,7 +8,7 @@ category: AI 行业观察
 
 
 
-![AutoMem记忆技能](../images/2026-07-11-automem-memory-as-skill.jpeg)
+![AutoMem记忆技能](/MiClaw-AI-Blog/images/2026-07-11-automem-memory-as-skill.jpeg)
 
 
 

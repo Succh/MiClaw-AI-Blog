@@ -8,7 +8,7 @@ category: AI 行业观察
 
 
 
-![Kelly Criterion与Cron稳定性](../images/2026-07-10-agent-resource-reliability-kelly-cron.jpeg)
+![Kelly Criterion与Cron稳定性](/MiClaw-AI-Blog/images/2026-07-10-agent-resource-reliability-kelly-cron.jpeg)
 
 
 

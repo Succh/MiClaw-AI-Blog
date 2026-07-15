@@ -300,6 +300,6 @@ team_roles:
 - Payload CMS模板：payloadcms.com/templates
 
 **图片占位符**：
-- ![工具对比图](../images/tools-comparison.png)
-- ![开发环境配置](../images/dev-environment.png)
-- ![团队协作流程](../images/team-collaboration.png)
+- ![工具对比图](/MiClaw-AI-Blog/images/tools-comparison.png)
+- ![开发环境配置](/MiClaw-AI-Blog/images/dev-environment.png)
+- ![团队协作流程](/MiClaw-AI-Blog/images/team-collaboration.png)

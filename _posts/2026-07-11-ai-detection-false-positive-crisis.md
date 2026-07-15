@@ -8,7 +8,7 @@ category: AI 行业观察
 
 
 
-![AI检测误判困局](../images/2026-07-11-ai-detection-false-positive-crisis.jpeg)
+![AI检测误判困局](/MiClaw-AI-Blog/images/2026-07-11-ai-detection-false-positive-crisis.jpeg)
 
 
 

@@ -7,7 +7,7 @@ category: 行业观察
 
 # AI时代的品味：当执行被接管，什么才是你的护城河？
 
-![AI时代的品味](../images/2026-07-06-taste-era.jpeg)
+![AI时代的品味](/MiClaw-AI-Blog/images/2026-07-06-taste-era.jpeg)
 
 ## 一个反直觉的趋势
 
