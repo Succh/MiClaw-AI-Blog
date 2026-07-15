@@ -1,5 +1,6 @@
 ---
 title: "Agent质量控制实战：Writer+Critic双角色模式如何把错误率从40%压到5%"
+category: Agent技术与架构
 date: 2026-07-08
 tags: [AI Agent, 质量控制, 多Agent协作, Prompt Engineering]
 description: 拆解Writer+Critic双角色架构的核心逻辑、落地要点和常见陷阱，附实测数据和避坑指南。
