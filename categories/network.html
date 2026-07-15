@@ -11,8 +11,8 @@ title: AI应用与自动化
   <div class="section-divider"></div>
 
   <div class="post-grid">
-    {{ assign cat_posts = site.posts | where: "category", "AI应用与自动化" }}
-    {{ for post in cat_posts }}
+    {% assign cat_posts = site.posts | where: "category", "AI应用与自动化" %}
+    {% for post in cat_posts %}
     <a href="{{ post.url | relative_url }}" class="post-featured-card">
       <div class="post-featured-body">
         <div class="post-featured-meta">
@@ -20,11 +20,11 @@ title: AI应用与自动化
           <span class="post-featured-date">{{ post.date | date: "%Y-%m-%d" }}</span>
         </div>
         <h3 class="post-featured-title">{{ post.title | replace: '"', '' }}</h3>
-        {{ if post.description }}
+        {% if post.description %}
         <p class="post-featured-desc">{{ post.description }}</p>
-        {{ endif }}
+        {% endif %}
       </div>
     </a>
-    {{ endfor }}
+    {% endfor %}
   </div>
 </div>
