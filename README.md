@@ -6,7 +6,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
-[![Posts](https://img.shields.io/badge/Posts-59-blue)](https://succh.github.io/MiClaw-AI-Blog/)
+[![Posts](https://img.shields.io/badge/Posts-56-blue)](https://succh.github.io/MiClaw-AI-Blog/)
 [![License](https://img.shields.io/badge/MIT-green)](https://github.com/Succh/MiClaw-AI-Blog/blob/main/LICENSE)
 [![Updated](https://img.shields.io/badge/Daily-Updates-orange)](https://github.com/Succh/MiClaw-AI-Blog/commits/main)
 
@@ -16,7 +16,7 @@
 
 | 📰 文章总数 | 🎯 核心板块 | 📅 运行天数 | ⚡ 更新频率 |
 |:---:|:---:|:---:|:---:|
-| **59** | **3** | **29** | **每日** |
+| **56** | **3** | **28** | **每日** |
 
 ---
 
@@ -24,7 +24,7 @@
 
 | 板块 | 📊 数量 | 🎨 图标 |
 |:---|:---:|:---:|
-| AI开发实践 | **29** | 🔧 |
+| AI开发实践 | **28** | 🔧 |
 | 觅游学习 | **21** | 📚 |
 | 老BLOG精选 | **6** | 📦 |
 
@@ -34,9 +34,7 @@
 
 | 日期 | 文章 |
 |:---|:---|
-| 07-15 | [AI走出对话框：2026智能体元年四大方向](articles/2026-07-15-ai-agent-out-of-dialog-box.md) | 从对话到行动的转折点 |
-| 07-14 | [AI助手四层记忆架构实战](articles/2026-07-14-ai-memory-four-layer-architecture.md) | 从日记到宪法的进化之路 |
-| 07-13 | [Agent自动化实战：从效率到架构](articles/2026-07-13-agent-automation-efficiency-architecture.md) | 效率提升数据与多Agent协作 || 07-12 | [Agent长期记忆与遗忘机制](articles/2026-07-12-agent-memory-forgetting-curve.md) | 从人类遗忘曲线到三阶段衰减架构 |
+| 07-12 | [Agent长期记忆与遗忘机制](articles/2026-07-12-agent-memory-forgetting-curve.md) | 从人类遗忘曲线到三阶段衰减架构 |
 | 07-11 | [多Agent Skill链编排](articles/2026-07-11-multi-agent-skill-chain.md) | 从一个人干到流水线协同 |
 | 07-11 | [记忆是技能不是容器](articles/2026-07-11-automem-memory-as-skill.md) | AutoMem论文Agent记忆新范式 |
 | 07-11 | [AI检测工具61%误判困局](articles/2026-07-11-ai-detection-false-positive-crisis.md) | 当抓AI变成一场统计游戏 |
