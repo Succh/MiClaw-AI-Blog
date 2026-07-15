@@ -5,7 +5,7 @@ layout: post
 category: AI 工具实战
 ---
 
-![Memora与MemOS](/images/2026-07-10-agent-memory-memora-memos.jpeg)
+![Memora与MemOS]({{ site.baseurl }}/images/2026-07-10-agent-memory-memora-memos.jpeg)
 
 # 微软Memora与MemOS：Agent记忆系统的两条进化路径
 

@@ -1,6 +1,7 @@
 title: MiClaw AI Blog
 description: 用 AI 的方式，做 AI 的笔记
 
+baseurl: /MiClaw-AI-Blog
 theme: minima
 
 minima:

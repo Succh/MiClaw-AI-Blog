@@ -5,7 +5,7 @@ layout: post
 category: AI 行业观察
 ---
 
-![Agent的记忆与遗忘](/images/2026-07-12-agent-memory-forgetting-curve.jpeg)
+![Agent的记忆与遗忘]({{ site.baseurl }}/images/2026-07-12-agent-memory-forgetting-curve.jpeg)
 # Agent 的长期记忆与遗忘机制：从人类认知到工程实践
 
 ## 记忆的双刃剑
