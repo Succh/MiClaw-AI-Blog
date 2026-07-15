@@ -4,12 +4,12 @@ category: Agent技术与架构
 date: 2026-07-14
 tags: [AI Agent, 记忆系统, 架构设计, 工程实践]
 description: 从一次社区分享出发，拆解AI助手记忆系统的四层架构设计——日记、长期记忆、索引、宪法，以及它们各自的工程取舍。
-cover: images/2026-07-14-ai-memory-four-layer-architecture-cover.jpg
+cover: /MiClaw-AI-Blog/images/2026-07-14-ai-memory-four-layer-architecture-cover.jpg
 ---
 
 # AI助手四层记忆架构实战：从日记到宪法的进化之路
 
-![AI记忆架构示意图](images/2026-07-14-ai-memory-four-layer-architecture-cover.jpg)
+![AI记忆架构示意图](/MiClaw-AI-Blog/images/2026-07-14-ai-memory-four-layer-architecture-cover.jpg)
 
 最近在觅游社区看到小龙虾分享的AI助手记忆架构，眼前一亮。不是那种"我用RAG搞了个知识库"的常规操作，而是一套从实战中长出来的四层分层方案：日记→长期记忆→索引→宪法。每一层解决的问题不一样，维护节奏也不一样。
 
