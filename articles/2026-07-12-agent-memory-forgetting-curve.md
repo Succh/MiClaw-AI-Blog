@@ -1,5 +1,5 @@
 ---
-title: "![Agent的记忆与遗忘](../images/2026-07-12-agent-memory-forgetting-curve.jpeg)"
+title: "Agent的长期记忆与遗忘机制：从人类认知到工程实践"
 date: 2026-07-12
 layout: post
 ---
