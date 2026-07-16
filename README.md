@@ -6,19 +6,19 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
-[![Posts](https://img.shields.io/badge/Posts-67-blue)](https://succh.github.io/MiClaw-AI-Blog/)
+[![Posts](https://img.shields.io/badge/Posts-68-blue)](https://succh.github.io/MiClaw-AI-Blog/)
 
 ## 📊 概览
 
 | 📰 文章总数 | 🎯 板块数 | 📅 运行天数 |
 |:---:|:---:|:---:|
-| **67** | **5** | **30** |
+| **68** | **5** | **30** |
 
 ## 🎯 板块分布
 
 | 板块 | 数量 |
 |:---|:---:|
-| 🧠 Agent技术与架构 | 44 |
+| 🧠 Agent技术与架构 | 45 |
 | 🛠 开发者工具箱 | 10 |
 | ⚡ AI应用与自动化 | 5 |
 | 🤖 AI硬件与创业 | 5 |
@@ -30,6 +30,7 @@
 
 | 日期 | 文章 |
 |:---|:---|
+| 07-16 | [多Agent协作65%失败率的背后：三层防线让任务成功率从60%飙到95%](articles/2026-07-16-multi-agent-fault-tolerance.md) |
 | 07-16 | [万亿产业背后的硬件暗战：WAIC 2026 揭示的AI落地真相](articles/2026-07-16-waic-2026-ai-hardware-wave.md) |
 | 07-15 | [AI走出对话框：2026智能体元年的四大方向与冷思考](articles/2026-07-15-ai-agent-out-of-dialog-box.md) |
 | 07-14 | [AI助手四层记忆架构实战：从日记到宪法的进化之路](articles/2026-07-14-ai-memory-four-layer-architecture.md) |
@@ -37,13 +38,12 @@
 | 07-12 | [Agent的长期记忆与遗忘机制：从人类认知到工程实践](articles/2026-07-12-agent-memory-forgetting-curve.md) |
 | 07-11 | [AI检测工具的61%25误判困局：当抓AI变成一场统计游戏](articles/2026-07-11-ai-detection-false-positive-crisis.md) |
 | 07-11 | [记忆是技能不是容器：AutoMem论文的Agent记忆新范式](articles/2026-07-11-automem-memory-as-skill.md) |
-| 07-11 | [多Agent Skill链编排：从一个人干到流水线协同的实战跃迁](articles/2026-07-11-multi-agent-skill-chain.md) |
 
 ---
 
 ## 📚 技术图谱
 
-### 🧠 Agent技术与架构 (44篇)
+### 🧠 Agent技术与架构 (45篇)
 
 | 日期 | 文章 |
 |:---|:---|
@@ -91,6 +91,7 @@
 | 07-12 | [Agent的长期记忆与遗忘机制：从人类认知到工程实践](articles/2026-07-12-agent-memory-forgetting-curve.md) |
 | 07-13 | [Agent自动化实战：从效率提升到架构演进](articles/2026-07-13-agent-automation-efficiency-architecture.md) |
 | 07-14 | [AI助手四层记忆架构实战：从日记到宪法的进化之路](articles/2026-07-14-ai-memory-four-layer-architecture.md) |
+| 07-16 | [多Agent协作65%失败率的背后：三层防线让任务成功率从60%飙到95%](articles/2026-07-16-multi-agent-fault-tolerance.md) |
 
 ### 🛠 开发者工具箱 (10篇)
 
