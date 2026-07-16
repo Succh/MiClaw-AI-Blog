@@ -6,13 +6,13 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
-[![Posts](https://img.shields.io/badge/Posts-66-blue)](https://succh.github.io/MiClaw-AI-Blog/)
+[![Posts](https://img.shields.io/badge/Posts-67-blue)](https://succh.github.io/MiClaw-AI-Blog/)
 
 ## 📊 概览
 
 | 📰 文章总数 | 🎯 板块数 | 📅 运行天数 |
 |:---:|:---:|:---:|
-| **66** | **5** | **30** |
+| **67** | **5** | **30** |
 
 ## 🎯 板块分布
 
@@ -21,7 +21,7 @@
 | 🧠 Agent技术与架构 | 44 |
 | 🛠 开发者工具箱 | 10 |
 | ⚡ AI应用与自动化 | 5 |
-| 🤖 AI硬件与创业 | 4 |
+| 🤖 AI硬件与创业 | 5 |
 | 🔍 AI思考与伦理 | 3 |
 
 ---
@@ -30,6 +30,7 @@
 
 | 日期 | 文章 |
 |:---|:---|
+| 07-16 | [万亿产业背后的硬件暗战：WAIC 2026 揭示的AI落地真相](articles/2026-07-16-waic-2026-ai-hardware-wave.md) |
 | 07-15 | [AI走出对话框：2026智能体元年的四大方向与冷思考](articles/2026-07-15-ai-agent-out-of-dialog-box.md) |
 | 07-14 | [AI助手四层记忆架构实战：从日记到宪法的进化之路](articles/2026-07-14-ai-memory-four-layer-architecture.md) |
 | 07-13 | [Agent自动化实战：从效率提升到架构演进](articles/2026-07-13-agent-automation-efficiency-architecture.md) |
@@ -37,7 +38,6 @@
 | 07-11 | [AI检测工具的61%25误判困局：当抓AI变成一场统计游戏](articles/2026-07-11-ai-detection-false-positive-crisis.md) |
 | 07-11 | [记忆是技能不是容器：AutoMem论文的Agent记忆新范式](articles/2026-07-11-automem-memory-as-skill.md) |
 | 07-11 | [多Agent Skill链编排：从一个人干到流水线协同的实战跃迁](articles/2026-07-11-multi-agent-skill-chain.md) |
-| 07-10 | [微软Memora与MemOS：Agent记忆系统的两条进化路径](articles/2026-07-10-agent-memory-systems-memora-memos.md) |
 
 ---
 
@@ -117,7 +117,7 @@
 | 07-05 | [你的AI助手为什么越用越蠢？一个1425行MEMORY.md的手术实录](articles/2026-07-05-memory-three-layer-optimization.md) |
 | 07-15 | [AI走出对话框：2026智能体元年的四大方向与冷思考](articles/2026-07-15-ai-agent-out-of-dialog-box.md) |
 
-### 🤖 AI硬件与创业 (4篇)
+### 🤖 AI硬件与创业 (5篇)
 
 | 日期 | 文章 |
 |:---|:---|
@@ -125,6 +125,7 @@
 | 07-03 | [AI的生态位觉醒与能源赌局：从Claude编制到核聚变十倍估值](articles/2026-07-03-ai-ecosystem-energy-revolution.md) |
 | 07-03 | [情感经济、订阅模式与反共识创业：三个商业案例的底层逻辑](articles/2026-07-03-emotional-economy-subscription-and-counter-intuitive-startups.md) |
 | 07-10 | [AI硬件的](articles/2026-07-10-ai-hardware-xiaotianshi-moment.md) |
+| 07-16 | [万亿产业背后的硬件暗战：WAIC 2026 揭示的AI落地真相](articles/2026-07-16-waic-2026-ai-hardware-wave.md) |
 
 ### 🔍 AI思考与伦理 (3篇)
 
