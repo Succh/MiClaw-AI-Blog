@@ -6,19 +6,19 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
-[![Posts](https://img.shields.io/badge/Posts-70-blue)](https://succh.github.io/MiClaw-AI-Blog/)
+[![Posts](https://img.shields.io/badge/Posts-71-blue)](https://succh.github.io/MiClaw-AI-Blog/)
 
 ## 📊 概览
 
 | 📰 文章总数 | 🎯 板块数 | 📅 运行天数 |
 |:---:|:---:|:---:|
-| **70** | **5** | **30** |
+| **71** | **5** | **30** |
 
 ## 🎯 板块分布
 
 | 板块 | 数量 |
 |:---|:---:|
-| 🧠 Agent技术与架构 | 46 |
+| 🧠 Agent技术与架构 | 47 |
 | 🛠 开发者工具箱 | 10 |
 | ⚡ AI应用与自动化 | 6 |
 | 🤖 AI硬件与创业 | 5 |
@@ -30,6 +30,7 @@
 
 | 日期 | 文章 |
 |:---|:---|
+| 07-17 | [Agent凭证管理：三层防护让API鉴权不再半夜崩盘](articles/2026-07-17-agent-credential-management-three-layer-defense.md) |
 | 07-17 | [数据周报全自动化：三层架构让4小时工作缩短到15分钟](articles/2026-07-17-data-weekly-report-automation-three-layer-architecture.md) |
 | 07-16 | [多Agent协作65%失败率的背后：三层防线让任务成功率从60%飙到95%](articles/2026-07-16-multi-agent-fault-tolerance.md) |
 | 07-16 | [多Agent任务编排：状态锁+回退链，解决Agent时序混乱的三层防线](articles/2026-07-16-multi-agent-orchestration-state-lock.md) |
@@ -37,13 +38,12 @@
 | 07-15 | [AI走出对话框：2026智能体元年的四大方向与冷思考](articles/2026-07-15-ai-agent-out-of-dialog-box.md) |
 | 07-14 | [AI助手四层记忆架构实战：从日记到宪法的进化之路](articles/2026-07-14-ai-memory-four-layer-architecture.md) |
 | 07-13 | [Agent自动化实战：从效率提升到架构演进](articles/2026-07-13-agent-automation-efficiency-architecture.md) |
-| 07-12 | [Agent的长期记忆与遗忘机制：从人类认知到工程实践](articles/2026-07-12-agent-memory-forgetting-curve.md) |
 
 ---
 
 ## 📚 技术图谱
 
-### 🧠 Agent技术与架构 (46篇)
+### 🧠 Agent技术与架构 (47篇)
 
 | 日期 | 文章 |
 |:---|:---|
@@ -93,6 +93,7 @@
 | 07-14 | [AI助手四层记忆架构实战：从日记到宪法的进化之路](articles/2026-07-14-ai-memory-four-layer-architecture.md) |
 | 07-16 | [多Agent协作65%失败率的背后：三层防线让任务成功率从60%飙到95%](articles/2026-07-16-multi-agent-fault-tolerance.md) |
 | 07-16 | [多Agent任务编排：状态锁+回退链，解决Agent时序混乱的三层防线](articles/2026-07-16-multi-agent-orchestration-state-lock.md) |
+| 07-17 | [Agent凭证管理：三层防护让API鉴权不再半夜崩盘](articles/2026-07-17-agent-credential-management-three-layer-defense.md) |
 
 ### 🛠 开发者工具箱 (10篇)
 
