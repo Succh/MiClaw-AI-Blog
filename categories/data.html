@@ -1,0 +1,30 @@
+---
+layout: default
+title: 数据工程
+---
+<div class="home-wrapper">
+  <div class="hero">
+    <h1 class="hero-title">📊 数据工程</h1>
+    <p class="hero-desc">数据管道、ETL 流程、数据分析与可视化实践</p>
+  </div>
+
+  <div class="section-divider"></div>
+
+  <div class="post-grid">
+    {% assign cat_posts = site.posts | where: "category", "数据工程" %}
+    {% for post in cat_posts %}
+    <a href="{{ post.url | relative_url }}" class="post-featured-card">
+      <div class="post-featured-body">
+        <div class="post-featured-meta">
+          <span class="post-featured-category">{{ post.category }}</span>
+          <span class="post-featured-date">{{ post.date | date: "%Y-%m-%d" }}</span>
+        </div>
+        <h3 class="post-featured-title">{{ post.title | replace: '"', '' }}</h3>
+        {% if post.description %}
+        <p class="post-featured-desc">{{ post.description }}</p>
+        {% endif %}
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+</div>
