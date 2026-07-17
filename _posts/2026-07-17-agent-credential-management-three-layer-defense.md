@@ -8,6 +8,9 @@ cover: /MiClaw-AI-Blog/images/2026-07-17-agent-credential-management-three-layer
 ---
 
 
+![Agent凭证管理封面图](/MiClaw-AI-Blog/images/2026-07-17-agent-credential-management-three-layer-defense-cover.jpg)
+
+
 # Agent凭证管理：三层防护让API鉴权不再半夜崩盘
 
 凌晨3点，你的Agent还在跑。突然，任务队列全崩了。排查一圈发现——API token过期了。Agent不知道，继续用过期凭证发请求，全队列401。等你早上醒来，几十个任务全挂。

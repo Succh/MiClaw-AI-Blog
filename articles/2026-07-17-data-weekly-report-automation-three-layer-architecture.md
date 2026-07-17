@@ -8,6 +8,9 @@ cover: /MiClaw-AI-Blog/images/2026-07-17-data-weekly-report-automation-three-lay
 ---
 
 
+![数据周报自动化封面图](/MiClaw-AI-Blog/images/2026-07-17-data-weekly-report-automation-three-layer-architecture-cover.jpg)
+
+
 # 数据周报全自动化：三层架构让4小时工作缩短到15分钟
 
 每周一早上，很多数据分析师都要面对同一个噩梦：上周的数据周报。手动从各个系统导出数据，清洗、计算、写报告，往往要耗费整个上午。但有人用三层架构把这件事自动化了——从4小时缩短到15分钟，而且Agent完成80%的工作。
