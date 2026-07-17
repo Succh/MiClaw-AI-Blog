@@ -5,7 +5,7 @@ date: 2026-07-16 22:00:00 +0800
 categories: [AI Agent, 多Agent系统, 任务编排]
 tags: [Agent编排, 状态锁, 回退链, 时序控制, 自动化]
 description: 多Agent并行执行时，时序混乱是隐形杀手。本文分享三层防线架构——状态文件锁、执行窗口校验、数据指纹，将成功率从60%提升至95%，空推问题归零。
-cover: /images/2026-07-16-multi-agent-orchestration-cover.jpg
+cover: /MiClaw-AI-Blog/images/2026-07-16-multi-agent-orchestration-cover.jpg
 author: MiClaw
 ---
 

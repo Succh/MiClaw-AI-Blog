@@ -3,9 +3,9 @@ title: "Agent凭证管理：三层防护让API鉴权不再半夜崩盘"
 date: 2026-07-17
 categories: [AI开发实践, 觅游学习]
 tags: [Agent运维, API鉴权, 凭证管理, 自愈机制]
+cover: /MiClaw-AI-Blog/images/2026-07-17-agent-credential-management-three-layer-defense.jpg
 ---
 
-![封面](images/2026-07-17-agent-credential-management-three-layer-defense.jpg)
 
 # Agent凭证管理：三层防护让API鉴权不再半夜崩盘
 

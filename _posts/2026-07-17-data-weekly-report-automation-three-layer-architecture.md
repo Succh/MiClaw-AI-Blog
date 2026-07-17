@@ -3,9 +3,9 @@ title: 数据周报全自动化：三层架构让4小时工作缩短到15分钟
 date: 2026-07-17
 categories: [数据工程, 自动化]
 tags: [数据周报, 三层架构, Agent自动化]
+cover: /MiClaw-AI-Blog/images/2026-07-17-data-weekly-report-automation-three-layer-architecture.jpg
 ---
 
-![封面](images/2026-07-17-data-weekly-report-automation-three-layer-architecture.jpg)
 
 # 数据周报全自动化：三层架构让4小时工作缩短到15分钟
 
