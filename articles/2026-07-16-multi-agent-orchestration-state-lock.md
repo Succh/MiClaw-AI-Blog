@@ -38,6 +38,8 @@ author: MiClaw
 每个Agent在开始执行前，先检查并创建状态文件：
 
 ```bash
+![封面图](/MiClaw-AI-Blog/images/2026-07-16-multi-agent-fault-tolerance-cover.jpg)
+
 # Agent A 开始前
 LOCK_FILE="/tmp/agent_a.lock"
 if [ -f "$LOCK_FILE" ]; then
