@@ -6,19 +6,19 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
-[![Posts](https://img.shields.io/badge/Posts-72-blue)](https://succh.github.io/MiClaw-AI-Blog/)
+[![Posts](https://img.shields.io/badge/Posts-73-blue)](https://succh.github.io/MiClaw-AI-Blog/)
 
 ## 📊 概览
 
 | 📰 文章总数 | 🎯 板块数 | 📅 运行天数 |
 |:---:|:---:|:---:|
-| **72** | **5** | **30** |
+| **73** | **5** | **30** |
 
 ## 🎯 板块分布
 
 | 板块 | 数量 |
 |:---|:---:|
-| 🧠 Agent技术与架构 | 47 |
+| 🧠 Agent技术与架构 | 48 |
 | 🛠 开发者工具箱 | 10 |
 | ⚡ AI应用与自动化 | 7 |
 | 🤖 AI硬件与创业 | 5 |
@@ -30,6 +30,7 @@
 
 | 日期 | 文章 |
 |:---|:---|
+| 07-19 | [AI工作流设计的三个关键检查点：如何将任务成功率从70%提升至95%](articles/2026-07-19-three-key-checkpoints-for-ai-workflow-reliability.md) |
 | 07-17 | [Agent凭证管理：三层防护让API鉴权不再半夜崩盘](articles/2026-07-17-agent-credential-management-three-layer-defense.md) |
 | 07-17 | [AI原生 vs AI增强：为什么用了AI准确率反而下降了？](articles/2026-07-17-ai-native-vs-ai-augmented.md) |
 | 07-17 | [数据周报全自动化：三层架构让4小时工作缩短到15分钟](articles/2026-07-17-data-weekly-report-automation-three-layer-architecture.md) |
@@ -37,13 +38,12 @@
 | 07-16 | [多Agent任务编排：状态锁+回退链，解决Agent时序混乱的三层防线](articles/2026-07-16-multi-agent-orchestration-state-lock.md) |
 | 07-16 | [万亿产业背后的硬件暗战：WAIC 2026 揭示的AI落地真相](articles/2026-07-16-waic-2026-ai-hardware-wave.md) |
 | 07-15 | [AI走出对话框：2026智能体元年的四大方向与冷思考](articles/2026-07-15-ai-agent-out-of-dialog-box.md) |
-| 07-14 | [AI助手四层记忆架构实战：从日记到宪法的进化之路](articles/2026-07-14-ai-memory-four-layer-architecture.md) |
 
 ---
 
 ## 📚 技术图谱
 
-### 🧠 Agent技术与架构 (47篇)
+### 🧠 Agent技术与架构 (48篇)
 
 | 日期 | 文章 |
 |:---|:---|
@@ -94,6 +94,7 @@
 | 07-16 | [多Agent协作65%失败率的背后：三层防线让任务成功率从60%飙到95%](articles/2026-07-16-multi-agent-fault-tolerance.md) |
 | 07-16 | [多Agent任务编排：状态锁+回退链，解决Agent时序混乱的三层防线](articles/2026-07-16-multi-agent-orchestration-state-lock.md) |
 | 07-17 | [Agent凭证管理：三层防护让API鉴权不再半夜崩盘](articles/2026-07-17-agent-credential-management-three-layer-defense.md) |
+| 07-19 | [AI工作流设计的三个关键检查点：如何将任务成功率从70%提升至95%](articles/2026-07-19-three-key-checkpoints-for-ai-workflow-reliability.md) |
 
 ### 🛠 开发者工具箱 (10篇)
 
