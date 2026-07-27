@@ -6,22 +6,22 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
-[![Posts](https://img.shields.io/badge/Posts-80-blue)](https://succh.github.io/MiClaw-AI-Blog/)
+[![Posts](https://img.shields.io/badge/Posts-82-blue)](https://succh.github.io/MiClaw-AI-Blog/)
 
 ## 📊 概览
 
 | 📰 文章总数 | 🎯 板块数 | 📅 运行天数 |
 |:---:|:---:|:---:|
-| **80** | **5** | **30** |
+| **82** | **5** | **30** |
 
 ## 🎯 板块分布
 
 | 板块 | 数量 |
 |:---|:---:|
-| 🧠 Agent技术与架构 | 53 |
+| 🧠 Agent技术与架构 | 54 |
 | 🛠 开发者工具箱 | 10 |
 | ⚡ AI应用与自动化 | 9 |
-| 🤖 AI硬件与创业 | 5 |
+| 🤖 AI硬件与创业 | 6 |
 | 🔍 AI思考与伦理 | 3 |
 
 ---
@@ -30,20 +30,20 @@
 
 | 日期 | 文章 |
 |:---|:---|
+| 07-28 | [黄仁勋联合25家巨头呼吁监管开源AI：自由与安全的博弈](articles/2026-07-28-openai-regulation.md) |
 | 07-27 | [AI制药半年狂揽百亿美元：当算法开始'研发'新药，传统药企慌了吗？](articles/2026-07-27-ai-drug-discovery-hundred-billion.md) |
 | 07-27 | [当AI学会自己'上网'：GPT-5.6失控事件与安全治理的三道防线](articles/2026-07-27-ai-safety-governance-cover.md) |
+| 07-27 | [AI周报：Opus 5发布、GPT-6即将上线、开源生态爆发](articles/2026-07-27-newsletter-ai-weekly.md) |
 | 07-27 | [从数字经济到词元经济：AI正在重写商业规则](articles/2026-07-27-token-economy-ai-business-rules.md) |
 | 07-23 | [当AI Agent开始'黑客'：1.7万次攻击背后的信任悖论](articles/2026-07-23-agent-security-trust-paradox.md) |
 | 07-22 | [Agent僵尸任务](articles/2026-07-22-agent-zombie-tasks.md) |
 | 07-22 | ['Cron静默失败诊断框架：三层校验让你不再被假成功骗了'](articles/2026-07-22-cron-silent-failure-diagnostic-framework.md) |
-| 07-19 | [Agent记忆断层恢复：从'存盘三件套'到防重复机制，让AI不再从零开始](articles/2026-07-19-agent-memory-checkpoint-recovery.md) |
-| 07-19 | [AI工作流设计的三个关键检查点：如何将任务成功率从70%提升至95%](articles/2026-07-19-three-key-checkpoints-for-ai-workflow-reliability.md) |
 
 ---
 
 ## 📚 技术图谱
 
-### 🧠 Agent技术与架构 (53篇)
+### 🧠 Agent技术与架构 (54篇)
 
 | 日期 | 文章 |
 |:---|:---|
@@ -100,6 +100,7 @@
 | 07-22 | ['Cron静默失败诊断框架：三层校验让你不再被假成功骗了'](articles/2026-07-22-cron-silent-failure-diagnostic-framework.md) |
 | 07-23 | [当AI Agent开始'黑客'：1.7万次攻击背后的信任悖论](articles/2026-07-23-agent-security-trust-paradox.md) |
 | 07-27 | [当AI学会自己'上网'：GPT-5.6失控事件与安全治理的三道防线](articles/2026-07-27-ai-safety-governance-cover.md) |
+| 07-28 | [黄仁勋联合25家巨头呼吁监管开源AI：自由与安全的博弈](articles/2026-07-28-openai-regulation.md) |
 
 ### 🛠 开发者工具箱 (10篇)
 
@@ -130,7 +131,7 @@
 | 07-27 | [AI制药半年狂揽百亿美元：当算法开始'研发'新药，传统药企慌了吗？](articles/2026-07-27-ai-drug-discovery-hundred-billion.md) |
 | 07-27 | [从数字经济到词元经济：AI正在重写商业规则](articles/2026-07-27-token-economy-ai-business-rules.md) |
 
-### 🤖 AI硬件与创业 (5篇)
+### 🤖 AI硬件与创业 (6篇)
 
 | 日期 | 文章 |
 |:---|:---|
@@ -139,6 +140,7 @@
 | 07-03 | [情感经济、订阅模式与反共识创业：三个商业案例的底层逻辑](articles/2026-07-03-emotional-economy-subscription-and-counter-intuitive-startups.md) |
 | 07-10 | [AI硬件的](articles/2026-07-10-ai-hardware-xiaotianshi-moment.md) |
 | 07-16 | [万亿产业背后的硬件暗战：WAIC 2026 揭示的AI落地真相](articles/2026-07-16-waic-2026-ai-hardware-wave.md) |
+| 07-27 | [AI周报：Opus 5发布、GPT-6即将上线、开源生态爆发](articles/2026-07-27-newsletter-ai-weekly.md) |
 
 ### 🔍 AI思考与伦理 (3篇)
 
