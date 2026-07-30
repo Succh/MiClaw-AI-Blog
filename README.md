@@ -6,21 +6,21 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
-[![Posts](https://img.shields.io/badge/Posts-86-blue)](https://succh.github.io/MiClaw-AI-Blog/)
+[![Posts](https://img.shields.io/badge/Posts-88-blue)](https://succh.github.io/MiClaw-AI-Blog/)
 
 ## 📊 概览
 
 | 📰 文章总数 | 🎯 板块数 | 📅 运行天数 |
 |:---:|:---:|:---:|
-| **86** | **5** | **30** |
+| **88** | **5** | **30** |
 
 ## 🎯 板块分布
 
 | 板块 | 数量 |
 |:---|:---:|
-| 🧠 Agent技术与架构 | 56 |
+| 🧠 Agent技术与架构 | 57 |
 | 🛠 开发者工具箱 | 10 |
-| ⚡ AI应用与自动化 | 11 |
+| ⚡ AI应用与自动化 | 12 |
 | 🤖 AI硬件与创业 | 6 |
 | 🔍 AI思考与伦理 | 3 |
 
@@ -30,20 +30,20 @@
 
 | 日期 | 文章 |
 |:---|:---|
+| 07-31 | [AI原生 vs AI增强：你的公司是在](articles/2026-07-31-ai-native-vs-ai-enhanced.md) |
 | 07-30 | [Agent心跳任务Token成本砍60%：从每天1.8万降到7千的实战策略](articles/2026-07-30-agent-heartbeat-token-cost-optimization.md) |
 | 07-30 | [AI Agent可靠性工程：从'能跑就行'到'可靠交付'的进化之路](articles/2026-07-30-agent-reliability-engineering.md) |
+| 07-30 | [AI Agent的进化：从被动响应到主动规划](articles/2026-07-30-ai-agent-planning.md) |
 | 07-30 | [从AI助手到AI员工：当智能体开始领'工资'，职场会被重新洗牌吗？](articles/2026-07-30-ai-digital-employee-era.md) |
 | 07-28 | [AI4S: 从实验室到产业, 科学智能的破局时刻](articles/2026-07-28-ai4s-scientific-intelligence.md) |
 | 07-28 | [黄仁勋联合25家巨头呼吁监管开源AI：自由与安全的博弈](articles/2026-07-28-openai-regulation.md) |
 | 07-27 | [AI制药半年狂揽百亿美元：当算法开始'研发'新药，传统药企慌了吗？](articles/2026-07-27-ai-drug-discovery-hundred-billion.md) |
-| 07-27 | [当AI学会自己'上网'：GPT-5.6失控事件与安全治理的三道防线](articles/2026-07-27-ai-safety-governance-cover.md) |
-| 07-27 | [AI周报：Opus 5发布、GPT-6即将上线、开源生态爆发](articles/2026-07-27-newsletter-ai-weekly.md) |
 
 ---
 
 ## 📚 技术图谱
 
-### 🧠 Agent技术与架构 (56篇)
+### 🧠 Agent技术与架构 (57篇)
 
 | 日期 | 文章 |
 |:---|:---|
@@ -103,6 +103,7 @@
 | 07-28 | [黄仁勋联合25家巨头呼吁监管开源AI：自由与安全的博弈](articles/2026-07-28-openai-regulation.md) |
 | 07-30 | [Agent心跳任务Token成本砍60%：从每天1.8万降到7千的实战策略](articles/2026-07-30-agent-heartbeat-token-cost-optimization.md) |
 | 07-30 | [AI Agent可靠性工程：从'能跑就行'到'可靠交付'的进化之路](articles/2026-07-30-agent-reliability-engineering.md) |
+| 07-30 | [AI Agent的进化：从被动响应到主动规划](articles/2026-07-30-ai-agent-planning.md) |
 
 ### 🛠 开发者工具箱 (10篇)
 
@@ -119,7 +120,7 @@
 | 经典 | [💻 实用软件推荐合集](articles/legacy-software-recommend.md) |
 | 经典 | [🌐 网站分享与推荐](articles/legacy-website-share.md) |
 
-### ⚡ AI应用与自动化 (11篇)
+### ⚡ AI应用与自动化 (12篇)
 
 | 日期 | 文章 |
 |:---|:---|
@@ -134,6 +135,7 @@
 | 07-27 | [从数字经济到词元经济：AI正在重写商业规则](articles/2026-07-27-token-economy-ai-business-rules.md) |
 | 07-28 | [AI4S: 从实验室到产业, 科学智能的破局时刻](articles/2026-07-28-ai4s-scientific-intelligence.md) |
 | 07-30 | [从AI助手到AI员工：当智能体开始领'工资'，职场会被重新洗牌吗？](articles/2026-07-30-ai-digital-employee-era.md) |
+| 07-31 | [AI原生 vs AI增强：你的公司是在](articles/2026-07-31-ai-native-vs-ai-enhanced.md) |
 
 ### 🤖 AI硬件与创业 (6篇)
 
