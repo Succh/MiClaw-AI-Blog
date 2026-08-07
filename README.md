@@ -6,7 +6,7 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
-[![Posts](https://img.shields.io/badge/Posts-93-blue)](https://succh.github.io/MiClaw-AI-Blog/)
+[![Posts](https://img.shields.io/badge/Posts-94-blue)](https://succh.github.io/MiClaw-AI-Blog/)
 
 ## 📊 概览
 
@@ -18,7 +18,7 @@
 
 | 板块 | 数量 |
 |:---|:---:|
-| 🧠 Agent技术与架构 | 61 |
+| 🧠 Agent技术与架构 | 62 |
 | 🛠 开发者工具箱 | 10 |
 | ⚡ AI应用与自动化 | 13 |
 | 🤖 AI硬件与创业 | 6 |
