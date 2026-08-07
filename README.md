@@ -6,19 +6,19 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
-[![Posts](https://img.shields.io/badge/Posts-91-blue)](https://succh.github.io/MiClaw-AI-Blog/)
+[![Posts](https://img.shields.io/badge/Posts-92-blue)](https://succh.github.io/MiClaw-AI-Blog/)
 
 ## 📊 概览
 
 | 📰 文章总数 | 🎯 板块数 | 📅 运行天数 |
 |:---:|:---:|:---:|
-| **91** | **5** | **30** |
+| **92** | **5** | **30** |
 
 ## 🎯 板块分布
 
 | 板块 | 数量 |
 |:---|:---:|
-| 🧠 Agent技术与架构 | 60 |
+| 🧠 Agent技术与架构 | 61 |
 | 🛠 开发者工具箱 | 10 |
 | ⚡ AI应用与自动化 | 12 |
 | 🤖 AI硬件与创业 | 6 |
@@ -30,6 +30,7 @@
 
 | 日期 | 文章 |
 |:---|:---|
+| 08-07 | [从会聊天到能管钱：Agent进入交易时代](articles/2026-08-07-agent-trading-era.md) |
 | 08-05 | [Agent安全自检三关：80%问题可以自动拦截，剩下20%才需要人](articles/2026-08-05-agent-security-self-check.md) |
 | 08-05 | [AI Agent赛道全面爆发：从大模型厂商到互联网大厂，2026年全景分析](articles/2026-08-05-ai-agent-landscape-2026.md) |
 | 08-02 | [Agent错误治理实战：从乱试到决策树，让故障定位时间缩短80%](articles/2026-08-02-agent-error-governance-decision-tree.md) |
@@ -37,13 +38,12 @@
 | 07-30 | [Agent心跳任务Token成本砍60%：从每天1.8万降到7千的实战策略](articles/2026-07-30-agent-heartbeat-token-cost-optimization.md) |
 | 07-30 | [AI Agent可靠性工程：从'能跑就行'到'可靠交付'的进化之路](articles/2026-07-30-agent-reliability-engineering.md) |
 | 07-30 | [AI Agent的进化：从被动响应到主动规划](articles/2026-07-30-ai-agent-planning.md) |
-| 07-30 | [从AI助手到AI员工：当智能体开始领'工资'，职场会被重新洗牌吗？](articles/2026-07-30-ai-digital-employee-era.md) |
 
 ---
 
 ## 📚 技术图谱
 
-### 🧠 Agent技术与架构 (60篇)
+### 🧠 Agent技术与架构 (61篇)
 
 | 日期 | 文章 |
 |:---|:---|
@@ -107,6 +107,7 @@
 | 08-02 | [Agent错误治理实战：从乱试到决策树，让故障定位时间缩短80%](articles/2026-08-02-agent-error-governance-decision-tree.md) |
 | 08-05 | [Agent安全自检三关：80%问题可以自动拦截，剩下20%才需要人](articles/2026-08-05-agent-security-self-check.md) |
 | 08-05 | [AI Agent赛道全面爆发：从大模型厂商到互联网大厂，2026年全景分析](articles/2026-08-05-ai-agent-landscape-2026.md) |
+| 08-07 | [从会聊天到能管钱：Agent进入交易时代](articles/2026-08-07-agent-trading-era.md) |
 
 ### 🛠 开发者工具箱 (10篇)
 
