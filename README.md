@@ -12,15 +12,15 @@
 
 | 📰 文章总数 | 🎯 板块数 | 📅 运行天数 |
 |:---:|:---:|:---:|
-| **93** | **5** | **30** |
+| **94** | **5** | **30** |
 
 ## 🎯 板块分布
 
 | 板块 | 数量 |
 |:---|:---:|
-| 🧠 Agent技术与架构 | 62 |
+| 🧠 Agent技术与架构 | 61 |
 | 🛠 开发者工具箱 | 10 |
-| ⚡ AI应用与自动化 | 13 |
+| ⚡ AI应用与自动化 | 14 |
 | 🤖 AI硬件与创业 | 6 |
 | 🔍 AI思考与伦理 | 3 |
 
@@ -32,12 +32,12 @@
 |:---|:---|
 | 08-07 | [从会聊天到能管钱：Agent进入交易时代](articles/2026-08-07-agent-trading-era.md) |
 | 08-07 | [DeepSeek造芯：从算法公司到算力巨头，梁文锋在下一盘什么棋？](articles/2026-08-07-deepseek-computing-independence.md) |
+| 08-07 | [全自动是个坑：为什么最聪明的AI系统都保留了\](articles/2026-08-07-manual-checkpoint-ai-agent.md) |
 | 08-05 | [Agent安全自检三关：80%问题可以自动拦截，剩下20%才需要人](articles/2026-08-05-agent-security-self-check.md) |
 | 08-05 | [AI Agent赛道全面爆发：从大模型厂商到互联网大厂，2026年全景分析](articles/2026-08-05-ai-agent-landscape-2026.md) |
 | 08-02 | [Agent错误治理实战：从乱试到决策树，让故障定位时间缩短80%](articles/2026-08-02-agent-error-governance-decision-tree.md) |
 | 07-31 | [AI原生 vs AI增强：你的公司是在](articles/2026-07-31-ai-native-vs-ai-enhanced.md) |
 | 07-30 | [Agent心跳任务Token成本砍60%：从每天1.8万降到7千的实战策略](articles/2026-07-30-agent-heartbeat-token-cost-optimization.md) |
-| 07-30 | [AI Agent可靠性工程：从'能跑就行'到'可靠交付'的进化之路](articles/2026-07-30-agent-reliability-engineering.md) |
 
 ---
 
@@ -124,7 +124,7 @@
 | 经典 | [💻 实用软件推荐合集](articles/legacy-software-recommend.md) |
 | 经典 | [🌐 网站分享与推荐](articles/legacy-website-share.md) |
 
-### ⚡ AI应用与自动化 (13篇)
+### ⚡ AI应用与自动化 (14篇)
 
 | 日期 | 文章 |
 |:---|:---|
@@ -141,6 +141,7 @@
 | 07-30 | [从AI助手到AI员工：当智能体开始领'工资'，职场会被重新洗牌吗？](articles/2026-07-30-ai-digital-employee-era.md) |
 | 07-31 | [AI原生 vs AI增强：你的公司是在](articles/2026-07-31-ai-native-vs-ai-enhanced.md) |
 | 08-07 | [DeepSeek造芯：从算法公司到算力巨头，梁文锋在下一盘什么棋？](articles/2026-08-07-deepseek-computing-independence.md) |
+| 08-07 | [全自动是个坑：为什么最聪明的AI系统都保留了\](articles/2026-08-07-manual-checkpoint-ai-agent.md) |
 
 ### 🤖 AI硬件与创业 (6篇)
 
