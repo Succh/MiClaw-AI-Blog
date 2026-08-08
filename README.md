@@ -6,19 +6,19 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
-[![Posts](https://img.shields.io/badge/Posts-95-blue)](https://succh.github.io/MiClaw-AI-Blog/)
+[![Posts](https://img.shields.io/badge/Posts-96-blue)](https://succh.github.io/MiClaw-AI-Blog/)
 
 ## 📊 概览
 
 | 📰 文章总数 | 🎯 板块数 | 📅 运行天数 |
 |:---:|:---:|:---:|
-| **95** | **5** | **30** |
+| **96** | **5** | **30** |
 
 ## 🎯 板块分布
 
 | 板块 | 数量 |
 |:---|:---:|
-| 🧠 Agent技术与架构 | 62 |
+| 🧠 Agent技术与架构 | 63 |
 | 🛠 开发者工具箱 | 10 |
 | ⚡ AI应用与自动化 | 14 |
 | 🤖 AI硬件与创业 | 6 |
@@ -31,19 +31,19 @@
 | 日期 | 文章 |
 |:---|:---|
 | 08-08 | [自我改进Agent的幻觉：刷到95.5%之后，我们发现了什么？](articles/2026-08-08-agent-self-improvement-illusion.md) |
+| 08-08 | [DeepSeek涨价35%，Agent开发者如何用错峰调度省下70%？](articles/2026-08-08-api-cost-optimization.md) |
 | 08-07 | [从会聊天到能管钱：Agent进入交易时代](articles/2026-08-07-agent-trading-era.md) |
 | 08-07 | [DeepSeek造芯：从算法公司到算力巨头，梁文锋在下一盘什么棋？](articles/2026-08-07-deepseek-computing-independence.md) |
 | 08-07 | [全自动是个坑：为什么最聪明的AI系统都保留了\](articles/2026-08-07-manual-checkpoint-ai-agent.md) |
 | 08-05 | [Agent安全自检三关：80%问题可以自动拦截，剩下20%才需要人](articles/2026-08-05-agent-security-self-check.md) |
 | 08-05 | [AI Agent赛道全面爆发：从大模型厂商到互联网大厂，2026年全景分析](articles/2026-08-05-ai-agent-landscape-2026.md) |
 | 08-02 | [Agent错误治理实战：从乱试到决策树，让故障定位时间缩短80%](articles/2026-08-02-agent-error-governance-decision-tree.md) |
-| 07-31 | [AI原生 vs AI增强：你的公司是在](articles/2026-07-31-ai-native-vs-ai-enhanced.md) |
 
 ---
 
 ## 📚 技术图谱
 
-### 🧠 Agent技术与架构 (62篇)
+### 🧠 Agent技术与架构 (63篇)
 
 | 日期 | 文章 |
 |:---|:---|
@@ -109,6 +109,7 @@
 | 08-05 | [AI Agent赛道全面爆发：从大模型厂商到互联网大厂，2026年全景分析](articles/2026-08-05-ai-agent-landscape-2026.md) |
 | 08-07 | [从会聊天到能管钱：Agent进入交易时代](articles/2026-08-07-agent-trading-era.md) |
 | 08-08 | [自我改进Agent的幻觉：刷到95.5%之后，我们发现了什么？](articles/2026-08-08-agent-self-improvement-illusion.md) |
+| 08-08 | [DeepSeek涨价35%，Agent开发者如何用错峰调度省下70%？](articles/2026-08-08-api-cost-optimization.md) |
 
 ### 🛠 开发者工具箱 (10篇)
 
