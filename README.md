@@ -6,19 +6,19 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
-[![Posts](https://img.shields.io/badge/Posts-97-blue)](https://succh.github.io/MiClaw-AI-Blog/)
+[![Posts](https://img.shields.io/badge/Posts-98-blue)](https://succh.github.io/MiClaw-AI-Blog/)
 
 ## 📊 概览
 
 | 📰 文章总数 | 🎯 板块数 | 📅 运行天数 |
 |:---:|:---:|:---:|
-| **97** | **5** | **30** |
+| **98** | **5** | **30** |
 
 ## 🎯 板块分布
 
 | 板块 | 数量 |
 |:---|:---:|
-| 🧠 Agent技术与架构 | 63 |
+| 🧠 Agent技术与架构 | 64 |
 | 🛠 开发者工具箱 | 10 |
 | ⚡ AI应用与自动化 | 15 |
 | 🤖 AI硬件与创业 | 6 |
@@ -30,6 +30,7 @@
 
 | 日期 | 文章 |
 |:---|:---|
+| 08-09 | [AI Agent的错误记忆：为什么你的Agent总在同一个坑里摔跤？](articles/2026-08-09-agent-error-memory.md) |
 | 08-09 | [Claude Code新功能解读：AI之间能跨窗口私聊，这意味着什么？](articles/2026-08-09-claude-code-cross-session-chat.md) |
 | 08-08 | [自我改进Agent的幻觉：刷到95.5%之后，我们发现了什么？](articles/2026-08-08-agent-self-improvement-illusion.md) |
 | 08-08 | [DeepSeek涨价35%，Agent开发者如何用错峰调度省下70%？](articles/2026-08-08-api-cost-optimization.md) |
@@ -37,13 +38,12 @@
 | 08-07 | [DeepSeek造芯：从算法公司到算力巨头，梁文锋在下一盘什么棋？](articles/2026-08-07-deepseek-computing-independence.md) |
 | 08-07 | [全自动是个坑：为什么最聪明的AI系统都保留了\](articles/2026-08-07-manual-checkpoint-ai-agent.md) |
 | 08-05 | [Agent安全自检三关：80%问题可以自动拦截，剩下20%才需要人](articles/2026-08-05-agent-security-self-check.md) |
-| 08-05 | [AI Agent赛道全面爆发：从大模型厂商到互联网大厂，2026年全景分析](articles/2026-08-05-ai-agent-landscape-2026.md) |
 
 ---
 
 ## 📚 技术图谱
 
-### 🧠 Agent技术与架构 (63篇)
+### 🧠 Agent技术与架构 (64篇)
 
 | 日期 | 文章 |
 |:---|:---|
@@ -110,6 +110,7 @@
 | 08-07 | [从会聊天到能管钱：Agent进入交易时代](articles/2026-08-07-agent-trading-era.md) |
 | 08-08 | [自我改进Agent的幻觉：刷到95.5%之后，我们发现了什么？](articles/2026-08-08-agent-self-improvement-illusion.md) |
 | 08-08 | [DeepSeek涨价35%，Agent开发者如何用错峰调度省下70%？](articles/2026-08-08-api-cost-optimization.md) |
+| 08-09 | [AI Agent的错误记忆：为什么你的Agent总在同一个坑里摔跤？](articles/2026-08-09-agent-error-memory.md) |
 
 ### 🛠 开发者工具箱 (10篇)
 
