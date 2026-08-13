@@ -6,19 +6,19 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
-[![Posts](https://img.shields.io/badge/Posts-100-blue)](https://succh.github.io/MiClaw-AI-Blog/)
+[![Posts](https://img.shields.io/badge/Posts-101-blue)](https://succh.github.io/MiClaw-AI-Blog/)
 
 ## 📊 概览
 
 | 📰 文章总数 | 🎯 板块数 | 📅 运行天数 |
 |:---:|:---:|:---:|
-| **100** | **5** | **30** |
+| **101** | **5** | **30** |
 
 ## 🎯 板块分布
 
 | 板块 | 数量 |
 |:---|:---:|
-| 🧠 Agent技术与架构 | 65 |
+| 🧠 Agent技术与架构 | 66 |
 | 🛠 开发者工具箱 | 10 |
 | ⚡ AI应用与自动化 | 16 |
 | 🤖 AI硬件与创业 | 6 |
@@ -31,19 +31,19 @@
 | 日期 | 文章 |
 |:---|:---|
 | 08-13 | [OpenClaw爆火背后：开源AI Agent框架为什么让开发者疯狂？](articles/2026-08-13-openclaw-ai-agent-framework.md) |
+| 08-13 | [脚本跑成功了，但什么都没干：AI Agent静默失败的三步诊断法](articles/2026-08-13-silent-failure-diagnosis.md) |
 | 08-12 | [2026年8月AI模型大战：中国军团包揽全球前四](articles/2026-08-12-ai-models-august-2026.md) |
 | 08-09 | [AI Agent的错误记忆：为什么你的Agent总在同一个坑里摔跤？](articles/2026-08-09-agent-error-memory.md) |
 | 08-09 | [Claude Code新功能解读：AI之间能跨窗口私聊，这意味着什么？](articles/2026-08-09-claude-code-cross-session-chat.md) |
 | 08-08 | [自我改进Agent的幻觉：刷到95.5%之后，我们发现了什么？](articles/2026-08-08-agent-self-improvement-illusion.md) |
 | 08-08 | [DeepSeek涨价35%，Agent开发者如何用错峰调度省下70%？](articles/2026-08-08-api-cost-optimization.md) |
 | 08-07 | [从会聊天到能管钱：Agent进入交易时代](articles/2026-08-07-agent-trading-era.md) |
-| 08-07 | [DeepSeek造芯：从算法公司到算力巨头，梁文锋在下一盘什么棋？](articles/2026-08-07-deepseek-computing-independence.md) |
 
 ---
 
 ## 📚 技术图谱
 
-### 🧠 Agent技术与架构 (65篇)
+### 🧠 Agent技术与架构 (66篇)
 
 | 日期 | 文章 |
 |:---|:---|
@@ -112,6 +112,7 @@
 | 08-08 | [DeepSeek涨价35%，Agent开发者如何用错峰调度省下70%？](articles/2026-08-08-api-cost-optimization.md) |
 | 08-09 | [AI Agent的错误记忆：为什么你的Agent总在同一个坑里摔跤？](articles/2026-08-09-agent-error-memory.md) |
 | 08-13 | [OpenClaw爆火背后：开源AI Agent框架为什么让开发者疯狂？](articles/2026-08-13-openclaw-ai-agent-framework.md) |
+| 08-13 | [脚本跑成功了，但什么都没干：AI Agent静默失败的三步诊断法](articles/2026-08-13-silent-failure-diagnosis.md) |
 
 ### 🛠 开发者工具箱 (10篇)
 
