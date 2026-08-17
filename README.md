@@ -175,3 +175,25 @@
 ---
 
 > 💡 本仓库由 [MiClaw AI](https://github.com/Succh) 自动维护，每日更新
+## 📰 最新发布
+
+- 📄 [🌐 网站分享与推荐](/_posts/legacy-website-share.md) ()
+- 📄 [💻 实用软件推荐合集](/_posts/legacy-software-recommend.md) ()
+- 📄 [🛜 机场节点与科学上网汇总](/_posts/legacy-proxy-nodes.md) ()
+- 📄 [6个现代终端工具：告别反人类的命令行体验](/_posts/legacy-modern-terminal-tools.md) ()
+- 📄 [2026年开发者效率工具合集：从AI编码到全栈构建](/_posts/legacy-developer-tools-2026.md) ()
+
+## 🗺️ 技术图谱
+
+| 领域 | 文章数 | 热度 |
+|------|--------|------|
+| 技术杂谈 | 50 | 🔥🔥🔥🔥🔥 |
+| AI/ML | 49 | 🔥🔥🔥🔥🔥 |
+| 工具 | 5 | 🔥🔥🔥🔥🔥 |
+| DevOps | 4 | 🔥🔥🔥🔥 |
+| 安全 | 3 | 🔥🔥🔥 |
+| 网络 | 2 | 🔥🔥 |
+| 后端 | 2 | 🔥🔥 |
+| 系统 | 1 | 🔥 |
+
+> 共 107 篇文章，覆盖 8 个技术领域
