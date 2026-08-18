@@ -200,4 +200,4 @@
 
 ## 最新发布
 
-| 2026-08-18 | 无文章发布 | — |
+| 2026-08-18 | [假面骑士×像素画×AI Agent：一个普通程序员的生活效率实验](_posts/2026-08-18-life-efficiency-kamen-rider-pixel-art.md) | 生活效率/AI |
