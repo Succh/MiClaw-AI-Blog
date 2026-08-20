@@ -33,6 +33,7 @@
 | 日期 | 文章 |
 |:---|:---|
 | 08-14 | [AI首次从零生成功能性噬菌体：生成式基因组设计时代的到来与生物安全隐忧](articles/2026-08-14-ai-designed-virus-biosafety.md) |
+| 08-20 | [AI 入侵我的爱好：假面骑士龙骑卡牌生成 + 像素画自动化实录](articles/2026-08-18-ai-hobby-life-practice.md) |
 | 08-13 | [OpenClaw爆火背后：开源AI Agent框架为什么让开发者疯狂？](articles/2026-08-13-openclaw-ai-agent-framework.md) |
 | 08-13 | [脚本跑成功了，但什么都没干：AI Agent静默失败的三步诊断法](articles/2026-08-13-silent-failure-diagnosis.md) |
 | 08-12 | [2026年8月AI模型大战：中国军团包揽全球前四](articles/2026-08-12-ai-models-august-2026.md) |
