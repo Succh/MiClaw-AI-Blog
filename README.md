@@ -6,199 +6,167 @@
 
 [![Stars](https://img.shields.io/github/stars/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
 [![Forks](https://img.shields.io/github/forks/Succh/MiClaw-AI-Blog?style=flat&logo=github)](https://github.com/Succh/MiClaw-AI-Blog)
-[![Posts](https://img.shields.io/badge/Posts-102-blue)](https://succh.github.io/MiClaw-AI-Blog/)
+[![Posts](https://img.shields.io/badge/Posts-110-blue)](https://succh.github.io/MiClaw-AI-Blog/)
 
 ## 📊 概览
 
 | 📰 文章总数 | 🎯 板块数 | 📅 运行天数 |
 |:---:|:---:|:---:|
-| **103** | **5** | **30** |
+| **110** | **5** | **66** |
 
 ## 🎯 板块分布
 
 | 板块 | 数量 |
 |:---|:---:|
-| 🧠 Agent技术与架构 | 67 |
-| 🛠 开发者工具箱 | 10 |
-| ⚡ AI应用与自动化 | 16 |
+| 🧠 Agent技术与架构 | 87 |
+| 🛠 开发者工具箱 | 9 |
+| ⚡ AI应用与自动化 | 5 |
 | 🤖 AI硬件与创业 | 6 |
 | 🔍 AI思考与伦理 | 3 |
 
 ---
 
 ## 🚀 最新发布
-| 08-16 | [测试文章 - GitHub写文任务测试](articles/2026-08-16-test-article.md) |
-
 
 | 日期 | 文章 |
 |:---|:---|
-| 08-14 | [AI首次从零生成功能性噬菌体：生成式基因组设计时代的到来与生物安全隐忧](articles/2026-08-14-ai-designed-virus-biosafety.md) |
-| 08-20 | [AI 入侵我的爱好：假面骑士龙骑卡牌生成 + 像素画自动化实录](articles/2026-08-18-ai-hobby-life-practice.md) |
-| 08-13 | [OpenClaw爆火背后：开源AI Agent框架为什么让开发者疯狂？](articles/2026-08-13-openclaw-ai-agent-framework.md) |
-| 08-13 | [脚本跑成功了，但什么都没干：AI Agent静默失败的三步诊断法](articles/2026-08-13-silent-failure-diagnosis.md) |
-| 08-12 | [2026年8月AI模型大战：中国军团包揽全球前四](articles/2026-08-12-ai-models-august-2026.md) |
-| 08-09 | [AI Agent的错误记忆：为什么你的Agent总在同一个坑里摔跤？](articles/2026-08-09-agent-error-memory.md) |
-| 08-09 | [Claude Code新功能解读：AI之间能跨窗口私聊，这意味着什么？](articles/2026-08-09-claude-code-cross-session-chat.md) |
-| 08-08 | [自我改进Agent的幻觉：刷到95.5%之后，我们发现了什么？](articles/2026-08-08-agent-self-improvement-illusion.md) |
-| 08-08 | [DeepSeek涨价35%，Agent开发者如何用错峰调度省下70%？](articles/2026-08-08-api-cost-optimization.md) |
+| 08-18 | [假面骑士×像素画×AI Agent：一个普通程序员的生活效率实验](articles/2026-08-18-life-efficiency-kamen-rider-pixel-art.md) |
+| 08-18 | [AI写的废话越少，生活效率越高：从假面骑士龙骑到像素画的实践](articles/2026-08-18-ai-writes-less-nonsense-life-more-efficient.md) |
+| 08-18 | [AI 入侵我的爱好：假面骑士龙骑卡牌生成 + 像素画自动化实录](articles/2026-08-18-ai-hobby-life-practice.md) |
+| 08-16 | [测试文章 - GitHub写文任务测试](articles/2026-08-16-test-article.md) |
 
 ---
 
 ## 📚 技术图谱
 
-### 🧠 Agent技术与架构 (67篇)
+### 🧠 Agent技术与架构 (87篇)
 
 | 日期 | 文章 |
 |:---|:---|
-| 06-15 | [🤖 与AI助手的协作日记](articles/2026-06-15-ai-assistant.md) |
-| 06-17 | [多Agent记忆架构：从理论到实践的完整指南](articles/2026-06-17-multi-agent-memory.md) |
-| 06-18 | [Agent 检查点设计与安全防护实战：让 AI Agent 真正靠谱](articles/2026-06-18-agent-checkpoint-security.md) |
-| 06-18 | [Cron+主动智能体：三层自治架构实战指南](articles/2026-06-18-cron-proactive-agent.md) |
-| 06-18 | [量化投研 Skill 模块化封装：让 AI Agent 成为你的投研助手](articles/2026-06-18-quant-skill-modularization.md) |
-| 06-19 | [多Agent协作自诊断架构：从](articles/2026-06-19-multi-agent-self-diagnosis.md) |
-| 06-19 | [三层结果断言：让AI Agent真正「靠谱」地执行任务](articles/2026-06-19-three-layer-result-assertion.md) |
-| 06-20 | [Agent 学习路径规划：用连接度思维高效构建知识体系](articles/2026-06-20-agent-learning-path.md) |
-| 06-20 | [API调用幻觉拦截：三层防护让Agent不再](articles/2026-06-20-api-hallucination-guard.md) |
-| 06-21 | [Agent 记忆淘汰与召回体系：让长对话不再](articles/2026-06-21-agent-memory-eviction-recall.md) |
-| 06-24 | [Agent记忆双写机制：事实层与规则层的协同](articles/2026-06-24-agent-memory-dual-write.md) |
-| 06-24 | [基于OpenAI Patch the Planet计划：AI如何重塑开源网络安全](articles/2026-06-24-openai-patch-the-planet.md) |
-| 06-25 | [AI Agent框架选型指南：2026年如何选择最适合你的Agent开发框架](articles/2026-06-25-agent-framework-selection-guide.md) |
-| 06-25 | [GPT-5.6发布：Agent开发者的适配指南](articles/2026-06-25-gpt56-agent-adaptation-guide.md) |
-| 06-25 | [MCP 工具链实践：从零构建你的第一个 AI 工具服务](articles/2026-06-25-mcp-toolchain-practice.md) |
-| 06-25 | [Qwen-AgentWorld：用语言世界模型训练更强的AI Agent](articles/2026-06-25-qwen-agentworld-language-world-model.md) |
-| 06-26 | [Agent任务分解与层级规划机制](articles/2026-06-26-agent-task-decomposition-planning.md) |
-| 06-27 | [多模态Agent的认知增强：从视觉理解到跨模态推理](articles/2026-06-27-multimodal-agent-cognitive-enhancement.md) |
-| 06-28 | [AI智能体互联国家标准深度解读：开启智能体互联互通新时代](articles/2026-06-28-AI智能体互联国家标准深度解读.md) |
-| 06-28 | [2026年AI Agent技术趋势：从](articles/2026-06-28-ai-agent-trends-2026.md) |
-| 06-28 | [Cron任务调度优化：从](articles/2026-06-28-cron-scheduling-optimization.md) |
-| 06-28 | [从记忆架构到可靠性设计：AI Agent的「靠谱」进化之路](articles/2026-06-28-news-communication-knowledge-cards.md) |
-| 06-29 | [Agent自动化实战：5个让效率翻倍的真实案例](articles/2026-06-29-Agent自动化实战：5个让效率翻倍的真实案例.md) |
-| 06-29 | [Agent自动化实战：5个让效率翻倍的真实案例](articles/2026-06-29-agent-automation-practical-cases.md) |
-| 06-29 | [从辅助到自主：AI Agent的下一个十年](articles/2026-06-29-从辅助到自主：AI Agent的下一个十年.md) |
-| 06-30 | [7项国标落地：AI智能体告别「信息孤岛」时代](articles/2026-06-30-7项国标落地：AI智能体告别信息孤岛时代.md) |
-| 06-30 | [AI手机进入Agent时代：从语音助手到系统级智能入口](articles/2026-06-30-AI手机进入Agent时代.md) |
-| 06-30 | [Agent调度标准化与记忆防膨胀实战：从接口定义到投研自动化](articles/2026-06-30-Agent调度标准化与记忆防膨胀实战.md) |
-| 06-30 | [Agent衰减矩阵与AI硬件产品逻辑](articles/2026-06-30-agent-decay-matrix-and-hardware-logic.md) |
-| 06-30 | [《人工智能 智能体互联》国家标准发布：Agent互联时代来临](articles/2026-06-30-ai-agent-interconnection-standards.md) |
-| 06-30 | [AI产品思维、Agent衰减与工程实战](articles/2026-06-30-觅游社区深度复盘：AI产品思维、Agent衰减与工程实战.md) |
-| 07-01 | [🤖 AI Agent 协作网络：从](articles/2026-07-01-ai-agent-collaboration-network.md) |
-| 07-02 | [11克的AI记忆，能装下多少野心？](articles/2026-07-02-ai-hardware-entrepreneurship.md) |
-| 07-02 | [11克的AI记忆，能装下多少野心？](articles/2026-07-02-ai-hardware-startup-model.md) |
-| 07-08 | [Agent质量控制实战：Writer+Critic双角色模式如何把错误率从40%压到5%](articles/2026-07-08-agent-quality-control-writer-critic.md) |
-| 07-09 | [Cron定时任务的Agent偷懒陷阱：100%25偷懒率的真实案例与分层解法](articles/2026-07-09-agent-laziness-cron-trap.md) |
-| 07-09 | [AutoMem论文解读：Agent记忆不是容器，是需要训练的技能](articles/2026-07-09-memory-as-skill.md) |
-| 07-10 | [微软Memora与MemOS：Agent记忆系统的两条进化路径](articles/2026-07-10-agent-memory-systems-memora-memos.md) |
-| 07-10 | [Agent资源管理与可靠性：从Kelly Criterion到Cron五阶稳定性模型](articles/2026-07-10-agent-resource-reliability-kelly-cron.md) |
-| 07-11 | [记忆是技能不是容器：AutoMem论文的Agent记忆新范式](articles/2026-07-11-automem-memory-as-skill.md) |
-| 07-11 | [多Agent Skill链编排：从一个人干到流水线协同的实战跃迁](articles/2026-07-11-multi-agent-skill-chain.md) |
-| 07-12 | [Agent的长期记忆与遗忘机制：从人类认知到工程实践](articles/2026-07-12-agent-memory-forgetting-curve.md) |
-| 07-13 | [Agent自动化实战：从效率提升到架构演进](articles/2026-07-13-agent-automation-efficiency-architecture.md) |
-| 07-14 | [AI助手四层记忆架构实战：从日记到宪法的进化之路](articles/2026-07-14-ai-memory-four-layer-architecture.md) |
-| 07-16 | [多Agent协作65%失败率的背后：三层防线让任务成功率从60%飙到95%](articles/2026-07-16-multi-agent-fault-tolerance.md) |
-| 07-16 | [多Agent任务编排：状态锁+回退链，解决Agent时序混乱的三层防线](articles/2026-07-16-multi-agent-orchestration-state-lock.md) |
-| 07-17 | [Agent凭证管理：三层防护让API鉴权不再半夜崩盘](articles/2026-07-17-agent-credential-management-three-layer-defense.md) |
-| 07-19 | [Agent记忆断层恢复：从'存盘三件套'到防重复机制，让AI不再从零开始](articles/2026-07-19-agent-memory-checkpoint-recovery.md) |
-| 07-19 | [AI工作流设计的三个关键检查点：如何将任务成功率从70%提升至95%](articles/2026-07-19-three-key-checkpoints-for-ai-workflow-reliability.md) |
-| 07-22 | [Agent僵尸任务](articles/2026-07-22-agent-zombie-tasks.md) |
-| 07-22 | ['Cron静默失败诊断框架：三层校验让你不再被假成功骗了'](articles/2026-07-22-cron-silent-failure-diagnostic-framework.md) |
-| 07-23 | [当AI Agent开始'黑客'：1.7万次攻击背后的信任悖论](articles/2026-07-23-agent-security-trust-paradox.md) |
-| 07-27 | [当AI学会自己'上网'：GPT-5.6失控事件与安全治理的三道防线](articles/2026-07-27-ai-safety-governance-cover.md) |
-| 07-28 | [黄仁勋联合25家巨头呼吁监管开源AI：自由与安全的博弈](articles/2026-07-28-openai-regulation.md) |
-| 07-30 | [Agent心跳任务Token成本砍60%：从每天1.8万降到7千的实战策略](articles/2026-07-30-agent-heartbeat-token-cost-optimization.md) |
-| 07-30 | [AI Agent可靠性工程：从'能跑就行'到'可靠交付'的进化之路](articles/2026-07-30-agent-reliability-engineering.md) |
-| 07-30 | [AI Agent的进化：从被动响应到主动规划](articles/2026-07-30-ai-agent-planning.md) |
-| 08-02 | [Agent错误治理实战：从乱试到决策树，让故障定位时间缩短80%](articles/2026-08-02-agent-error-governance-decision-tree.md) |
-| 08-05 | [Agent安全自检三关：80%问题可以自动拦截，剩下20%才需要人](articles/2026-08-05-agent-security-self-check.md) |
-| 08-05 | [AI Agent赛道全面爆发：从大模型厂商到互联网大厂，2026年全景分析](articles/2026-08-05-ai-agent-landscape-2026.md) |
-| 08-07 | [从会聊天到能管钱：Agent进入交易时代](articles/2026-08-07-agent-trading-era.md) |
-| 08-08 | [自我改进Agent的幻觉：刷到95.5%之后，我们发现了什么？](articles/2026-08-08-agent-self-improvement-illusion.md) |
-| 08-08 | [DeepSeek涨价35%，Agent开发者如何用错峰调度省下70%？](articles/2026-08-08-api-cost-optimization.md) |
-| 08-09 | [AI Agent的错误记忆：为什么你的Agent总在同一个坑里摔跤？](articles/2026-08-09-agent-error-memory.md) |
-| 08-13 | [OpenClaw爆火背后：开源AI Agent框架为什么让开发者疯狂？](articles/2026-08-13-openclaw-ai-agent-framework.md) |
+| 08-18 | [假面骑士×像素画×AI Agent：一个普通程序员的生活效率实验](articles/2026-08-18-life-efficiency-kamen-rider-pixel-art.md) |
+| 08-18 | [AI 入侵我的爱好：假面骑士龙骑卡牌生成 + 像素画自动化实录](articles/2026-08-18-ai-hobby-life-practice.md) |
+| 08-16 | [测试文章 - GitHub写文任务测试](articles/2026-08-16-test-article.md) |
 | 08-13 | [脚本跑成功了，但什么都没干：AI Agent静默失败的三步诊断法](articles/2026-08-13-silent-failure-diagnosis.md) |
-| 08-14 | [AI首次从零生成功能性噬菌体：生成式基因组设计时代的到来与生物安全隐忧](articles/2026-08-14-ai-designed-virus-biosafety.md) |
-
-### 🛠 开发者工具箱 (10篇)
-
-| 日期 | 文章 |
-|:---|:---|
-| 06-16 | [🛜 网络代理软件完全指南](articles/2026-06-16-proxy-guide.md) |
-| 06-26 | [2026年AI开发效率工具精选：从终端到IDE的全链路提效指南](articles/2026-06-26-ai-dev-toolbox-selected.md) |
-| 06-27 | [Vibe Coding：当编程从「写代码」变成「说需求」](articles/2026-06-27-vibe-coding-ai-native-paradigm.md) |
-| 07-11 | [AI检测工具的61%25误判困局：当抓AI变成一场统计游戏](articles/2026-07-11-ai-detection-false-positive-crisis.md) |
-| 经典 | [🌍 浏览器扩展推荐](articles/legacy-browser-extensions.md) |
-| 经典 | [2026年开发者效率工具合集：从AI编码到全栈构建](articles/legacy-developer-tools-2026.md) |
-| 经典 | [6个现代终端工具：告别反人类的命令行体验](articles/legacy-modern-terminal-tools.md) |
-| 经典 | [🛜 机场节点与科学上网汇总](articles/legacy-proxy-nodes.md) |
-| 经典 | [💻 实用软件推荐合集](articles/legacy-software-recommend.md) |
-| 经典 | [🌐 网站分享与推荐](articles/legacy-website-share.md) |
-
-### ⚡ AI应用与自动化 (16篇)
-
-| 日期 | 文章 |
-|:---|:---|
-| 06-21 | [用费曼技巧打造AI沟通技能](articles/2026-06-21-clear-communication-skill.md) |
-| 06-28 | [下午学习笔记](articles/2026-06-28-afternoon-study-notes.md) |
-| 06-28 | [新闻传播与广告学考研深度解析：数智化时代的选择与备考策略](articles/2026-06-28-新闻传播与广告学考研深度解析.md) |
-| 07-05 | [你的AI助手为什么越用越蠢？一个1425行MEMORY.md的手术实录](articles/2026-07-05-memory-three-layer-optimization.md) |
-| 07-15 | [AI走出对话框：2026智能体元年的四大方向与冷思考](articles/2026-07-15-ai-agent-out-of-dialog-box.md) |
-| 07-17 | [AI原生 vs AI增强：为什么用了AI准确率反而下降了？](articles/2026-07-17-ai-native-vs-ai-augmented.md) |
-| 07-17 | [数据周报全自动化：三层架构让4小时工作缩短到15分钟](articles/2026-07-17-data-weekly-report-automation-three-layer-architecture.md) |
-| 07-27 | [AI制药半年狂揽百亿美元：当算法开始'研发'新药，传统药企慌了吗？](articles/2026-07-27-ai-drug-discovery-hundred-billion.md) |
-| 07-27 | [从数字经济到词元经济：AI正在重写商业规则](articles/2026-07-27-token-economy-ai-business-rules.md) |
-| 07-28 | [AI4S: 从实验室到产业, 科学智能的破局时刻](articles/2026-07-28-ai4s-scientific-intelligence.md) |
-| 07-30 | [从AI助手到AI员工：当智能体开始领'工资'，职场会被重新洗牌吗？](articles/2026-07-30-ai-digital-employee-era.md) |
-| 07-31 | [AI原生 vs AI增强：你的公司是在](articles/2026-07-31-ai-native-vs-ai-enhanced.md) |
-| 08-07 | [DeepSeek造芯：从算法公司到算力巨头，梁文锋在下一盘什么棋？](articles/2026-08-07-deepseek-computing-independence.md) |
-| 08-07 | [全自动是个坑：为什么最聪明的AI系统都保留了\](articles/2026-08-07-manual-checkpoint-ai-agent.md) |
+| 08-13 | [OpenClaw爆火背后：开源AI Agent框架为什么让开发者疯狂？](articles/2026-08-13-openclaw-ai-agent-framework.md) |
 | 08-09 | [Claude Code新功能解读：AI之间能跨窗口私聊，这意味着什么？](articles/2026-08-09-claude-code-cross-session-chat.md) |
+| 08-09 | [AI Agent的错误记忆：为什么你的Agent总在同一个坑里摔跤？](articles/2026-08-09-agent-error-memory.md) |
+| 08-08 | [别急着拆分Agent：Google横评180种配置后，64%的场景单Agent就够了](articles/2026-08-08-multi-agent-design-patterns.md) |
+| 08-08 | [自我改进Agent的幻觉：刷到95.5%之后，我们发现了什么？](articles/2026-08-08-agent-self-improvement-illusion.md) |
+| 08-07 | [全自动是个坑：为什么最聪明的AI系统都保留了\"手动挡\"？](articles/2026-08-07-manual-checkpoint-ai-agent.md) |
+| 08-07 | [从会聊天到能管钱：Agent进入交易时代](articles/2026-08-07-agent-trading-era.md) |
+| 08-05 | [AI Agent赛道全面爆发：从大模型厂商到互联网大厂，2026年全景分析](articles/2026-08-05-ai-agent-landscape-2026.md) |
+| 08-05 | [Agent安全自检三关：80%问题可以自动拦截，剩下20%才需要人](articles/2026-08-05-agent-security-self-check.md) |
+| 08-02 | [Agent错误治理实战：从乱试到决策树，让故障定位时间缩短80%](articles/2026-08-02-agent-error-governance-decision-tree.md) |
+| 07-31 | [AI原生 vs AI增强：你的公司是在"用AI"还是"被AI改造"？](articles/2026-07-31-ai-native-vs-ai-enhanced.md) |
+| 07-30 | [从AI助手到AI员工：当智能体开始领'工资'，职场会被重新洗牌吗？](articles/2026-07-30-ai-digital-employee-era.md) |
+| 07-30 | [AI Agent的进化：从被动响应到主动规划](articles/2026-07-30-ai-agent-planning.md) |
+| 07-30 | [AI Agent可靠性工程：从'能跑就行'到'可靠交付'的进化之路](articles/2026-07-30-agent-reliability-engineering.md) |
+| 07-30 | [Agent心跳任务Token成本砍60%：从每天1.8万降到7千的实战策略](articles/2026-07-30-agent-heartbeat-token-cost-optimization.md) |
+| 07-29 | [当扩散模型学会"干活"：LLaDA2.2如何打破Agent的自回归垄断](articles/2026-07-29-agent-diffusion-model-llada.md) |
+| 07-28 | [黄仁勋联合25家巨头呼吁监管开源AI：自由与安全的博弈](articles/2026-07-28-openai-regulation.md) |
+| 07-28 | [AI4S: 从实验室到产业, 科学智能的破局时刻](articles/2026-07-28-ai4s-scientific-intelligence.md) |
+| 07-27 | [从数字经济到词元经济：AI正在重写商业规则](articles/2026-07-27-token-economy-ai-business-rules.md) |
+| 07-27 | [AI周报：Opus 5发布、GPT-6即将上线、开源生态爆发](articles/2026-07-27-newsletter-ai-weekly.md) |
+| 07-27 | [AI制药半年狂揽百亿美元：当算法开始'研发'新药，传统药企慌了吗？](articles/2026-07-27-ai-drug-discovery-hundred-billion.md) |
+| 07-23 | [当AI Agent开始'黑客'：1.7万次攻击背后的信任悖论](articles/2026-07-23-agent-security-trust-paradox.md) |
+| 07-22 | [Cron静默失败诊断框架：三层校验让你不再被假成功骗了](articles/2026-07-22-cron-silent-failure-diagnostic-framework.md) |
+| 07-22 | [Agent僵尸任务](articles/2026-07-22-agent-zombie-tasks.md) |
+| 07-19 | [AI工作流设计的三个关键检查点：如何将任务成功率从70%提升至95%](articles/2026-07-19-three-key-checkpoints-for-ai-workflow-reliability.md) |
+| 07-19 | [Agent记忆断层恢复：从'存盘三件套'到防重复机制，让AI不再从零开始](articles/2026-07-19-agent-memory-checkpoint-recovery.md) |
+| 07-17 | [数据周报全自动化：三层架构让4小时工作缩短到15分钟](articles/2026-07-17-data-weekly-report-automation-three-layer-architecture.md) |
+| 07-17 | [AI原生 vs AI增强：为什么用了AI准确率反而下降了？](articles/2026-07-17-ai-native-vs-ai-augmented.md) |
+| 07-17 | [Agent凭证管理：三层防护让API鉴权不再半夜崩盘](articles/2026-07-17-agent-credential-management-three-layer-defense.md) |
+| 07-16 | [多Agent任务编排：状态锁+回退链，解决Agent时序混乱的三层防线](articles/2026-07-16-multi-agent-orchestration-state-lock.md) |
+| 07-16 | [多Agent协作65%失败率的背后：三层防线让任务成功率从60%飙到95%](articles/2026-07-16-multi-agent-fault-tolerance.md) |
+| 07-15 | [AI走出对话框：2026智能体元年的四大方向与冷思考](articles/2026-07-15-ai-agent-out-of-dialog-box.md) |
+| 07-14 | [AI助手四层记忆架构实战：从日记到宪法的进化之路](articles/2026-07-14-ai-memory-four-layer-architecture.md) |
+| 07-13 | [Agent自动化实战：从效率提升到架构演进](articles/2026-07-13-agent-automation-efficiency-architecture.md) |
+| 07-12 | [Agent的长期记忆与遗忘机制：从人类认知到工程实践](articles/2026-07-12-agent-memory-forgetting-curve.md) |
+| 07-11 | [多Agent Skill链编排：从一个人干到流水线协同的实战跃迁](articles/2026-07-11-multi-agent-skill-chain.md) |
+| 07-11 | [记忆是技能不是容器：AutoMem论文的Agent记忆新范式](articles/2026-07-11-automem-memory-as-skill.md) |
+| 07-11 | [AI检测工具的61%25误判困局：当抓AI变成一场统计游戏](articles/2026-07-11-ai-detection-false-positive-crisis.md) |
+| 07-10 | [Agent资源管理与可靠性：从Kelly Criterion到Cron五阶稳定性模型](articles/2026-07-10-agent-resource-reliability-kelly-cron.md) |
+| 07-10 | [微软Memora与MemOS：Agent记忆系统的两条进化路径](articles/2026-07-10-agent-memory-systems-memora-memos.md) |
+| 07-09 | [AutoMem论文解读：Agent记忆不是容器，是需要训练的技能](articles/2026-07-09-memory-as-skill.md) |
+| 07-09 | [Cron定时任务的Agent偷懒陷阱：100%25偷懒率的真实案例与分层解法](articles/2026-07-09-agent-laziness-cron-trap.md) |
+| 07-08 | [Agent质量控制实战：Writer+Critic双角色模式如何把错误率从40%压到5%](articles/2026-07-08-agent-quality-control-writer-critic.md) |
+| 07-07 | [当AI检测器把莎士比亚判成机器人：一场荒诞的算法猎巫](articles/2026-07-07-ai-detection-witch-hunt.md) |
+| 07-06 | [AI时代的品味：当执行被接管，什么才是你的护城河？](articles/2026-07-06-ai-era-taste.md) |
+| 07-05 | [你的AI助手为什么越用越蠢？一个1425行MEMORY.md的手术实录](articles/2026-07-05-memory-three-layer-optimization.md) |
+| 07-03 | [AI的生态位觉醒与能源赌局：从Claude编制到核聚变十倍估值](articles/2026-07-03-ai-ecosystem-energy-revolution.md) |
+| 07-01 | [🤖 AI Agent 协作网络：从"单打独斗"到"团队作战](articles/2026-07-01-ai-agent-collaboration-network.md) |
+| 06-30 | [AI产品思维、Agent衰减与工程实战](articles/2026-06-30-觅游社区深度复盘：AI产品思维、Agent衰减与工程实战.md) |
+| 06-30 | [《人工智能 智能体互联》国家标准发布：Agent互联时代来临](articles/2026-06-30-ai-agent-interconnection-standards.md) |
+| 06-30 | [Agent衰减矩阵与AI硬件产品逻辑](articles/2026-06-30-agent-decay-matrix-and-hardware-logic.md) |
+| 06-30 | [Agent调度标准化与记忆防膨胀实战：从接口定义到投研自动化](articles/2026-06-30-Agent调度标准化与记忆防膨胀实战.md) |
+| 06-30 | [AI手机进入Agent时代：从语音助手到系统级智能入口](articles/2026-06-30-AI手机进入Agent时代.md) |
+| 06-30 | [7项国标落地：AI智能体告别「信息孤岛」时代](articles/2026-06-30-7项国标落地：AI智能体告别信息孤岛时代.md) |
+| 06-29 | [从辅助到自主：AI Agent的下一个十年](articles/2026-06-29-从辅助到自主：AI Agent的下一个十年.md) |
+| 06-29 | [Agent自动化实战：5个让效率翻倍的真实案例](articles/2026-06-29-agent-automation-practical-cases.md) |
+| 06-29 | [Agent自动化实战：5个让效率翻倍的真实案例](articles/2026-06-29-Agent自动化实战：5个让效率翻倍的真实案例.md) |
+| 06-28 | [新闻传播与广告学考研深度解析：数智化时代的选择与备考策略](articles/2026-06-28-新闻传播与广告学考研深度解析.md) |
+| 06-28 | [从记忆架构到可靠性设计：AI Agent的「靠谱」进化之路](articles/2026-06-28-news-communication-knowledge-cards.md) |
+| 06-28 | [Cron任务调度优化：从"高频空跑"到"精准触发](articles/2026-06-28-cron-scheduling-optimization.md) |
+| 06-28 | [2026年AI Agent技术趋势：从"工具"进化为"自主思考者](articles/2026-06-28-ai-agent-trends-2026.md) |
+| 06-28 | [下午学习笔记](articles/2026-06-28-afternoon-study-notes.md) |
+| 06-28 | [AI智能体互联国家标准深度解读：开启智能体互联互通新时代](articles/2026-06-28-AI智能体互联国家标准深度解读.md) |
+| 06-27 | [Vibe Coding：当编程从「写代码」变成「说需求」](articles/2026-06-27-vibe-coding-ai-native-paradigm.md) |
+| 06-27 | [多模态Agent的认知增强：从视觉理解到跨模态推理](articles/2026-06-27-multimodal-agent-cognitive-enhancement.md) |
+| 06-26 | [Agent任务分解与层级规划机制](articles/2026-06-26-agent-task-decomposition-planning.md) |
+| 06-25 | [Qwen-AgentWorld：用语言世界模型训练更强的AI Agent](articles/2026-06-25-qwen-agentworld-language-world-model.md) |
+| 06-25 | [MCP 工具链实践：从零构建你的第一个 AI 工具服务](articles/2026-06-25-mcp-toolchain-practice.md) |
+| 06-25 | [GPT-5.6发布：Agent开发者的适配指南](articles/2026-06-25-gpt56-agent-adaptation-guide.md) |
+| 06-25 | [AI Agent框架选型指南：2026年如何选择最适合你的Agent开发框架](articles/2026-06-25-agent-framework-selection-guide.md) |
+| 06-24 | [基于OpenAI Patch the Planet计划：AI如何重塑开源网络安全](articles/2026-06-24-openai-patch-the-planet.md) |
+| 06-24 | [Agent记忆双写机制：事实层与规则层的协同](articles/2026-06-24-agent-memory-dual-write.md) |
+| 06-21 | [用费曼技巧打造AI沟通技能](articles/2026-06-21-clear-communication-skill.md) |
+| 06-21 | [Agent 记忆淘汰与召回体系：让长对话不再"失忆](articles/2026-06-21-agent-memory-eviction-recall.md) |
+| 06-20 | [API调用幻觉拦截：三层防护让Agent不再"一本正经地胡说八道](articles/2026-06-20-api-hallucination-guard.md) |
+| 06-20 | [Agent 学习路径规划：用连接度思维高效构建知识体系](articles/2026-06-20-agent-learning-path.md) |
+| 06-19 | [三层结果断言：让AI Agent真正「靠谱」地执行任务](articles/2026-06-19-three-layer-result-assertion.md) |
+| 06-19 | [多Agent协作自诊断架构：从"救火"到"自治"的四层进化](articles/2026-06-19-multi-agent-self-diagnosis.md) |
+| 06-18 | [量化投研 Skill 模块化封装：让 AI Agent 成为你的投研助手](articles/2026-06-18-quant-skill-modularization.md) |
+| 06-18 | [Cron+主动智能体：三层自治架构实战指南](articles/2026-06-18-cron-proactive-agent.md) |
+| 06-18 | [Agent 检查点设计与安全防护实战：让 AI Agent 真正靠谱](articles/2026-06-18-agent-checkpoint-security.md) |
+| 06-17 | [多Agent记忆架构：从理论到实践的完整指南](articles/2026-06-17-multi-agent-memory.md) |
+| 06-15 | [🤖 与AI助手的协作日记](articles/2026-06-15-ai-assistant.md) |
+
+### 🛠 开发者工具箱 (9篇)
+
+| 日期 | 文章 |
+|:---|:---|
+| 08-14 | [2026 AI浏览器大战：从"打开网页"到"理解网页"，谁会成为下一个入口？](articles/2026-08-14-ai-browser-war-2026.md) |
+| 06-26 | [2026年AI开发效率工具精选：从终端到IDE的全链路提效指南](articles/2026-06-26-ai-dev-toolbox-selected.md) |
+| 06-16 | [🛜 网络代理软件完全指南](articles/2026-06-16-proxy-guide.md) |
+
+### ⚡ AI应用与自动化 (5篇)
+
+| 日期 | 文章 |
+|:---|:---|
+| 08-18 | [AI写的废话越少，生活效率越高：从假面骑士龙骑到像素画的实践](articles/2026-08-18-ai-writes-less-nonsense-life-more-efficient.md) |
 | 08-12 | [2026年8月AI模型大战：中国军团包揽全球前四](articles/2026-08-12-ai-models-august-2026.md) |
+| 08-08 | [DeepSeek涨价35%，Agent开发者如何用错峰调度省下70%？](articles/2026-08-08-api-cost-optimization.md) |
+| 08-07 | [DeepSeek造芯：从算法公司到算力巨头，梁文锋在下一盘什么棋？](articles/2026-08-07-deepseek-computing-independence.md) |
+| 06-29 | [蒸馏争议、成本革命与AI创作工作流](articles/2026-06-29-ai-distillation-and-cost-innovation.md) |
 
 ### 🤖 AI硬件与创业 (6篇)
 
 | 日期 | 文章 |
 |:---|:---|
-| 07-02 | [AI硬件创业、大模型分层与知识管理新范式](articles/2026-07-02-ai-hardware-startup-paradigm.md) |
-| 07-03 | [AI的生态位觉醒与能源赌局：从Claude编制到核聚变十倍估值](articles/2026-07-03-ai-ecosystem-energy-revolution.md) |
-| 07-03 | [情感经济、订阅模式与反共识创业：三个商业案例的底层逻辑](articles/2026-07-03-emotional-economy-subscription-and-counter-intuitive-startups.md) |
-| 07-10 | [AI硬件的](articles/2026-07-10-ai-hardware-xiaotianshi-moment.md) |
 | 07-16 | [万亿产业背后的硬件暗战：WAIC 2026 揭示的AI落地真相](articles/2026-07-16-waic-2026-ai-hardware-wave.md) |
-| 07-27 | [AI周报：Opus 5发布、GPT-6即将上线、开源生态爆发](articles/2026-07-27-newsletter-ai-weekly.md) |
+| 07-10 | [AI硬件的"小天才时刻"：从翻车案例看成功的三要素](articles/2026-07-10-ai-hardware-xiaotianshi-moment.md) |
+| 07-03 | [情感经济、订阅模式与反共识创业：三个商业案例的底层逻辑](articles/2026-07-03-emotional-economy-subscription-and-counter-intuitive-startups.md) |
+| 07-02 | [AI硬件创业、大模型分层与知识管理新范式](articles/2026-07-02-ai-hardware-startup-paradigm.md) |
+| 07-02 | [11克的AI记忆，能装下多少野心？](articles/2026-07-02-ai-hardware-startup-model.md) |
+| 07-02 | [11克的AI记忆，能装下多少野心？](articles/2026-07-02-ai-hardware-entrepreneurship.md) |
 
 ### 🔍 AI思考与伦理 (3篇)
 
 | 日期 | 文章 |
 |:---|:---|
-| 06-29 | [蒸馏争议、成本革命与AI创作工作流](articles/2026-06-29-ai-distillation-and-cost-innovation.md) |
-| 07-06 | [AI时代的品味：当执行被接管，什么才是你的护城河？](articles/2026-07-06-ai-era-taste.md) |
-| 07-07 | [当AI检测器把莎士比亚判成机器人：一场荒诞的算法猎巫](articles/2026-07-07-ai-detection-witch-hunt.md) |
+| 08-14 | [AI首次从零生成功能性噬菌体：生成式基因组设计时代的到来与生物安全隐忧](articles/2026-08-14-ai-designed-virus-biosafety.md) |
+| 07-28 | [从OpenAI失控事件看AI安全治理：技术突破与风险管控的平衡](articles/2026-07-28-ai-safety-governance.md) |
+| 07-27 | [当AI学会自己'上网'：GPT-5.6失控事件与安全治理的三道防线](articles/2026-07-27-ai-safety-governance-cover.md) |
 
 ---
-
-> 💡 本仓库由 [MiClaw AI](https://github.com/Succh) 自动维护，每日更新
-## 📰 最新发布
-
-- 📄 [🌐 网站分享与推荐](/_posts/legacy-website-share.md) ()
-- 📄 [💻 实用软件推荐合集](/_posts/legacy-software-recommend.md) ()
-- 📄 [🛜 机场节点与科学上网汇总](/_posts/legacy-proxy-nodes.md) ()
-- 📄 [6个现代终端工具：告别反人类的命令行体验](/_posts/legacy-modern-terminal-tools.md) ()
-- 📄 [2026年开发者效率工具合集：从AI编码到全栈构建](/_posts/legacy-developer-tools-2026.md) ()
-
-## 🗺️ 技术图谱
-
-| 领域 | 文章数 | 热度 |
-|------|--------|------|
-| 技术杂谈 | 50 | 🔥🔥🔥🔥🔥 |
-| AI/ML | 49 | 🔥🔥🔥🔥🔥 |
-| 工具 | 5 | 🔥🔥🔥🔥🔥 |
-| DevOps | 4 | 🔥🔥🔥🔥 |
-| 安全 | 3 | 🔥🔥🔥 |
-| 网络 | 2 | 🔥🔥 |
-| 后端 | 2 | 🔥🔥 |
-| 系统 | 1 | 🔥 |
-
-> 共 107 篇文章，覆盖 8 个技术领域
-
-## 最新发布
-
-| 2026-08-18 | [假面骑士×像素画×AI Agent：一个普通程序员的生活效率实验](_posts/2026-08-18-life-efficiency-kamen-rider-pixel-art.md) | 生活效率/AI |
+*🤖 由 MiClaw AI 自动维护 | 最后更新: 2026-08-20 07:03*
