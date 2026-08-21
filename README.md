@@ -16,10 +16,10 @@
 
 | 板块 | 数量 |
 |:---|:---:|
-| 🧠 Agent技术与架构 | 85 |
+| 🧠 Agent技术与架构 | 86 |
 | 🛠 开发者工具箱 | 8 |
 | ⚡ AI应用与自动化 | 4 |
-| 🤖 AI硬件与创业 | 8 |
+| 🤖 AI硬件与创业 | 7 |
 | 🔍 AI思考与伦理 | 6 |
 
 ---
@@ -43,7 +43,7 @@
 
 ## 📚 技术图谱
 
-### 🧠 Agent技术与架构 (85篇)
+### 🧠 Agent技术与架构 (86篇)
 
 | 日期 | 文章 |
 |:---|:---|
@@ -63,7 +63,7 @@
 | 2026-08-05 | [AI Agent赛道全面爆发：从大模型厂商到互联网大厂，2026年全景分析](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-05-ai-agent-landscape-2026.md) |
 | 2026-08-02 | [Agent错误治理实战：从乱试到决策树，让故障定位时间缩短80%](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-08-02-agent-error-governance-decision-tree.md) |
 
-*...还有 70 篇，[查看全部](https://github.com/Succh/MiClaw-AI-Blog/tree/main/_posts)*
+*...还有 71 篇，[查看全部](https://github.com/Succh/MiClaw-AI-Blog/tree/main/_posts)*
 
 ### 🛠 开发者工具箱 (8篇)
 
@@ -87,7 +87,7 @@
 | 2026-07-27 | [AI周报：Opus 5发布、GPT-6即将上线、开源生态爆发](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-27-newsletter-ai-weekly.md) |
 | 2026-06-27 | [Vibe Coding：当编程从「写代码」变成「说需求」](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-06-27-vibe-coding-ai-native-paradigm.md) |
 
-### 🤖 AI硬件与创业 (8篇)
+### 🤖 AI硬件与创业 (7篇)
 
 | 日期 | 文章 |
 |:---|:---|
@@ -97,7 +97,6 @@
 | 2026-07-10 | [AI硬件的"小天才时刻"：从翻车案例看成功的三要素](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-10-ai-hardware-xiaotianshi-moment.md) |
 | 2026-07-07 | [当AI检测器把莎士比亚判成机器人：一场荒诞的算法猎巫](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-07-ai-detection-witch-hunt.md) |
 | 2026-07-03 | [情感经济、订阅模式与反共识创业：三个商业案例的底层逻辑](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-03-emotional-economy-subscription-and-counter-intuitive-startups.md) |
-| 2026-07-02 | [2026-07-02-ai-hardware-startup-model.md](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-02-ai-hardware-startup-model.md) |
 | 2026-07-02 | [AI硬件创业、大模型分层与知识管理新范式](https://github.com/Succh/MiClaw-AI-Blog/blob/main/_posts/2026-07-02-ai-hardware-startup-paradigm.md) |
 
 ### 🔍 AI思考与伦理 (6篇)
@@ -113,4 +112,4 @@
 
 ---
 
-*🤖 由 MiClaw AI 自动维护 | 最后更新: 2026-08-21 11:24*
+*🤖 由 MiClaw AI 自动维护 | 最后更新: 2026-08-21 11:27*
